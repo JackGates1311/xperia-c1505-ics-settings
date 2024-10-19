@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gui_ok_txt">OKEH</string>
+    <string name="master_reset_gesture_prompt">Gambar pola muka konci</string>
+    <string name="wifi_reconnect">Sambung deui</string>
+    <string name="wifi_connected_limited">Konektipitas diwatesan</string>
+    <string name="wifi_connected_limited_with_ssid">Nyambung ka %1$s make samb. nu diwates</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="date_time_set_timezone">Pilih zoneu waktu</string>
+    <string name="zone_list_menu_sort_by_timezone">Urutkeun nganggo zoneu waktu</string>
+    <string name="lockpassword_pin_recently_used">Teu bisa ngarobah ka PIN nu kungsi dipake</string>
+    <string name="lockpassword_password_recently_used">Teu bisa dirobah ka kecap akses nu kungsi dipake</string>
+    <string name="wifi_connect">Sambg</string>
+    <string name="alarm_volume_title">Alarem</string>
+    <string name="brightness">Pancahayaan</string>
+    <string name="brightness_summary">Ditanagaan ku WhiteMagic™</string>
+    <string name="build_number">Jadikeun angka</string>
+    <string name="apn_auth_type">Jinis autentikasi</string>
+    <string name="call_settings_summary">Setelan voicemail, neraskeun telpon, antosan telpon, ID nu nelpon</string>
+    <string name="assisted_gps_enabled">Panglad. jang ngarojong GPS (pupus contreng jang ngurang pmk jaringan)</string>
+    <string name="lockpassword_confirm_your_password_header">Asupkeun kecap akses sakali deui jang ngonpirmasi</string>
+    <string name="lockpassword_confirm_your_pin_header">Asupkeun PIN sakali deui jang ngonpirmasi</string>
+    <string name="uninstall_text">Bongkr pmsngn</string>
+    <string name="show_running_services">Tempo ladenan aktip</string>
+    <string name="usage_type_wake_lock">Terus hurung</string>
+    <string name="usage_type_data_send">Data dikirim</string>
+    <string name="usage_type_data_recv">Data ditampa</string>
+    <string name="usage_type_no_coverage">Wkt euweuh sinyal</string>
+    <string name="use_default_tts_settings_title">Pake terus setelan abdi</string>
+</resources>

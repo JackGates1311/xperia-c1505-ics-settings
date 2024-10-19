@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Instalo certifikatat e WLAN-t</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Menaxhoni WLAN, Bluetooth, mënyrën Në avion, rrjetet celulare dhe VPN-të</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Aktivizo WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">"Cilësimet e WLAN "</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Duke aktivizuar WLAN</string>
+    <string name="wifi_stopping">Duke çaktivizuar WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">Mos përdor një rrjet WLAN nëse nuk ka lidhje të mirë interneti.</string>
+    <string name="wifi_setting_sleep_policy_title">Mbaj WLAN aktiv gjatë gjendjes në gjumë</string>
+    <string name="wifi_access_points">Rrjetet WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Aktivizoni WLAN, për të parë rrjetet e disponueshme.</string>
+    <string name="wifi_disabled_help">Rrjeti u shmang për shkak të lidhjes së dobët. Çkativizojeni këtë sjellje nga Cilësimet > Ekrani WLAN, objekti i menysë Të përparuara.</string>
+    <string name="wifi_wps_overlap_error">U zbulua një tjetër sesion i mbrojtur WLAN. Provojeni përsëri pas disa minutash.</string>
+    <string name="wifi_advanced_titlebar">WLAN i përparuar</string>
+    <string name="wifi_setting_frequency_band_title">Brezi i frekuencave WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Konfigurimi i WLAN të mbrojtur</string>
+    <string name="wifi_tether_checkbox_text">Pikë aktive WLAN e lëvizshme</string>
+    <string name="wifi_tether_failed_subtext">Gabim i pikës aktive WLAN të lëvizshme</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguro pikën aktive WLAN</string>
+    <string name="wifi_tether_configure_subtext">Pika aktive WLAN e lëvizshme %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Adresa MAC e WLAN</string>
+    <string name="location_neighborhood_level">Lejoni aplikacionet të përdorin të dhëna nga burime si rrjetet WLAN dhe celulare për të përcaktuar vendndodhjen tuaj të përafërt</string>
+    <string name="location_neighborhood_level_wifi">Vendndodhja u përcaktua nga WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Koha e aktivizimit të WLAN</string>
+    <string name="bluetooth_on_time">Koha e aktivizimit të WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">"Ekzekutimi i WLAN "</string>
+    <string name="battery_action_wifi">Cilësimet e WLAN</string>
+    <string name="battery_desc_wifi">Bateria e përdorur nga WLAN</string>
+    <string name="battery_sugg_wifi">Çaktivizoni WLAN kur nuk e përdorni ose kur nuk është i disponueshëm</string>
+    <string name="gadget_toggle_wifi">Duke përditësuar cilësimin e WLAN</string>
+    <string name="backup_data_summary">Krijoni kopje rezervë të të dhënave të aplikacionit, të fjalëkalimeve të WLAN dhe të cilësime të tjera në serverët e Google</string>
+    <string name="backup_erase_dialog_message">"Të ndalohet krijimi i kopjeve rezervë të fjalëkalimeve të WLAN, kujtesoreve, cilësimeve të tjera dhe të dhënave të aplikacioneve tuaja, si edhe të fshihen të gjitha kopjet në serverët e Google? "</string>
+    <string name="wifi_setup_title">Konfigurimi i WLAN</string>
+    <string name="wifi_setup_title_editing_network">Lidhu me rrjetin WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Duke u lidhur me rrjetin WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">U lidh me rrjetin WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Nuk mund të konfiguroni një rrjet WLAN EAP gjatë konfigurimit. Pas konfigurimit, mund ta bëni këtë te Cilësimet > Rrjetet pa tel.</string>
+    <string name="wifi_setup_description_connected">Prekni <b>Tjetër</b>" për të vazhduar me konfigurimin.
+
+Prekni "<b>Kthehu</b>" për t'u lidhur me një rrjet tjetër WLAN."</string>
+    <string name="data_usage_menu_show_wifi">Afisho përdorimin e WLAN</string>
+    <string name="data_usage_disable_wifi_limit">"Cilëso kufirin e të dhënave WLAN "</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Çaktivizoni të dhënat në sfond vetëm në rrjetin e të dhënave celulare. WLAN do të përdoret nëse disponohet.</string>
+    <string name="data_usage_app_restrict_dialog">"Ky tipar mund të bëhet shkak që një aplikacion që varet nga të dhënat në sfond të mos funksionojë kur WLAN nuk është i disponueshëm.
+
+Mund të gjeni kontrolle më të përshtatshme për përdorimin e dhënave në cilësimet e disponueshme brenda aplikacionit."</string>
+    <string name="data_usage_restrict_background">Nëse kufizoni të dhënat celulare në sfond, disa aplikacione dhe shërbime nuk do të punojnë nëse nuk jeni lidhur me një rrjet WLAN.</string>
+</resources>

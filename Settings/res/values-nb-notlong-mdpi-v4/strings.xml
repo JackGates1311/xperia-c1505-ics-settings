@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockpassword_pin_recently_used">Kan ikke endre til en nylig brukt PIN-kode</string>
+    <string name="lockpassword_password_recently_used">Kan ikke endre til et nylig brukt passord</string>
+    <string name="brightness_summary">Levert av WhiteMagic™</string>
+    <string name="sim_change_pin">SIM-kode for PIN-kort</string>
+    <string name="allow_mock_location">Tillat uekte steder</string>
+    <string name="widget_picker_title">Velg programsnutt</string>
+    <string name="usage_type_cpu_foreground">CPU i forgrunn.</string>
+</resources>

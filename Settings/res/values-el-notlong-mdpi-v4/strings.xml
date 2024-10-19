@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_summary">Αλλαγή του θέματος και της ταπετσαρίας στο τηλέφωνο</string>
+    <string name="summary_install_wapi_certs">Εγκατάσταση πιστοποιητικών από εσωτερικό χώρο αποθήκευσης</string>
+    <string name="master_reset_summary">Επαναφέρει το τηλ. στις αρχικές ρυθμ. χωρίς να διαγράψει τα δεδομένα χρήστη</string>
+    <string name="master_reset_desc">"Αυτή η ενέργεια θα επαναφέρει όλες τις ρυθμίσεις του τηλεφώνου σας, μεταξύ των οποίων και τις:
+"<li>Ρυθμίσεις συστήματος τηλεφώνου</li>"
+"<li>Ρυθμίσεις εφαρμογών σε πακέτο</li>"
+Δεν θα διαγραφούν:
+"<li>Ρυθμίσεις καθορισμένες από το χρήστη</li>"
+"<li>Εγκατεστημένες εφαρμογές</li>"
+"<li>Αρχεία στον εσωτερικό χώρο αποθήκευσης ή/και στην κάρτα SD, όπως μουσική ή φωτογραφίες</li></string>
+    <string name="master_reset_button_text">Επαναφ. τηλεφ.</string>
+    <string name="master_reset_final_desc">Να γίνει επαναφορά των ρυθμίσεων τηλεφώνου στις αρχικές τιμές; Η αναίρεση αυτής της ενέργειας δεν είναι δυνατή! Το τηλέφωνο δεν θα είναι διαθέσιμο κατά τη διάρκεια της επαναφοράς.</string>
+    <string name="master_reset_final_button_text">Ρυθμ. επαναφ.</string>
+    <string name="master_reset_gesture_explanation">Πρέπει να σχεδ. το μοτίβο ξεκλ. για την επιβεβ.επαναφ.τηλεφ.</string>
+    <string name="wifi_connected_limited_with_ssid">Σύνδεση με %1$s με περιορ. συνδεσιμότητα</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Ενεργ.χώρ.μαζ.απ.USB</string>
+    <string name="date_time_date_format">Επιλ. μορφής ημερομ.</string>
+    <string name="security_settings_summary">Ορισμός της τοποθεσίας μου, του ξεκλειδ οθόνης, του κλειδώμ. κάρτας SIM, του κλειδώμ. αποθηκευτικού χώρου διαπιστευτηρίων</string>
+    <string name="lockpassword_pin_recently_used">Δεν είναι δυνατή η αλλαγή σε PIN που χρησιμοπ. πρόσφατα</string>
+    <string name="lockpassword_password_requires_alpha">O κωδ. πρόσβ. πρέπει να περιέχει τουλάχιστον ένα γράμμα</string>
+    <string name="lockpassword_password_recently_used">Δεν είναι δυν.η αλλ. κωδ. πρόσβ. σε κωδ. που χρησ. πρόσφατα</string>
+    <string name="wifi_connect">Σύνδ.</string>
+    <string name="notification_pulse_title">Παλμ. φωτεινής ένδ.ειδοπ.</string>
+    <string name="audio_record_proc_title">Εξουδετ. θορύβου</string>
+    <string name="brightness_summary">Με την υποστήριξη του WhiteMagic™</string>
+    <string name="status_up_time">Χρόνος από τελευτ. εκκίν.</string>
+    <string name="call_settings_summary">Ορισμ.αυτόμ.τηλεφ., προώθ.κλήσης, αναμ.κλήσης, αναγν.κλήσ.</string>
+    <string name="usb_tethering_available_subtext">To USB είναι συνδεδεμένο, επιλέξτε για σύνδεση μέσω κινητής συσκευής</string>
+    <string name="network_settings_title">Δίκτυα κινητής τηλεφωνίας</string>
+    <string name="assisted_gps_enabled">Χρήση διακ.για βοήθ.του GPS (αποεπ.για μείωση της χρήσης δικτ.)</string>
+    <string name="lockpassword_confirm_your_password_header">Εισαγάγετε ξανά τον κωδικό πρόσβασής σας για επιβεβαίωση</string>
+    <string name="lockpassword_confirm_your_pin_header">Εισαγάγετε ξανά το PIN σας για επιβεβαίωση</string>
+    <string name="lockpattern_retry_button_text">Επανάληψη</string>
+    <string name="uninstall_text">Κατάργ. εγκατ.</string>
+    <string name="filter_apps_running">Σε εκτ.</string>
+    <string name="keep_screen_on">Σε καν. κατάστ. λειτ.</string>
+    <string name="allow_mock_location">Να επιτρ.ψευδ. τοποθ.</string>
+    <string name="usage_type_data_send">Σταλ. δεδομ.</string>
+    <string name="usage_type_data_recv">Ληφθ. δεδομ.</string>
+    <string name="usage_type_no_coverage">Ώρα χωρίς σήμα</string>
+    <string name="tts_settings">Ρυθμ. μετατ. κειμ.σε ομιλία</string>
+    <string name="use_default_tts_settings_title">Χρήση ρυθμ. μου πάντα</string>
+    <string name="tts_default_synth_summary">Ρυθμ. τη μηχανή σύνθεσης ομιλίας για χρήση σε κείμενο που εκφέρεται</string>
+    <string name="backup_data_title">Δημ. αντ.ασφ.για τα δεδ.μου</string>
+    <string name="remove_device_admin">Απενεργοπ.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Emmag. intern disp.</item>
+        <item>Targeta SD extraïble</item>
+        <item>Decideix el sistema</item>
+    </string-array>
+</resources>

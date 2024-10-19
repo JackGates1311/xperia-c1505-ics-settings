@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Ο κωδικός πρόσβασης πρέπει να έχει τουλάχιστον %d γράμματα</item>
+        <item quantity="one">Ο κωδικός πρόσβασης πρέπει να έχει τουλάχιστον 1 χαρακτήρα</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχιστον %d πεζά γράμματα</item>
+        <item quantity="one">Ο κωδ. πρόσβασης πρέπει να έχει τουλάχιστον 1 πεζό γράμμα</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχ. %d κεφαλαία γράμματα</item>
+        <item quantity="one">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχ. 1 κεφαλαίο γράμμα</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχ. %d αριθμητικά ψηφία</item>
+        <item quantity="one">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχιστον 1 αριθμητικό ψηφίο</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχιστον %d ειδικά σύμβολα</item>
+        <item quantity="one">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχιστον 1 ειδικό σύμβολο</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχ. %d χαρακτ. εκτός γράμμ.</item>
+        <item quantity="one">Ο κωδ. πρόσβ. πρέπει να έχει τουλάχ. 1 χαρακτ. εκτός γράμμ.</item>
+    </plurals>
+</resources>

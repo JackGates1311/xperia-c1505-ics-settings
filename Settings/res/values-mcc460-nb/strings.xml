@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Installere WLAN-sertifikater</string>
+    <string name="wifi_security_wapi_psk">WLAN-PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN-sertifikat</string>
+    <string name="radio_controls_summary">Administrer WLAN, Bluetooth, flymodus, mobilnettverk og VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Slå på WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Innstillinger for WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Slår på WLAN</string>
+    <string name="wifi_stopping">Slår av WLAN …</string>
+    <string name="wifi_enable_watchdog_service_summary">Ikke bruk et WLAN-nettverk med mindre det har en god Internett-forbindelse</string>
+    <string name="wifi_setting_sleep_policy_title">La WLAN være på i dvalemodus</string>
+    <string name="wifi_access_points">WLAN-nettverk</string>
+    <string name="wifi_empty_list_wifi_off">Slå på WLAN for å se tilgjengelige nettverk.</string>
+    <string name="wifi_disabled_help">Nettverket ble unngått på grunn av dårlig forbindelse. Slå av denne atferden fra menyen Avansert under Innstillinger og så WLAN.</string>
+    <string name="wifi_wps_overlap_error">En annen WLAN-beskyttet økt ble oppdaget. Prøv på nytt om noen minutter.</string>
+    <string name="wifi_advanced_titlebar">Avansert WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvensbånd for WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">Beskyttet WLAN-konfigurering</string>
+    <string name="wifi_tether_checkbox_text">Flyttbar WLAN-sone</string>
+    <string name="wifi_tether_failed_subtext">Feil ved flyttbar WLAN-sone</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurer WLAN-sone</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s flyttbar WLAN-sone</string>
+    <string name="status_wifi_mac_address">WLAN MAC-adresse</string>
+    <string name="location_neighborhood_level">Gi programmer tillatelse til å bruke data fra kilder som WLAN-nettverk og mobile nettverk til å fastslå den omtrentlige posisjonen din</string>
+    <string name="location_neighborhood_level_wifi">Posisjon bestemmes av WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Tid WLAN har vært aktivt</string>
+    <string name="bluetooth_on_time">Tid WLAN har vært aktiv</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN kjører</string>
+    <string name="battery_action_wifi">WLAN-innstillinger</string>
+    <string name="battery_desc_wifi">Batteri brukt av WLAN</string>
+    <string name="battery_sugg_wifi">Slå av WLAN når du ikke bruker det, eller når det ikke er tilgjengelig</string>
+    <string name="gadget_toggle_wifi">Oppdaterer WLAN-innstilling</string>
+    <string name="backup_data_summary">Sikkerhetskopier programdata, WLAN-passord og andre innstillinger til Googles servere</string>
+    <string name="backup_erase_dialog_message">Vil du stoppe sikkerhetskopiering av WLAN-passord, bokmerker, andre innstillinger og programdata samt slette alle kopier på Googles servere?</string>
+    <string name="wifi_setup_title">WLAN-oppsett</string>
+    <string name="wifi_setup_title_editing_network">Koble til WLAN-nettverket %s</string>
+    <string name="wifi_setup_title_connecting_network">Kobler til WLAN-nettverket %s …</string>
+    <string name="wifi_setup_title_connected_network">Koblet til WLAN-nettverket %s</string>
+    <string name="wifi_setup_eap_not_supported">Du kan ikke konfigurere en EAP WLAN-tilkobling under konfigurering. Etter konfigureringen kan dette gjøres i Trådløst og nettverk under Innstillinger.</string>
+    <string name="wifi_setup_description_connected">Berør <b>Neste</b>" for å fortsette konfigureringen.
+
+Berør "<b>Tilbake</b> for å koble til et annet WLAN-nettverk.</string>
+    <string name="data_usage_menu_show_wifi">Vis WLAN-bruk</string>
+    <string name="data_usage_disable_wifi_limit">Angi datagrense for WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Slå av bakgrunnsdata bare på mobile datanettverk. WLAN brukes hvis det er tilgjengelig.</string>
+    <string name="data_usage_app_restrict_dialog">"Denne funksjonen kan føre til at et program som avhenger av bakgrunnsdata, slutter å fungere når WLAN ikke er tilgjengelig.
+
+Du kan finne mer passende databrukkontroller i innstillingene som er tilgjengelige i programmet."</string>
+    <string name="data_usage_restrict_background">Hvis du begrenser mobildata i bakgrunnen, fungerer ikke enkelte programmer og tjenester med mindre du er koblet til et WLAN-nettverk.</string>
+</resources>

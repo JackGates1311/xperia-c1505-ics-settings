@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres</item>
+        <item quantity="one">La contrasenya ha de contenir almenys una lletra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres en minúscules</item>
+        <item quantity="one">La contrasenya ha de contenir almenys una lletra en minúscules</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres en majúscules</item>
+        <item quantity="one">La contrasenya ha de contenir almenys una lletra en majúscules</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La contrasenya ha de contenir almenys %d dígits numèrics</item>
+        <item quantity="one">La contrasenya ha contenir almenys un dígit numèric</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La contrasenya ha de contenir almenys %d símbols especials</item>
+        <item quantity="one">La contrasenya ha de contenir almenys un símbol especial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contrasenya ha de contenir almenys %d caràcters que no siguin lletres</item>
+        <item quantity="one">La contrasenya ha de contenir almenys un caràcter que no sigui una lletra</item>
+    </plurals>
+</resources>

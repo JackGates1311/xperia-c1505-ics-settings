@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Установить сертиф. WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Управление WLAN, Bluetooth, режимом полета, мобильными сетями и VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Включить WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Параметры WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Включение WLAN</string>
+    <string name="wifi_stopping">"Выключение WLAN "</string>
+    <string name="wifi_enable_watchdog_service_summary">Использовать сеть WLAN только при устойчивом подключении к Интернету</string>
+    <string name="wifi_setting_sleep_policy_title">Не выключать WLAN в спящем режиме</string>
+    <string name="wifi_access_points">Сети WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите WLAN.</string>
+    <string name="wifi_disabled_help">Сеть отклонена из-за неустойчивого подключения. Чтобы этого не происходило, выберите \"Параметры\" > \"Экран WLAN, расширенные параметры\".</string>
+    <string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс WLAN. Повторите попытку через несколько минут.</string>
+    <string name="wifi_advanced_titlebar">Расширенные параметры WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Частота WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">Настройка защиты WLAN</string>
+    <string name="wifi_tether_checkbox_text">Портативная зона доступа WLAN</string>
+    <string name="wifi_tether_failed_subtext">Ошибка портативной зоны доступа WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Настроить зону доступа WLAN</string>
+    <string name="wifi_tether_configure_subtext">Портативная зона доступа WLAN %1$s %2$s</string>
+    <string name="status_wifi_mac_address">МАС-адрес для сети WLAN</string>
+    <string name="tether_settings_title_wifi">Точка доступа WLAN</string>
+    <string name="location_neighborhood_level">Разрешите приложениям использовать WLAN и мобильные сети для приблизительного определения вашего местоположения</string>
+    <string name="location_neighborhood_level_wifi">Местоположение определено по WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Время работы WLAN</string>
+    <string name="bluetooth_on_time">Время работы WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Время работы WLAN</string>
+    <string name="battery_action_wifi">Параметры WLAN</string>
+    <string name="battery_desc_wifi">Использование аккумулятора модулем WLAN</string>
+    <string name="battery_sugg_wifi">Выключите модуль WLAN, если он не используется или сеть недоступна</string>
+    <string name="gadget_toggle_wifi">Обновление параметров WLAN</string>
+    <string name="backup_data_summary">Создать резервную копию данных приложений, паролей WLAN и других параметров на серверах Google</string>
+    <string name="backup_erase_dialog_message">Остановить резервное копирование паролей WLAN, закладок, других параметров и данных приложений, а также удалить все резервные копии с серверов Google?</string>
+    <string name="wifi_setup_title">Настройка WLAN</string>
+    <string name="wifi_setup_title_editing_network">Подключение к сети WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Подключение к сети WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Подключено к сети WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети WLAN с защитой EAP. Вы можете сделать это позже в меню \"Настройки\" > \"Беспроводные подключения и сети\".</string>
+    <string name="wifi_setup_description_connected">Чтобы продолжить установку, коснитесь <b>Далее</b>".
+
+Чтобы подключиться к другой сети WLAN, коснитесь "<b>Назад</b>.</string>
+    <string name="data_usage_menu_show_wifi">Показывать использование WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Установить ограничение данных WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Выключить передачу данных в фоновом режиме только для мобильных сетей (использовать WLAN).</string>
+    <string name="data_usage_app_restrict_dialog">"Если нет доступа к WLAN, эта функция может остановить приложение, использующее передачу данных в фоновом режиме.
+
+Более подходящие средства управления передачей данных можно найти в параметрах приложения."</string>
+    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме по мобильной сети, некоторые приложения и службы не будут работать без подключения к сети WLAN.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">從內部大量儲存裝置安裝憑證</string>
+    <string name="master_reset_desc">"此操作將會重設手機中的所有設定，包括：
+"<li>手機系統設定</li>"
+"<li>搭售應用程式設定</li>"
+此操作將不會刪除：
+"<li>使用者指定的設定</li>"
+"<li>已安裝的應用程式</li>"
+"<li>內部儲存裝置和/或SD卡中的檔案，例如音樂或相片</li></string>
+    <string name="wifi_reconnect">重新連線</string>
+    <string name="wifi_connected_limited">有限的連線能力</string>
+    <string name="wifi_connected_limited_with_ssid">已經以有限的連線能力連線至%1$s</string>
+    <string name="airplane_mode">通訊關閉模式</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="lockpassword_pin_recently_used">無法變更為最近使用的PIN</string>
+    <string name="lockpassword_password_recently_used">無法變更為最近使用的密碼</string>
+    <string name="sync_settings">帳戶與同步處理</string>
+    <string name="brightness_summary">WhiteMagic™提供</string>
+    <string name="sim_pin_change">變更 SIM PIN</string>
+    <string name="sim_enter_pin">SIM PIN</string>
+    <string name="sim_enter_old">舊的 SIM PIN</string>
+    <string name="sim_enter_new">新增 SIM PIN</string>
+    <string name="sim_reenter_new">重新輸入新的 PIN</string>
+    <string name="sim_change_pin">SIM PIN</string>
+    <string name="sim_change_succeeded">成功變更 SIM PIN</string>
+    <string name="lockpassword_choose_your_pin_header">選擇您的 PIN</string>
+    <string name="lockpassword_confirm_your_password_header">再次輸入您的密碼進行確認</string>
+    <string name="lockpassword_confirm_your_pin_header">再次輸入您的PIN碼進行確認</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN 不符</string>
+    <string name="lockpassword_pin_set_toast">已設定 PIN</string>
+    <string name="lockpattern_change_lock_pin_label">變更解鎖 PIN</string>
+    <string name="enable_adb">USB 偵錯</string>
+    <string name="adb_warning_title">允許 USB 偵錯嗎？</string>
+    <string name="usage_type_cpu_foreground">CPU前端使用</string>
+</resources>

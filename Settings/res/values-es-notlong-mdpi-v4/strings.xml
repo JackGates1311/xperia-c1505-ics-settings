@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Reinicie teléfon</string>
+    <string name="master_reset_final_button_text">Restab ajustes</string>
+    <string name="master_reset_cancel">Se canceló el restablecimiento a valores de fábrica. Modo de vuelo sin encender.</string>
+    <string name="wifi_connected_limited_with_ssid">Conect a %1$s conectiv limit</string>
+    <string name="lockpassword_pin_recently_used">No puede cambiar a un PIN recientemente utilizado</string>
+    <string name="lockpassword_password_recently_used">No puede cambiar a contraseña recientemente utilizada</string>
+    <string name="wifi_menu_scan">Explorar</string>
+    <string name="wifi_connect">Conecta</string>
+    <string name="accelerometer_title">Rotar automáticamente</string>
+    <string name="brightness_summary">Impulsado por WhiteMagic™</string>
+    <string name="menu_restore">Restablecer a predet</string>
+    <string name="call_settings_summary">Configura mensajería voz, desvío llam, llamada espera, identificador llamadas</string>
+    <string name="assisted_gps_enabled">Utilizar servidor p/asistir GPS (anular selección p/reducir uso de red)</string>
+    <string name="filter_apps_running">Ejecutand</string>
+    <string name="usage_type_cpu_foreground">Prim plano CPU</string>
+    <string name="usage_type_wake_lock">"Mant en func "</string>
+    <string name="usage_type_data_send">Datos enviad</string>
+    <string name="usage_type_data_recv">Datos recibid</string>
+    <string name="usage_type_on_time">Hora encendido</string>
+    <string name="tts_default_synth_summary">Configura el motor de síntesis de voz para utilizarse en textos hablados.</string>
+    <string name="select_device_admin_msg">Administradores dispositivo</string>
+</resources>

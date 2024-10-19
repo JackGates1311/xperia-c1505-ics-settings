@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN-certificaten install.</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">"WLAN, Bluetooth, vliegmodus, mobiele netwerken en VPN's beheren"</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN inschakelen</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-instellingen</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN inschakelen...</string>
+    <string name="wifi_stopping">WLAN uitschakelen...</string>
+    <string name="wifi_enable_watchdog_service_summary">WLAN-netwerk niet gebruiken, tenzij dit een goede internetverbinding heeft</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN behouden in slaapstand</string>
+    <string name="wifi_access_points">WLAN-netwerken</string>
+    <string name="wifi_empty_list_wifi_off">Schakel WLAN in om beschikbare netwerken te bekijken.</string>
+    <string name="wifi_disabled_help">Het netwerk is vermeden wegens een slechte verbinding. Schakel dit gedrag uit via Instellingen > het scherm WLAN en de optie Geavanceerd.</string>
+    <string name="wifi_wps_overlap_error">Er is nog een WLAN Protected-sessie gedetecteerd. Probeer het over een paar minuten opnieuw.</string>
+    <string name="wifi_advanced_titlebar">Geavanceerde WLAN-instellingen</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-frequentieband</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN Protected Setup</string>
+    <string name="wifi_tether_checkbox_text">Mobiele WLAN-hotspot</string>
+    <string name="wifi_tether_failed_subtext">Fout met mobiele WLAN-hotspot</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-hotspot configureren</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s mobiele WLAN-hotspot</string>
+    <string name="status_wifi_mac_address">WLAN-MAC-adres</string>
+    <string name="location_neighborhood_level">Apps data laten gebruiken uit bronnen zoals mobiele en WLAN-netwerken om uw locatie te schatten</string>
+    <string name="location_neighborhood_level_wifi">Locatie wordt bepaald via WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Tijd WLAN aan</string>
+    <string name="bluetooth_on_time">Tijd WLAN aan</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN is actief</string>
+    <string name="battery_action_wifi">WLAN-instellingen</string>
+    <string name="battery_desc_wifi">Batterij gebruikt door WLAN</string>
+    <string name="battery_sugg_wifi">WLAN uitschakelen wanneer u dit niet gebruikt of wanneer dit niet beschikbaar is</string>
+    <string name="gadget_toggle_wifi">WLAN-instelling bijwerken</string>
+    <string name="backup_data_summary">Op de servers van Google back-ups maken voor appdata, WLAN-wachtwoorden en andere instellingen</string>
+    <string name="backup_erase_dialog_message">Weet u zeker dat u het maken van back-ups van uw WLAN-wachtwoorden, favorieten, andere instellingen en appdata wilt stoppen en alle kopieën op Google-servers wilt wissen?</string>
+    <string name="wifi_setup_title">WLAN-instelling</string>
+    <string name="wifi_setup_title_editing_network">Verbinding maken met WLAN-netwerk %s</string>
+    <string name="wifi_setup_title_connecting_network">Verbinding maken met WLAN-netwerk %s...</string>
+    <string name="wifi_setup_title_connected_network">Verbonden met WLAN-netwerk %s</string>
+    <string name="wifi_setup_eap_not_supported">U kunt een WLAN-verbinding van het type EAP niet configureren tijdens het instellen. U kunt dit na het instellen doen via Instellingen > Draadloos en netwerken.</string>
+    <string name="wifi_setup_description_connected">Raak <b>Volgende</b>" aan om door te gaan met de configuratie.
+
+Raak "<b>Vorige</b> aan om verbinding te maken met een ander WLAN-netwerk.</string>
+    <string name="data_usage_menu_show_wifi">WLAN-gebruik weergeven</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-datalimiet instellen</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Alleen achtergronddata in mobiel datanetwerk uitschakelen. WLAN wordt gebruikt, indien beschikbaar.</string>
+    <string name="data_usage_app_restrict_dialog">"Deze functie kan ervoor zorgen dat een app die afhankelijk is van achtergronddata niet meer werkt wanneer WLAN niet beschikbaar is.
+
+U kunt in de instellingen van de app meer instellingen voor datagebruik vinden."</string>
+    <string name="data_usage_restrict_background">Als u het gebruik van mobiele achtergronddata beperkt, werken sommige apps en services niet, tenzij u bent verbonden met een WLAN-netwerk.</string>
+</resources>

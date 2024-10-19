@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Reiniciar teléfono</string>
+    <string name="master_reset_final_button_text">Restablecer ajustes</string>
+    <string name="sms_counter_widget_maximum_count_left_txt">%d</string>
+    <string name="sms_counter_widget_maximum_txt">Restantes:</string>
+    <string name="sms_counter_widget_total_txt">Enviados:</string>
+    <string name="backup_data_title">Respaldar mis datos</string>
+</resources>

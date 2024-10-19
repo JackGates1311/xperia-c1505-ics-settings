@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_info_txt">Размисл. за чување на одгов. на безб. место во случај да го заборавите.</string>
+    <string name="master_reset_button_text">Ресет. го тел.</string>
+    <string name="master_reset_final_button_text">Ресет. постав.</string>
+    <string name="master_reset_gesture_prompt">Нацрт. го својот шабл. за откл.</string>
+    <string name="master_reset_gesture_explanation">Мора да го нацрт. шаблонот за отклуч. за да потв. ресет. на тел.</string>
+    <string name="wifi_reconnect">Повторно поврзи</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Не може да се промени на неодамна користен PIN</string>
+    <string name="lockpassword_password_recently_used">Не може да се промени на неодамна користена лозинка</string>
+    <string name="checkbox_notification_same_as_incoming_call">За извест. користи ја јачината на звукот на дојдовн. повик</string>
+    <string name="brightness_summary">Под водство на WhiteMagic™</string>
+    <string name="sim_enable_sim_lock">Заклучи SIM-картичка</string>
+    <string name="call_settings_summary">Постав. гов.пошта, пренас. повици, повик на чек., идент.на повикув.</string>
+    <string name="assisted_gps_enabled">Кор. сервер за потпом. GPS (откажи избор за намал. корис. на мреж.)</string>
+    <string name="assisted_gps_disabled">Кор. сервер за потпом. GPS (откажи избор за подобр. перформ. на GPS)</string>
+    <string name="lockpassword_confirm_your_pin_header">Внесете го својот PIN повторно за да потврдите</string>
+    <string name="usage_type_cpu_foreground">CPU - прв план</string>
+    <string name="usage_type_wake_lock">Задржи вклуч.</string>
+    <string name="usage_type_data_send">Исп. подат.</string>
+    <string name="usage_type_data_recv">Прим. подат.</string>
+    <string name="usage_type_on_time">Време на вкл.</string>
+    <string name="tts_default_synth_summary">Го поставува механ. за синтеза на говор. да се користи за изгов. текст</string>
+</resources>

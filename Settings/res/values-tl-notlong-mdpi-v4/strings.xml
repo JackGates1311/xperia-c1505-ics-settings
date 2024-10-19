@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">I-reset tlepono</string>
+    <string name="master_reset_gesture_explanation">Dapat guhit unlock pattern mo upang kumpirma reset telepono.</string>
+    <string name="wifi_reconnect">Muling kumonekta</string>
+    <string name="wifi_connected_limited">Limitadong pagkakakonekta</string>
+    <string name="wifi_connected_limited_with_ssid">Nakakonekta %1$s limitadong konekta</string>
+    <string name="bluetooth_notif_ticker">Hiling sa bluetooth na pagpapares</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Pagana USB mass stor.</string>
+    <string name="lockpassword_pin_recently_used">Hindi mabago sa kamakailang nagamit na PIN</string>
+    <string name="lockpassword_password_requires_alpha">Dapat na may kahit isang titik ang password</string>
+    <string name="lockpassword_password_recently_used">Hindi mabago sa kamakailang nagamit na password</string>
+    <string name="wifi_menu_modify">Baguhin ang network</string>
+    <string name="wifi_cancel">Kansela</string>
+    <string name="checkbox_notification_same_as_incoming_call">Gamitin ang lakasan ng papasok na tawag para sa abiso</string>
+    <string name="sync_settings">Mga account at sync</string>
+    <string name="accelerometer_title">I-auto-rotate ang screen</string>
+    <string name="brightness_summary">Pinapagana ng WhiteMagic™</string>
+    <string name="assisted_gps">Gamit tinulungan GPS</string>
+    <string name="assisted_gps_enabled">Gamitin server tulungan GPS (alisin check bawasan paggamit ng network)</string>
+    <string name="filter_apps_running">Tumatkbo</string>
+    <string name="app_install_location_title">Gustong lokasyon ng install</string>
+    <string name="allow_mock_location">Payagan kunwaring lok.</string>
+    <string name="usage_type_cpu">Kbuuan ng CPU</string>
+    <string name="usage_type_wake_lock">Mntiling gising</string>
+    <string name="usage_type_data_send">Npdlang data</string>
+    <string name="usage_type_data_recv">Ntgp na data</string>
+    <string name="usage_type_no_coverage">Oras ng wlang signal</string>
+    <string name="select_device_admin_msg">Mga administrator ng device</string>
+</resources>

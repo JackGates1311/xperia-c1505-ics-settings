@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Hizkiak ez diren gutxienez %d karaktere izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez hizkia ez den karaktere bat izan behar du</item>
+    </plurals>
+</resources>

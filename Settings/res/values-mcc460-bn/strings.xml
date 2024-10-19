@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN সার্টিফিকেটস সংস্থা. করুন</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, ব্লুটুথ, এয়ারপ্লেন মোড, মোবাইল নেটওয়ার্ক এবং VPNগুলি পরিচালনা করুন</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN চালু করুন</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN সেটিংস</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">"WLAN  চালু হচ্ছে"</string>
+    <string name="wifi_stopping">WLAN বন্ধ করা হচ্ছে</string>
+    <string name="wifi_enable_watchdog_service_summary">ভাল ইন্টারনেট সংযোগ না পেলে WLAN নেটওয়ার্ক ব্যবহার করবেন না</string>
+    <string name="wifi_setting_sleep_policy_title">নিদ্রার সময় WLAN চালু রাখুন</string>
+    <string name="wifi_access_points">WLAN নেটওয়ার্ক</string>
+    <string name="wifi_empty_list_wifi_off">উপলভ্য নেটওয়ার্কগুলি দেখতে WLAN চালু করুন৷</string>
+    <string name="wifi_disabled_help">দুর্বল সংযোগের জন্য নেটওয়ার্কটি এড়ানো হয়েছিল৷ এই আচরণটি সেটিংস > WLAN স্ক্রিন, অগ্রণী মেনু আইটেম থেকে বন্ধ করুন৷</string>
+    <string name="wifi_wps_overlap_error">আর একটি WLAN সুরক্ষিত সেশন সনাক্ত হয়েছিল৷ কয়েক মিনিটের মধ্যে আবার চেষ্টা করুন৷</string>
+    <string name="wifi_advanced_titlebar">অগ্রণী WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN ফ্রিকোয়েন্সি ব্যান্ড</string>
+    <string name="wifi_p2p_settings_title">WLAN সরাসরি</string>
+    <string name="wifi_p2p_wps_setup">WLAN সুরক্ষিত সেটআপ</string>
+    <string name="wifi_tether_checkbox_text">পোর্টেবল WLAN হটস্পট</string>
+    <string name="wifi_tether_failed_subtext">পোর্টেবল WLAN হটস্পট ত্রুটি</string>
+    <string name="wifi_tether_configure_ap_text">WLAN হটস্পট কনফিগার করুন</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s পোর্টেবল WLAN হটস্পট</string>
+    <string name="status_wifi_mac_address">WLAN MAC ঠিকানা</string>
+    <string name="location_neighborhood_level">আপনার আনুমানিক অবস্থান নির্ধারণ করতে অ্যাপ্লিকেশনকে WLAN এবং মোবাইল নেটওয়ার্কের মতো মাধ্যম থেকে ডেটা ব্যবহার করতে দিন</string>
+    <string name="location_neighborhood_level_wifi">WLAN দ্বারা নির্ধারিত অবস্থান</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">সময়ে WLAN</string>
+    <string name="bluetooth_on_time">সময়ে WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLANচলমান</string>
+    <string name="battery_action_wifi">WLAN সেটিং</string>
+    <string name="battery_desc_wifi">"WLAN'র দ্বারা খরচ হওয়া ব্যাটারি"</string>
+    <string name="battery_sugg_wifi">WLAN ব্যবহার না করলে বা উপলভ্য না থাকলে সেটিকে বন্ধ করে রাখুন</string>
+    <string name="gadget_toggle_wifi">WLAN সেটিং আপডেট করা হচ্ছে</string>
+    <string name="backup_data_summary">অ্যাপ্লিকেশন ডেটা, WLAN পাসওয়ার্ড, এবং অন্যান্য সেটিং Google সার্ভারে ব্যাক আপ নিয়ে রাখুন</string>
+    <string name="backup_erase_dialog_message">আপনার WLAN পাসওয়ার্ড, বুকমার্ক, অন্যান্য সেটিং, এবং অ্যাপ্লিকেশন ডেটার ব্যাক আপ নেওয়া থামানো সমেত Google সার্ভারে থাকা সমস্ত অনুলিপি মুছতে চান?</string>
+    <string name="wifi_setup_title">WLAN সেটআপ</string>
+    <string name="wifi_setup_title_editing_network">WLAN নেটওয়ার্কের সংযুক্ত করুন %s</string>
+    <string name="wifi_setup_title_connecting_network">WLAN নেটওয়ার্ক %sএর সাথে সংযোগ হচ্ছে…</string>
+    <string name="wifi_setup_title_connected_network">WLAN নেটওয়ার্ক %s এর সাথে সংযুক্ত</string>
+    <string name="wifi_setup_eap_not_supported">সেটআপের সময় আপনি কোনো EAP WLAN সংযোগ কনফিগার করতে পারবেন না৷ সেট আপের পরে আপনি তা সেটিংস > ওয়্যারলেস ও নেটওয়ার্কগুলিতে তা করতে পারেন৷</string>
+    <string name="wifi_setup_description_connected">সেট আপ চালিয়ে যেতে <b>পরবর্তী</b> স্পর্শ করুন৷একটি পৃথক WLAN নেটওয়ার্কে সংযোগ করতে <b>ফিরুন</b> স্পর্শ করুন৷</string>
+    <string name="data_usage_menu_show_wifi">WLAN ব্যবহার দেখান</string>
+    <string name="data_usage_disable_wifi_limit">WLAN ডেটা সীমা সেট করুন</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">ব্যাকগ্রাউন্ড ডেটা শুধুমাত্র মোবাইল ডেটা নেটওয়ার্কে অক্ষম করুন৷ WLAN উপলভ্য থাকলে ব্যবহৃত হবে৷</string>
+    <string name="data_usage_app_restrict_dialog">"WLAN উপলভ্য না থাকলে, এই বৈশিষ্ট্যটি ব্যাকগ্রাউন্ড ডেটার উপরে নির্ভরশীল কোন অ্যাপ্লিকেশনের কাজ করা থামিতে দিতে পারে৷
+
+অ্যাপ্লিকেশনের মধ্যে উপলভ্য সেটিঙে আপনি আরও যথায্থ ডেটা ব্যবহার নিয়ন্ত্রণ পেতে পারেন৷"</string>
+    <string name="data_usage_restrict_background">আপনি ব্যাকগ্রাউন্ড মোবাইল ডেটা সীমাবদ্ধ করলে, আপনি কোন WLAN নেটওয়ার্কের সাথে সংযুক্ত না থাকলে কিছু অ্যাপ্লিকেশন এবং পরিষেবা কাজ করবে না৷</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Instalēt WLAN sertifikātus</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Pārvaldīt WLAN, Bluetooth, lidmašīnas režīmu, mobilos tīklus un VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Ieslēgt WLAN savienojumu</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN iestatījumi</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Notiek WLAN savienojuma ieslēgšana...</string>
+    <string name="wifi_stopping">Notiek WLAN savienojuma izslēgšana…</string>
+    <string name="wifi_enable_watchdog_service_summary">Nelietot WLAN tīklu, ja vien tas nenodrošina labu interneta savienojumu</string>
+    <string name="wifi_setting_sleep_policy_title">Neizslēgt WLAN miega režīmā</string>
+    <string name="wifi_access_points">WLAN tīkli</string>
+    <string name="wifi_empty_list_wifi_off">Lai skatītu pieejamos tīklus, ieslēdziet WLAN.</string>
+    <string name="wifi_disabled_help">Nekvalitatīva savienojuma signāla dēļ netika izveidots savienojums ar tīklu. Lai izslēgtu šo funkcionalitāti, ekrānā Iestatījumi > WLAN atlasiet izvēlnes objektu Papildu.</string>
+    <string name="wifi_wps_overlap_error">Tika noteikta cita aizsargāta WLAN sesija. Pēc dažām minūtēm mēģiniet vēlreiz.</string>
+    <string name="wifi_advanced_titlebar">WLAN papildu iestatījumi</string>
+    <string name="wifi_setting_frequency_band_title">WLAN frekvenču josla</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN aizsargātā iestatīšana</string>
+    <string name="wifi_tether_checkbox_text">Portatīvs WLAN tīklājs</string>
+    <string name="wifi_tether_failed_subtext">Portatīvā WLAN tīklāja kļūda</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurēt portatīvu WLAN tīklāju</string>
+    <string name="wifi_tether_configure_subtext">Portatīvs WLAN tīklājs %1$s ar drošības iestatījumu %2$s</string>
+    <string name="status_wifi_mac_address">WLAN MAC adrese</string>
+    <string name="location_neighborhood_level">Atļaut lietotnēs izmantot datus no tādiem avotiem kā WLAN un mobilie tīkli, lai aptuveni noteiktu atrašanās vietu</string>
+    <string name="location_neighborhood_level_wifi">Atrašanās vieta noteikta, izmantojot WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN laikā</string>
+    <string name="bluetooth_on_time">WLAN laikā</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN darbības laiks</string>
+    <string name="battery_action_wifi">WLAN iestatījumi</string>
+    <string name="battery_desc_wifi">WLAN savienojumam izmantotā akumulatora enerģija</string>
+    <string name="battery_sugg_wifi">Izslēdziet WLAN savienojumu, kad to nelietojat vai tas nav pieejams</string>
+    <string name="gadget_toggle_wifi">Notiek WLAN iestatījuma atjaunināšana</string>
+    <string name="backup_data_summary">Dublēt lietotņu datus, WLAN paroles un citus iestatījumus Google serveros</string>
+    <string name="backup_erase_dialog_message">Vai pārtraukt WLAN paroļu, grāmatzīmju, citu iestatījumu un lietotņu datu dublēšanu, kā arī dzēst visas kopijas no Google serveriem?</string>
+    <string name="wifi_setup_title">WLAN iestatīšana</string>
+    <string name="wifi_setup_title_editing_network">Savienojuma izveide ar WLAN tīklu %s</string>
+    <string name="wifi_setup_title_connecting_network">Notiek savienojuma izveide ar WLAN tīklu %s…</string>
+    <string name="wifi_setup_title_connected_network">Ir izveidots savienojums ar WLAN tīklu %s</string>
+    <string name="wifi_setup_eap_not_supported">Iestatīšanas laikā nevar konfigurēt EAP WLAN savienojumu. Pēc iestatīšanas to var izdarīt sadaļā Iestatījumi > Bezvadu savienojumi un tīkli.</string>
+    <string name="wifi_setup_description_connected">Pieskarieties objektam <b>Tālāk</b>", lai turpinātu iestatīšanu.
+
+Pieskarieties objektam "<b>Atpakaļ</b>, lai izveidotu savienojumu ar citu WLAN tīklu.</string>
+    <string name="data_usage_menu_show_wifi">Rādīt WLAN lietojumu</string>
+    <string name="data_usage_disable_wifi_limit">Iestatīt WLAN datu ierobežojumu</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Atsp. fona datus tikai mob. tīklā. Izm.WLAN tīklu, ja pieejams.</string>
+    <string name="data_usage_app_restrict_dialog">"Ja tiek izmantota šī funkcija un nav pieejams WLAN tīkls, var tikt pārtraukta tādu lietotņu darbība, kurām ir nepieciešami fona dati.
+
+Lietotnē pieejamie iestatījumi nodrošina piemērotākas datu lietojuma kontroles iespējas."</string>
+    <string name="data_usage_restrict_background">Ja ierobežosit fona mobilo datu lietošanu, dažas lietotnes un pakalpojumi nedarbosies, ja vien netiks izveidots savienojums ar WLAN tīklu.</string>
+</resources>

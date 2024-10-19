@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Namesti potrdilo WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Upravljanje nastavitev za WLAN in Bluetooth, načina za letalo, mobilnih omrežij in omrežij VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Vklop povezave WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Nastavitve WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Vklop povezave WLAN ...</string>
+    <string name="wifi_stopping">Izklop povezave WLAN ...</string>
+    <string name="wifi_enable_watchdog_service_summary">Ne uporabljaj omrežja WLAN, razen če ima dobro internetno povezavo</string>
+    <string name="wifi_setting_sleep_policy_title">Ohrani WLAN v stanju pripravljenosti</string>
+    <string name="wifi_access_points">Omrežja WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Če si želite ogledati razpoložljiva omrežja, vklopite WLAN.</string>
+    <string name="wifi_disabled_help">Omrežje je bilo zaradi slabe povezave izpuščeno. To možnost lahko onemogočite na zaslonu »Nastavitve > WLAN« v menijskem elementu »Dodatno«.</string>
+    <string name="wifi_wps_overlap_error">Zaznana je bila še ena seja zaščitene povezave WLAN. Poskusite znova čez nekaj minut.</string>
+    <string name="wifi_advanced_titlebar">Dodatne nastavitve za WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvenčni pas WLAN</string>
+    <string name="wifi_p2p_settings_title">Neposredni WLAN</string>
+    <string name="wifi_p2p_wps_setup">Nastavitev zaščitenega omrežja WLAN</string>
+    <string name="wifi_tether_checkbox_text">Prenosna dostopna točka WLAN</string>
+    <string name="wifi_tether_failed_subtext">Napaka prenosne dostopne točke WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Nastavitev dostopne točke WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s prenosna brezžična dostopna točka</string>
+    <string name="status_wifi_mac_address">Naslov Mac za WLAN</string>
+    <string name="location_neighborhood_level">"Programi lahko za določanje približne lokacije  uporabijo podatke iz omrežij WLAN in mobilnih omrežij"</string>
+    <string name="location_neighborhood_level_wifi">Lokacija, ugotovljena prek omrežja WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Čas vklopa brezžične funkcije</string>
+    <string name="bluetooth_on_time">Čas vklopa brezžične funkcije</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN je vklopljen</string>
+    <string name="battery_action_wifi">Brezžične nastavitve</string>
+    <string name="battery_desc_wifi">Energija, ki jo porablja WLAN</string>
+    <string name="battery_sugg_wifi">Izklopi WLAN, kadar se ne uporablja ali kjer omrežje ni na voljo</string>
+    <string name="gadget_toggle_wifi">Posodabljanje nastavitev za WLAN</string>
+    <string name="backup_data_summary">Varnostno kopiranje podatkov programov, gesel za WLAN in druge nastavitve v Googlove strežnike</string>
+    <string name="backup_erase_dialog_message">Želite ustaviti varnostno kopiranje gesel za WLAN, zaznamkov, drugih nastavitev in podatkov programov ter izbrisati vse kopije v Googlovih strežnikih?</string>
+    <string name="wifi_setup_title">Namestitev WLAN-ja</string>
+    <string name="wifi_setup_title_editing_network">Vzpostavite povezavo z omrežjem WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Povezovanje z omrežjem WLAN %s …</string>
+    <string name="wifi_setup_title_connected_network">Vzpostavljena povezava z omrežjem WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Povezave EAP WLAN ne morete nastaviti med namestitvijo. Po namestitvi jo lahko nastavite z možnostjo »Nastavitve« v razdelku »Brezžično in omrežja«.</string>
+    <string name="wifi_setup_description_connected">Če želite nadaljevati nastavitev, se dotaknite <b>Naprej</b>".
+
+Če se želite povezati z drugim omrežjem WLAN, se dotaknite "<b>Nazaj</b>.</string>
+    <string name="data_usage_menu_show_wifi">Prikaz uporabe podatkov WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Nastavi omejitev podatkov za WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Prenos podatkov v ozadju onemogoči samo v mobilnih omrežjih. Če je na voljo, bo uporabljen WLAN.</string>
+    <string name="data_usage_app_restrict_dialog">"Ta funkcija lahko ustavi program, ki uporablja podatke v ozadju, ko WLAN ni na voljo.
+
+Ustreznejše funkcije za upravljanje uporabe podatkov so na voljo v nastavitvah programa."</string>
+    <string name="data_usage_restrict_background">Če omejite prenos mobilnih podatkov v ozadju, nekateri programi in storitve ne bodo delovali, če ni vzpostavljena povezava z omrežjem WLAN.</string>
+</resources>

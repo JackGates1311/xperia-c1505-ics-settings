@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_gesture_explanation">आपको किसी फोन रीसेट की पुष्टि के लिए अपने अनलॉक पैटर्न को आरेखित करना होगा।</string>
+    <string name="wifi_connected_limited_with_ssid">सी. कन. के साथ %1$s से जुड़ गया है</string>
+    <string name="sdcard_settings_screen_mass_storage_text">USB मस संग्रहण सक्षम करें</string>
+    <string name="lockpassword_pin_recently_used">हाल में उपयोग किए गए पिन में परिवर्तित नहीं किया जा सकता</string>
+    <string name="lockpassword_password_recently_used">हाल में उपयोग किए गए पासवर्ड में पिरवर्तित नहीं किया जा सकता</string>
+    <string name="accelerometer_title">स्वतः घुमाएँ स्क्रीन</string>
+    <string name="brightness_summary">WhiteMagic™ द्वारा पावर्ड</string>
+</resources>

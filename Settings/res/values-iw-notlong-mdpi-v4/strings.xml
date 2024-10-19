@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_hint_txt">ענה</string>
+    <string name="master_reset_gesture_prompt">"שרטט את צורת ביט' הנעילה שלך"</string>
+    <string name="master_reset_gesture_explanation">"עליך לשרטט את צורת ביטול הנעילה כדי לאשר את איפוס הטל'."</string>
+    <string name="sdcard_settings_screen_mass_storage_text">"הפ' אחס' USB בנפח גבוה"</string>
+    <string name="lockpassword_pin_recently_used">לא ניתן לשנות PIN שהיה בשימוש לאחרונה</string>
+    <string name="lockpassword_password_recently_used">לא ניתן לשנות לסיסמה שהייתה בשימוש לאחרונה</string>
+    <string name="accelerometer_title">"סובב מסך באופן אוטו'"</string>
+    <string name="brightness_summary">מופעל באמצעות WhiteMagic™‎</string>
+    <string name="apn_type">סוג של נקודת גישה</string>
+    <string name="menu_new">‏נקודת גישה חדשה</string>
+    <string name="lockpassword_confirm_your_password_header">הזן את הסיסמה שוב לאישור</string>
+    <string name="lockpassword_confirm_your_pin_header">הזן את קוד ה-PIN שוב לאישור</string>
+    <string name="lockpassword_pattern_set_toast">הצורה הוגדרה</string>
+    <string name="lockpattern_change_lock_pattern_label">שנה ציור לביטול נעילה</string>
+    <string name="lockpattern_recording_intro_header">שרטט ציור לביטול נעילה</string>
+    <string name="lockpattern_pattern_confirmed_header">הציור החדש לביטול נעילה:</string>
+    <string name="filter_apps_running">פועלת</string>
+    <string name="enable_adb">איתור באגים של USB</string>
+    <string name="adb_warning_title">לאפשר איתור באגים של USB?</string>
+    <string name="usage_type_wake_lock">השאר מופעל</string>
+    <string name="usage_type_data_send">"הנתונ' נשלחו"</string>
+    <string name="usage_type_data_recv">"נתונ' התקבלו"</string>
+</resources>

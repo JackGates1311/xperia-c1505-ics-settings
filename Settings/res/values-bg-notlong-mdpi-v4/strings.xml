@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_info_txt">Помислете за съхр. на отг. на сигурно място, в случай че го забравите.</string>
+    <string name="master_reset_button_text">Нач. състояние</string>
+    <string name="master_reset_final_button_text">Настр.нач.със.</string>
+    <string name="master_reset_gesture_explanation">Трябва да създ. модел за откл. за потв. връщ. в нач. съст.</string>
+    <string name="wifi_reconnect">Свързване отново</string>
+    <string name="wifi_connected_limited_with_ssid">Свързан с %1$s с огранич. възмож. за свърз.</string>
+    <string name="airplane_mode">Самолетен режим</string>
+    <string name="date_time_24hour">Изпол. на 24-час. фор.</string>
+    <string name="lockpassword_pin_recently_used">Промяната до наскоро използван PIN код е неуспешна</string>
+    <string name="lockpassword_password_recently_used">Промяната до наскоро използвана парола е неуспешна</string>
+    <string name="bluetooth_settings_summary">Управление на връзките, задаване на име на устройств. и режим на откриване</string>
+    <string name="wifi_menu_modify">Модифицир. на мрежа</string>
+    <string name="wifi_forget">Забр.</string>
+    <string name="notification_pulse_title">Премиг. индик. за известия</string>
+    <string name="checkbox_notification_same_as_incoming_call">Използв. на силата на звука за вход. повиквания при извест.</string>
+    <string name="dock_settings_title">Настройки на поставката</string>
+    <string name="dock_not_found_title">Постав. не е открита</string>
+    <string name="brightness_summary">Предоставено от WhiteMagic™</string>
+    <string name="sim_lock_settings_category">Настр. закл. на SIM картата</string>
+    <string name="sim_reenter_new">Повтор. въвежд. на новия ПИН код</string>
+    <string name="apn_auth_type">Тип удостоверяване</string>
+    <string name="menu_delete">Изтр. на APN</string>
+    <string name="menu_restore">Възст. първ. настр.</string>
+    <string name="usb_tethering_available_subtext">USB устройството е свързано, проверка за ограничаване</string>
+    <string name="assisted_gps">Изп. подпомог. GPS</string>
+    <string name="lockpassword_confirm_your_password_header">Въведете отново паролата, за да я потвърдите</string>
+    <string name="lockpassword_confirm_your_pin_header">Въведете отново ПИН кода, за да го потвърдите</string>
+    <string name="uninstall_text">Деинсталир.</string>
+    <string name="allow_mock_location">Разреш. неист. мест.</string>
+    <string name="adb_warning_title">Разрешаване отстран. на USB грешки?</string>
+    <string name="usage_type_cpu">Общ. процесор</string>
+    <string name="usage_type_cpu_foreground">Рутин. процеси</string>
+    <string name="usage_type_wake_lock">Поддър. актив.</string>
+    <string name="usage_type_data_send">Изпр. данни</string>
+    <string name="usage_type_data_recv">Пол. данни</string>
+    <string name="voice_input_output_settings">Глас. въвеж. и извежд.</string>
+    <string name="use_default_tts_settings_title">Вин. изп. моите наст.</string>
+    <string name="select_device_admin_msg">Администрат. на устройств.</string>
+</resources>

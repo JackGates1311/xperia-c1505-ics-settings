@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Инстал. сертификати WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Управување со WLAN, Bluetooth, авионски режим, мобилни мрежи и VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Вклучи WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Поставки за WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">"Вклучување WLAN "</string>
+    <string name="wifi_stopping">"Исклучување WLAN "</string>
+    <string name="wifi_enable_watchdog_service_summary">Не користете WLAN мрежа освен ако има добра интернет конекција</string>
+    <string name="wifi_setting_sleep_policy_title">Задржи WLAN вклучено во текот на исклученото</string>
+    <string name="wifi_access_points">WLAN мрежи</string>
+    <string name="wifi_empty_list_wifi_off">За да ги видите достапните мрежи, вклучете WLAN.</string>
+    <string name="wifi_disabled_help">Мрежата беше избегната поради лоша конекција. Исклучете го ова однесување од Поставки > WLAN екран, Објект од напредно мени.</string>
+    <string name="wifi_wps_overlap_error">Друга WLAN заштитена сесија е откриена. Обидете се повторно по неколку минути.</string>
+    <string name="wifi_advanced_titlebar">Напредни WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN фреквенциски групи</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Поставување заштитено со WLAN</string>
+    <string name="wifi_tether_checkbox_text">Портабл WLAN „жешко“ место</string>
+    <string name="wifi_tether_failed_subtext">Грешка на портабл WLAN „жешко“ место</string>
+    <string name="wifi_tether_configure_ap_text">Конфигурирај WLAN „жешко“ место</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s портабл WLAN „жешко“ место</string>
+    <string name="status_wifi_mac_address">WLAN MAC адреса</string>
+    <string name="location_neighborhood_level">Дозволете апликациите да користат податоци од извори како што се WLAN и мобилни мрежи за да се одреди вашата приближна локација</string>
+    <string name="location_neighborhood_level_wifi">Локацијата е одредена од WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN на време</string>
+    <string name="bluetooth_on_time">WLAN на време</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN работи</string>
+    <string name="battery_action_wifi">Поставки за WLAN</string>
+    <string name="battery_desc_wifi">Батерија користена од WLAN</string>
+    <string name="battery_sugg_wifi">Исклучете го WLAN кога не го користите или кога не е достапен</string>
+    <string name="gadget_toggle_wifi">Ажурирање на поставката на WLAN</string>
+    <string name="backup_data_summary">Резервна копија на апликациските податоци, лозинките за WLAN и другите поставки на серверите на Google</string>
+    <string name="backup_erase_dialog_message">Да се прекине правењето резервни копии на лозинките за WLAN, обележувачите и другите поставки и апликациски податоци и да се избришат сите копии на серверите на Google?</string>
+    <string name="wifi_setup_title">Поставување на WLAN</string>
+    <string name="wifi_setup_title_editing_network">Поврзете се со WLAN мрежа %s</string>
+    <string name="wifi_setup_title_connecting_network">Поврзување со WLAN мрежа %s…</string>
+    <string name="wifi_setup_title_connected_network">Поврзано со WLAN мрежа %s</string>
+    <string name="wifi_setup_eap_not_supported">Не може да конфигурирате EAP WLAN конекција при поставувањето. По поставувањето, може да го направите тоа во Поставки > Безжично и мрежи.</string>
+    <string name="wifi_setup_description_connected">Допри <b>Следно</b>" за да продолжите со поставување.
+
+Допрете "<b>Назад</b> за да се поврзете со различна WLAN мрежа.</string>
+    <string name="data_usage_menu_show_wifi">Покажи WLAN користење</string>
+    <string name="data_usage_disable_wifi_limit">Постави ограничување за WLAN податоци</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Исклучете ги позадинските податоци само на мобилната податочна мрежа. WLAN ќе се користи ако е достапно.</string>
+    <string name="data_usage_app_restrict_dialog">"Оваа функција може да предизвика една апликација која зависи од позадинските податоци да престане да работи кога WLAN не е достапно.
+
+Можете да пронајдете посоодветни контроли за користење на податоци во поставките достапни во апликацијата."</string>
+    <string name="data_usage_restrict_background">Ако ограничите позадински мобилни податоци, некои апликации и услуги нема да работат освен ако сте поврзани со WLAN мрежа.</string>
+</resources>

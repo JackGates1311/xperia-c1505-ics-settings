@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Restabl. teléf.</string>
+    <string name="master_reset_final_button_text">Restabl. config.</string>
+    <string name="master_reset_gesture_prompt">Dibuje el patrón de desbloqueo.</string>
+    <string name="master_reset_gesture_explanation">Para confirmar restablec. teléf., dibuje patrón desbloqueo.</string>
+    <string name="wifi_connected_limited_with_ssid">Conectado a %1$s con conectividad limitada</string>
+    <string name="bluetooth_notif_ticker">Solicitud de asociación por Bluetooth</string>
+    <string name="lockpassword_pin_recently_used">No se puede cambiar a un PIN que se ha usado recientemente.</string>
+    <string name="lockpassword_password_recently_used">No se puede cambiar a una contraseña usada recientemente.</string>
+    <string name="wifi_menu_connect">Conectar a red</string>
+    <string name="wifi_connect">Conect.</string>
+    <string name="brightness_summary">Con tecnología de WhiteMagic™</string>
+    <string name="menu_restore">Valores predet.</string>
+    <string name="lockpassword_confirm_your_password_header">Introduzca la contraseña otra vez para confirmar.</string>
+    <string name="lockpassword_confirm_your_pin_header">Introduzca el código PIN otra vez para confirmar.</string>
+    <string name="usage_type_cpu_foreground">Prim. plano CPU</string>
+    <string name="usage_type_wake_lock">Mantener actv.</string>
+    <string name="usage_type_data_send">Datos env.</string>
+    <string name="usage_type_data_recv">Datos recib.</string>
+    <string name="usage_type_on_time">Tiempo activ.</string>
+    <string name="select_device_admin_msg">Administrad. de dispositivos</string>
+</resources>

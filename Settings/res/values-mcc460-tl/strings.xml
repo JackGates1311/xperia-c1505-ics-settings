@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Install WLAN certificates</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Pamahalaan ang WLAN, Bluetooth, airplane mode, mga mobile network, at mga VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">I-on ang WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Mga setting ng WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Ino-on ang WLAN…</string>
+    <string name="wifi_stopping">Ino-off ang WLAN…</string>
+    <string name="wifi_enable_watchdog_service_summary">Huwag gumamit ng network ng WLAN maliban kung mayroon itong mainam na koneksyon sa Internet</string>
+    <string name="wifi_setting_sleep_policy_title">Panatilihing naka-on ang WLAN sa panahon ng sleep</string>
+    <string name="wifi_access_points">Mga network ng WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Upang makita available na network, i-on ang WLAN.</string>
+    <string name="wifi_disabled_help">Iniwasan ang network dahil sa mahinang koneksyon. I-off ang pag-uugaling ito mula sa Mga Setting > WLAN na screen, Advanced na item ng menu.</string>
+    <string name="wifi_wps_overlap_error">Nakatukoy ng session na protektado ng WLAN. Subukang muli sa ilang minuto.</string>
+    <string name="wifi_advanced_titlebar">Advanced na WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frequency band ng WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Setup na pinoprotektahan ng WLAN</string>
+    <string name="wifi_tether_checkbox_text">Portable na hotspot ng WLAN</string>
+    <string name="wifi_tether_failed_subtext">Error sa portable na hotspot ng WLAN</string>
+    <string name="wifi_tether_configure_ap_text">I-configure ang hotspot ng WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s na portable na hotspot ng WLAN</string>
+    <string name="status_wifi_mac_address">WLAN MAC address</string>
+    <string name="location_neighborhood_level">Hayaan ang apps na gumamit ng data mula sa mga pinagmulang gaya ng WLAN at mga mobile network upang tukuyin ang iyong tinatayang lokasyon</string>
+    <string name="location_neighborhood_level_wifi">Natukoy ang lokasyon sa pamamagitan ng WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN na nasa oras</string>
+    <string name="bluetooth_on_time">WLAN na nasa oras</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Tumatakbo ang WLAN</string>
+    <string name="battery_action_wifi">Mga setting ng WLAN</string>
+    <string name="battery_desc_wifi">Bateryang ginagamit ng WLAN</string>
+    <string name="battery_sugg_wifi">I-off ang WLAN kapag hindi ito ginagamit o kapag hindi ito available</string>
+    <string name="gadget_toggle_wifi">Ina-update ang setting ng WLAN</string>
+    <string name="backup_data_summary">I-back up ang data ng app, mga password ng WLAN, at iba pang mga setting sa mga server ng Google</string>
+    <string name="backup_erase_dialog_message">Ihinto ang pag-back ng iyong mga password ng WLAN, bookmark, iba pang mga setting, at data ng app, at burahin ang lahat ng kopya sa mga server ng Google?</string>
+    <string name="wifi_setup_title">Setup ng WLAN</string>
+    <string name="wifi_setup_title_editing_network">Kumonekta sa WLAN network na %s</string>
+    <string name="wifi_setup_title_connecting_network">Kumokonekta sa WLAN network na %s…</string>
+    <string name="wifi_setup_title_connected_network">Nakakonekta sa WLAN network na %s</string>
+    <string name="wifi_setup_eap_not_supported">Hindi ka makakapag-configure ng isang koneksyon sa EAP WLAN sa panahon ng pag-setup. Pagkatapos ng pag-setup, magagawa mo iyon sa Mga Setting > Wireless at mga network.</string>
+    <string name="wifi_setup_description_connected">Pindutin ang <b>Susunod</b>" upang magpatuloy sa setup.
+
+Pindutin ang "<b>Bumalik</b> upang kumonekta sa ibang WLAN network.</string>
+    <string name="data_usage_menu_show_wifi">Ipakita ang paggamit ng WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Itakda limitasyon ng WLAN data</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Di paganahin background data sa mobile data network. Gamit WLAN.</string>
+    <string name="data_usage_app_restrict_dialog">"Ang tampok na ito ay maaaring magsanhi sa isang app na nakasalalay sa data ng background na huminto sa paggana kapag hindi available ang WLAN.
+
+Maaari kang makahanap ng higit pang naaangkop na mga kontrol sa paggamit ng data sa mga setting na available sa loob ng app."</string>
+    <string name="data_usage_restrict_background">Kung hihigpitan mo ang background na mobile data, hindi gagana ang ilang apps at mga serbisyo maliban kung nakakonekta ka sa isang WLAN na network.</string>
+</resources>

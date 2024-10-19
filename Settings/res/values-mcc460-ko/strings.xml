@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN인증서 설치</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, 비행기 모드, 모바일 네트워크 및VPN관리</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN켜기</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN설정</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN켜는 중</string>
+    <string name="wifi_stopping">WLAN끄는 중</string>
+    <string name="wifi_enable_watchdog_service_summary">인터넷 연결이 원활하지 않은WLAN네트워크는 사용하지 않음</string>
+    <string name="wifi_setting_sleep_policy_title">절전 모드 동안WLAN연결 유지</string>
+    <string name="wifi_access_points">WLAN네트워크</string>
+    <string name="wifi_empty_list_wifi_off">사용할 수 있는 네트워크를 보려면WLAN를 켭니다.</string>
+    <string name="wifi_disabled_help">연결 상태가 좋지 않아 네트워크가 차단되었습니다. 설정 >WLAN화면의 고급 메뉴에서 이러한 차단을 끌 수 있습니다.</string>
+    <string name="wifi_wps_overlap_error">다른WLAN보호 세션이 감지되었습니다. 몇 분 후에 다시 시도해 보십시오.</string>
+    <string name="wifi_advanced_titlebar">고급WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN주파수 대역</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN보호 설정</string>
+    <string name="wifi_tether_checkbox_text">휴대용WLAN핫스팟</string>
+    <string name="wifi_tether_failed_subtext">휴대용WLAN핫스팟 오류</string>
+    <string name="wifi_tether_configure_ap_text">WLAN핫스팟 구성</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s 휴대용WLAN핫스팟</string>
+    <string name="status_wifi_mac_address">WLAN MAC주소</string>
+    <string name="location_neighborhood_level">앱이WLAN 및 모바일 네트워크 등을 이용하여 사용자의 대략적인 위치를 판단할 수 있게 허용</string>
+    <string name="location_neighborhood_level_wifi">WLAN에서 확인된 위치</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN사용 시간</string>
+    <string name="bluetooth_on_time">WLAN사용 시간</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN실행 중</string>
+    <string name="battery_action_wifi">WLAN설정</string>
+    <string name="battery_desc_wifi">WLAN배터리 사용량</string>
+    <string name="battery_sugg_wifi">사용 중이 아니거나 사용할 수 없을 때WLAN끄기</string>
+    <string name="gadget_toggle_wifi">WLAN설정 업데이트 중</string>
+    <string name="backup_data_summary">앱 데이터,WLAN암호 및 기타Google서버 설정 백업</string>
+    <string name="backup_erase_dialog_message">WLAN암호, 즐겨찾기, 기타 설정 및 앱 데이터 백업을 중지하고Google서버에 있는 모든 사본을 지우시겠습니까?</string>
+    <string name="wifi_setup_title">WLAN설정</string>
+    <string name="wifi_setup_title_editing_network">WLAN네트워크(%s)에 연결</string>
+    <string name="wifi_setup_title_connecting_network">WLAN네트워크(%s)에 연결 중…</string>
+    <string name="wifi_setup_title_connected_network">WLAN네트워크(%s)에 연결됨</string>
+    <string name="wifi_setup_eap_not_supported">설정하는 동안에는EAP WLAN연결을 구성할 수 없습니다. 설정한 후에 설정 > 무선 및 네트워크에서 구성할 수 있습니다.</string>
+    <string name="wifi_setup_description_connected">설정을 계속하려면 <b>다음</b>"을 터치하십시오.
+
+다른WLAN네트워크에 연결하려면 "<b>뒤로 가기</b>를 터치하십시오.</string>
+    <string name="data_usage_menu_show_wifi">WLAN사용량 표시</string>
+    <string name="data_usage_disable_wifi_limit">WLAN데이터 제한 설정</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">모바일 데이터 네트워크에서만 백그라운드 데이터를 사용하지 않도록 설정합니다. 가능한 경우WLAN가 사용됩니다.</string>
+    <string name="data_usage_app_restrict_dialog">"이 기능은WLAN를 사용할 수 없을 때 백그라운드 데이터에 의존하는 앱의 작동을 중지할 수 있습니다.
+
+앱에서 제공하는 설정에서 적절한 데이터 사용량 제어 기능을 찾을 수 있습니다."</string>
+    <string name="data_usage_restrict_background">백그라운드 모바일 데이터를 제한하면WLAN네트워크에 연결되어 있지 않은 경우 일부 앱과 서비스가 작동하지 않습니다.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_signal">
+        <item>חלש</item>
+        <item>סביר</item>
+        <item>טוב</item>
+        <item>מצוין</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>התקן אחסון פנימי</item>
+        <item>כרטיס SD ניתן להסרה</item>
+        <item>"אפשר למערכ' להחליט"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">Installer des certificats à partir de la mémoire de stockage interne</string>
+    <string name="master_reset_desc">"Cette opération va réinitialiser tous les réglages du téléphone :
+"<li>les réglages système du téléphone</li>"
+"<li>les réglages des applications fournies</li>"
+Elle n'effacera pas les éléments suivants :
+"<li>"les réglages définis par l'utilisateur"</li>"
+"<li>les applications installées</li>"
+"<li>les fichiers du stockage interne et/ou de la carte SD contenant par exemple des morceaux de musique ou des photos</li></string>
+    <string name="master_reset_final_button_text">Réinit. réglages</string>
+    <string name="master_reset_gesture_explanation">Dessinez votre modèle de déverr. pr confirmer la réinit. du tél.</string>
+    <string name="wifi_reconnect">Reconnecter</string>
+    <string name="wifi_connected_limited_with_ssid">Connecté à %1$s avec une connectivité limitée</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Activ. stock. masse USB</string>
+    <string name="security_settings_summary">"Définir les paramètres de l'option Ma position et de verrouillage"</string>
+    <string name="lockpassword_pin_recently_used">Modification impossible avec PIN récemment utilisé</string>
+    <string name="lockpassword_password_recently_used">Modification impossible avec mot de passe récemment utilisé</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_cancel">Annul.</string>
+    <string name="brightness_summary">Powered by WhiteMagic™</string>
+    <string name="menu_delete">"Supp. l'APN"</string>
+    <string name="master_clear_title">"Restaurer valeurs d'usine"</string>
+    <string name="usage_type_cpu">UC - Dur. totale</string>
+    <string name="usage_type_cpu_foreground">UC - 1er plan</string>
+    <string name="usage_type_wake_lock">Mainten. activé</string>
+    <string name="usage_type_data_send">Don. envoy.</string>
+    <string name="usage_type_data_recv">Don. reçues</string>
+    <string name="usage_type_on_time">"Durée d'activat."</string>
+    <string name="tts_install_data_title">Installer données vocales</string>
+    <string name="select_device_admin_msg">Adm. du périphérique</string>
+</resources>

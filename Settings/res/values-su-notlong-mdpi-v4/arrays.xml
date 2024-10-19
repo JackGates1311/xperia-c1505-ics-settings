@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Panyimpenan alat intrnl</item>
+        <item>Krt SD nu bs dipindah</item>
+        <item>Sist nu nangtukeun</item>
+    </string-array>
+</resources>

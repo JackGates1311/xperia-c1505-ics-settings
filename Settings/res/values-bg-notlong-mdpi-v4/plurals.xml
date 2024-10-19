@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Паролата трябва да съдържа поне %d специални символа</item>
+        <item quantity="one">Паролата трябва да съдържа поне един специален символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Паролата трябва да съдържа поне %d знака, различ. от букви</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 знак, различен от буква</item>
+    </plurals>
+</resources>

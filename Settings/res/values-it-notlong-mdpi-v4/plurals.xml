@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La password deve contenere almeno %d caratteri non alfabet.</item>
+        <item quantity="one">La password deve contenere almeno un carattere non alfabet.</item>
+    </plurals>
+</resources>

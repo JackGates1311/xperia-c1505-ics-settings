@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_final_button_text">"Réinitial. param "</string>
+    <string name="master_reset_gesture_explanation">Vs devez dessin votre schéma de déverr pr confir une réin. du télé.</string>
+    <string name="wifi_connected_limited">"Connectivité limitée
+"</string>
+    <string name="wifi_connected_limited_with_ssid">Connecté à %1$s avec connectiv limitée</string>
+    <string name="lockpassword_pin_recently_used">"Impossible d'utiliser un code PIN utilisé récemment"</string>
+    <string name="lockpassword_password_recently_used">Impossible de prendre un mot de passe utilisé récemment</string>
+    <string name="wifi_connect">Connec.</string>
+    <string name="wifi_cancel">Annul.</string>
+    <string name="dock_not_found_title">"Stat. d'acc. non trouvée"</string>
+    <string name="brightness_summary">Alimenté par WhiteMagic™</string>
+    <string name="menu_delete">"Supp. l'APN"</string>
+    <string name="menu_restore">Réinit. param pr déft</string>
+    <string name="call_settings_summary">"Config. la mess vocale, transf. d'app., mises en att. et no. de l'appelant"</string>
+    <string name="lockpassword_confirm_your_pin_header">Retapez votre NIP pour le confirmer</string>
+    <string name="filter_apps_running">En fonct.</string>
+    <string name="usage_type_cpu_foreground">CPU 1er plan</string>
+    <string name="usage_type_data_send">Données env.</string>
+    <string name="usage_type_data_recv">Donnée reçu.</string>
+    <string name="usage_type_on_time">Temps activité</string>
+    <string name="voice_input_output_settings">Entrée et sortie voix</string>
+    <string name="tts_install_data_title">Installer données vocales</string>
+</resources>

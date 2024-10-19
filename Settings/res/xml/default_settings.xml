@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <setting key="data-traffic-warning" runtime="true">false</setting>
+    <setting key="syncml-visible" runtime="false">true</setting>
+</settings>

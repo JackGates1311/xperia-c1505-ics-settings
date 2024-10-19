@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_reconnect">再接続する</string>
+    <string name="lockpassword_pin_recently_used">最新使用したPINに変更できません</string>
+    <string name="lockpassword_password_recently_used">最近使用したパスワードに変更できません</string>
+    <string name="brightness_summary">WhiteMagic™を使用</string>
+    <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
+    <string name="uninstall_text">ｱﾝｲﾝｽﾄｰﾙ</string>
+    <string name="usage_type_wake_lock">ｽﾘｰﾌﾟしない</string>
+    <string name="usage_type_data_send">送信ﾃﾞｰﾀ</string>
+    <string name="usage_type_data_recv">受信ﾃﾞｰﾀ</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Nust. tel. iš nau.</string>
+    <string name="master_reset_gesture_prompt">Nubrėžkite savo atrakin. kombin.</string>
+    <string name="master_reset_gesture_explanation">Kad patvirt. tel. nustatymą iš naujo, nubrėžkite atrak. kombin.</string>
+    <string name="wifi_reconnect">Prisijungti iš naujo</string>
+    <string name="wifi_connected_limited">Ribotos prisijungimo galimybės</string>
+    <string name="wifi_connected_limited_with_ssid">Prisijungta prie ribotų galim. tinklo %1$s</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Įjungti USB talpiąją atm.</string>
+    <string name="roaming">Duom. tarptinkl. ryšys</string>
+    <string name="date_time_date_format">Pasirinkite datos format.</string>
+    <string name="lockpassword_pin_recently_used">Negalima keisti į neseniai naudotą PIN</string>
+    <string name="lockpassword_password_recently_used">Negalima keisti į neseniai naudotą slaptažodį</string>
+    <string name="wifi_signal">Signalo stiprumas</string>
+    <string name="wifi_cancel">Atšauk.</string>
+    <string name="ringtone_title">Tel. skambėjimo signal.</string>
+    <string name="brightness_summary">Sukūrė „WhiteMagic™“</string>
+    <string name="lockpattern_retry_button_text">Bandyti vėl</string>
+    <string name="filter_apps_running">Veikiantys</string>
+    <string name="power_cell">Telefono budėj. režimas</string>
+    <string name="usage_type_cpu">CPU naudojim.</string>
+    <string name="usage_type_cpu_foreground">Akt. CPU naud.</string>
+    <string name="usage_type_data_send">Išsiųs. duom.</string>
+    <string name="usage_type_data_recv">Gauta duom.</string>
+    <string name="usage_type_on_time">Laik., kai buv. įj.</string>
+    <string name="usage_type_no_coverage">Laikas, kai neb. sign.</string>
+</resources>

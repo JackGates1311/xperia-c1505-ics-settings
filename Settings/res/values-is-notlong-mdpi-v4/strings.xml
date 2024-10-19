@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">Setja upp vottorð af innra minni</string>
+    <string name="master_reset_desc">"Þetta mun núllstilla símann, þar á meðal:
+"<li>Stillingar símakerfis</li>"
+"<li>Stillingar forrita sem fylgja með</li>"
+Eftirfarandi verður ekki eytt:
+"<li>Stillingum notanda</li>"
+"<li>Uppsettum forritum</li>"
+"<li>Skrám í innra minni og/eða á SD-korti, svo sem tónlist eða myndum</li></string>
+    <string name="master_reset_gesture_explanation">Teiknaðu opnunarmynstur til að staðfesta núllstillingu.</string>
+    <string name="wifi_reconnect">Endurtengja</string>
+    <string name="lockpassword_pin_recently_used">Ekki er hægt að breyta í nýlega notað PIN-númer</string>
+    <string name="lockpassword_password_recently_used">Ekki er hægt að breyta í nýlega notað lykilorð</string>
+    <string name="wifi_connect">Tengja</string>
+    <string name="wifi_cancel">Hætt. v.</string>
+    <string name="brightness_summary">Knúið af WhiteMagic™</string>
+    <string name="apn_type">APN-gerð</string>
+    <string name="menu_delete">Eyða APN</string>
+    <string name="allow_mock_location">Leyfa gervistaðsetn.</string>
+    <string name="usage_type_cpu">Samt. f. örgjörv.</string>
+    <string name="usage_type_cpu_foreground">Örgj. í forgrunni</string>
+    <string name="usage_type_data_recv">Gögn mótt.</string>
+    <string name="usage_type_no_coverage">Tími utan þjón.sv.</string>
+</resources>

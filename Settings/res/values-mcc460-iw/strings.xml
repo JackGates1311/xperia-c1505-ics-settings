@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">התקן אישורי WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">ניהול רשתות WLAN‏, Bluetooth, מצב טיסה, רשתות לנייד ורשתות VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">הפעל WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">הגדרות WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">מפעיל WLAN...</string>
+    <string name="wifi_stopping">מכבה WLAN...</string>
+    <string name="wifi_enable_watchdog_service_summary">אין להשתמש ברשת WLAN, אלא אם יש לה חיבור טוב לאינטרנט</string>
+    <string name="wifi_setting_sleep_policy_title">השאר את WLAN מופעל במהלך שינה</string>
+    <string name="wifi_access_points">רשתות WLAN</string>
+    <string name="wifi_empty_list_wifi_off">כדי לראות את הרשתות הזמינות, הפעל את WLAN.</string>
+    <string name="wifi_disabled_help">"נמנע שימוש ברשת בשל חיבור באיכות ירודה. בטל את ההתנהגות הזו מתוך 'הגדרות' > מסך WLAN, פריט התפריט 'מתקדם'."</string>
+    <string name="wifi_wps_overlap_error">זוהתה הפעלה מוגנת נוספת של WLAN. נסה שוב בעוד מספר דקות.</string>
+    <string name="wifi_advanced_titlebar">WLAN מתקדם</string>
+    <string name="wifi_setting_frequency_band_title">רצועת תדרי WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN ישיר</string>
+    <string name="wifi_p2p_wps_setup">הגדרה מוגנת של WLAN</string>
+    <string name="wifi_tether_checkbox_text">נקודה חמה ניידת של WLAN</string>
+    <string name="wifi_tether_failed_subtext">שגיאה בנקודה חמה ניידת של WLAN</string>
+    <string name="wifi_tether_configure_ap_text">הגדר נקודה חמה של WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s נקודה חמה ניידת של WLAN</string>
+    <string name="status_wifi_mac_address">כתובת MAC של WLAN</string>
+    <string name="location_neighborhood_level">אפשר ליישומים להשתמש בנתונים ממקורות כגון רשתות WLAN ורשתות לנייד כדי לקבוע את המיקום המקורב שלך</string>
+    <string name="location_neighborhood_level_wifi">המיקום נקבע באמצעות WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">זמן פעולת WLAN</string>
+    <string name="bluetooth_on_time">זמן פעולת WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN פועל</string>
+    <string name="battery_action_wifi">הגדרות WLAN</string>
+    <string name="battery_desc_wifi">סוללה בשימוש על ידי WLAN</string>
+    <string name="battery_sugg_wifi">כבה את WLAN כשאינו בשימוש או כשאין רשת זמינה</string>
+    <string name="gadget_toggle_wifi">מעדכן את הגדרת WLAN</string>
+    <string name="backup_data_summary">גיבוי לשרתי Google של נתוני יישומים, סיסמאות WLAN והגדרות נוספות</string>
+    <string name="backup_erase_dialog_message">להפסיק לגבות את הסיסמאות, הסימניות, הגדרות נוספות ונתוני יישומים של WLAN, ולמחוק את כל העותקים שנמצאים בשרתי Google?</string>
+    <string name="wifi_setup_title">הגדרת WLAN</string>
+    <string name="wifi_setup_title_editing_network">התחבר לרשת ה-WLAN‏ %s</string>
+    <string name="wifi_setup_title_connecting_network">מתחבר לרשת ה-WLAN‏ %s…</string>
+    <string name="wifi_setup_title_connected_network">מחובר לרשת ה-WLAN‏ %s</string>
+    <string name="wifi_setup_eap_not_supported">"לא ניתן להגדיר חיבור WLAN של EAP במהלך ההגדרה. לאחר ההגדרה, תוכל לעשות זאת ב'הגדרות' > 'חיבורים אלחוטיים ורשתות'."</string>
+    <string name="wifi_setup_description_connected">גע ב<b>הבא</b>" כדי להמשיך בהגדרה.
+
+גע ב"<b>הקודם</b> כדי להתחבר לרשת WLAN אחרת.</string>
+    <string name="data_usage_menu_show_wifi">הצג שימוש ב-WLAN</string>
+    <string name="data_usage_disable_wifi_limit">הגדר מגבלה לנתוני WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">השבת נתוני רקע ברשת נתונים לנייד בלבד. ייעשה שימוש ברשת WLAN אם זמינה.</string>
+    <string name="data_usage_app_restrict_dialog">"תכונה זו עלולה לגרום להפסקת הפעילות של יישום שתלוי בנתוני רקע כאשר אין רשת WLAN זמינה.
+
+תוכל למצוא בקרים מתאימים יותר לשימוש בנתונים בהגדרות הזמינות ביישום."</string>
+    <string name="data_usage_restrict_background">אם תגביל את נתוני הרקע של מכשירים ניידים, יישומים ושירותים מסוימים לא יפעלו עד שתתחבר לרשת WLAN.</string>
+</resources>

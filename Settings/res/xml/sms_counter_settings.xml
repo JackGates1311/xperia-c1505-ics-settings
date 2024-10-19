@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sms_counter_application_name_text"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonyericsson.settings.smscounter.SmsCounterBarPreference android:title="Percentage bar" android:key="sms_counter_summary_bar" />
+    <com.sonyericsson.settings.smscounter.SmsCounterMessagePreference android:title="Total sent message" android:key="sms_counter_message" />
+    <EditTextPreference android:numeric="integer" android:title="@string/sms_counter_list_message_warning_level_text" android:key="sms_counter_warning_level" android:defaultValue="50" android:dialogTitle="@string/sms_counter_list_message_warning_level_text" />
+    <EditTextPreference android:numeric="integer" android:title="@string/sms_counter_list_message_maximum_text" android:key="sms_counter_limit_level" android:defaultValue="100" android:dialogTitle="@string/sms_counter_list_message_maximum_text" />
+    <ListPreference android:entries="@array/smscounter_cycle" android:title="@string/sms_counter_list_count_cycle_text" android:key="sms_counter_cycle" android:dialogTitle="@string/sms_counter_list_count_cycle_text" android:entryValues="@array/smscounter_cycle_values" />
+    <Preference android:title="@string/sms_counter_list_start_date_text" android:key="sms_counter_startDay" android:dialogTitle="@string/sms_counter_popup_start_date_title_text" />
+    <ListPreference android:entries="@array/smscounter_weeks" android:title="@string/sms_counter_list_start_date_text" android:key="sms_counter_startWeek" android:dialogTitle="@string/sms_counter_popup_start_date_title_text" android:entryValues="@array/smscounter_weeks_values" />
+</PreferenceScreen>

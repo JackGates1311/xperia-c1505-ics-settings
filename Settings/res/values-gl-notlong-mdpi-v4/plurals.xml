@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">O contrasinal debe conter %d letras minúsculas como mínimo</item>
+        <item quantity="one">O contrasinal debe conter unha letra minúscula como mínimo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">O contrasinal debe ter como mín. %d caract. que non sexan letras</item>
+        <item quantity="one">O contrasinal debe ter como mín. 1 caráct. que non sexa unha letra</item>
+    </plurals>
+</resources>

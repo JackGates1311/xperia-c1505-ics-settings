@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">ফোন পুনঃস্থাপন</string>
+    <string name="master_reset_final_button_text">সেটিং পুনঃস্থাপন</string>
+    <string name="master_reset_gesture_explanation">একটি ফোন পুনঃস্থাপন করার জন্য আপনি অবশ্যই আপনার আনলক প্যাটার্ন আঁক:।</string>
+    <string name="wifi_reconnect">পুনঃসংযোগ করুন</string>
+    <string name="wifi_connected_limited">সীমাবদ্ধ সংযুক্তি</string>
+    <string name="wifi_connected_limited_with_ssid">সীমা: সংযো: সহ %1$s এর সাথে সংযুক্তি</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="sdcard_settings_screen_mass_storage_text">"USB বিপুল স: স্থা:  সক্রিয় ক:"</string>
+    <string name="lockpassword_pin_recently_used">সম্প্রতি ব্যবহৃত কোনও PIN-এ পরিবর্তন করতে পারা যায়না</string>
+    <string name="lockpassword_password_recently_used">সম্প্রতি ব্যবহৃত কোনও পাসওয়ার্ডে পরিবর্তন করতে পারা যায়না</string>
+    <string name="wifi_cancel">বাত. কর.</string>
+    <string name="brightness_summary">WhiteMagic™ দ্বারা পরিচালিত</string>
+    <string name="lockpassword_confirm_your_password_header">নিশ্চিত করতে আপনার পাসওয়ার্ড প্রবিষ্ট করুন</string>
+    <string name="lockpassword_confirm_your_pin_header">নিশ্চিত করতে আপনার PIN আবার প্রবিষ্ট করুন</string>
+    <string name="runningservices_settings_summary">চলতি চলে থাকা পরিষেবা দেখুন এবং নিয়ন্ত্রণ করুন</string>
+    <string name="usage_type_data_send">ডেটা প্রেরিত</string>
+    <string name="usage_type_data_recv">ডেটা গৃহীত</string>
+    <string name="menu_stats_refresh">সতেজ</string>
+</resources>

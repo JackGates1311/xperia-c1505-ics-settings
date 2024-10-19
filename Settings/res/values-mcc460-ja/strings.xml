@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN証明書のインストール</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN、Bluetooth、機内モード、モバイルネットワーク、VPNの設定</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLANをONにする</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN設定</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLANをONにしています...</string>
+    <string name="wifi_stopping">WLANをOFFにしています...</string>
+    <string name="wifi_enable_watchdog_service_summary">安定したインターネット接続があるときのみWLANネットワークを使用する</string>
+    <string name="wifi_setting_sleep_policy_title">スリープ時のWLAN</string>
+    <string name="wifi_access_points">WLANネットワーク</string>
+    <string name="wifi_empty_list_wifi_off">利用可能なネットワークを表示するにはWLANをONにしてください</string>
+    <string name="wifi_disabled_help">接続不良のためネットワークが無効になりました。[設定] > [WLAN]画面の[詳細設定]メニューでこの機能をOFFにできます。</string>
+    <string name="wifi_wps_overlap_error">別のWLAN保護セッションが検出されました。数分後にまたお試しください。</string>
+    <string name="wifi_advanced_titlebar">WLAN詳細設定</string>
+    <string name="wifi_setting_frequency_band_title">WLANの周波数帯</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WPS</string>
+    <string name="wifi_tether_checkbox_text">ﾎﾟｰﾀﾌﾞﾙWLANｱｸｾｽﾎﾟｲﾝﾄ</string>
+    <string name="wifi_tether_failed_subtext">ポータブルWLANアクセスポイントエラー</string>
+    <string name="wifi_tether_configure_ap_text">WLANアクセスポイントを設定</string>
+    <string name="wifi_tether_configure_subtext">%1$s%2$sポータブルWLANアクセスポイント</string>
+    <string name="status_wifi_mac_address">WLAN MACアドレス</string>
+    <string name="location_neighborhood_level">WLANやモバイルネットワークなどのデータを使用しておおよその現在地を特定することをアプリに許可する</string>
+    <string name="location_neighborhood_level_wifi">WLANで検出される位置情報</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLANをONにしている時間</string>
+    <string name="bluetooth_on_time">WLANをONにしている時間</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN使用</string>
+    <string name="battery_action_wifi">WLAN設定</string>
+    <string name="battery_desc_wifi">WLANの電池使用量</string>
+    <string name="battery_sugg_wifi">未使用時または電波が届かないときはWLANをOFFにします</string>
+    <string name="gadget_toggle_wifi">WLAN設定の更新</string>
+    <string name="backup_data_summary">アプリのデータ、WLANパスワードなどの設定をGoogleサーバーにバックアップする</string>
+    <string name="backup_erase_dialog_message">WLANパスワード、ブックマーク、その他の設定、アプリのデータのバックアップを停止し、Googleサーバー上のすべてのコピーを削除しますか?</string>
+    <string name="wifi_setup_title">WLANセットアップ</string>
+    <string name="wifi_setup_title_editing_network">WLANネットワーク「%s」に接続</string>
+    <string name="wifi_setup_title_connecting_network">WLANネットワーク「%s」に接続しています...</string>
+    <string name="wifi_setup_title_connected_network">WLANネットワーク「%s」に接続しました</string>
+    <string name="wifi_setup_eap_not_supported">セットアップ中にEAP WLAN接続は設定できません。セットアップ後に、[設定] > [無線とネットワーク]で設定できます。</string>
+    <string name="wifi_setup_description_connected">セットアップを続けるには[<b>次へ</b>"]をタップします。
+
+別のWLANネットワークに接続するには["<b>戻る</b>]をタップします。</string>
+    <string name="data_usage_menu_show_wifi">WLANの使用状況を表示</string>
+    <string name="data_usage_disable_wifi_limit">WLANデータの制限を設定</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">バックグラウンドデータをモバイルデータネットワークで無効、WLANで有効にします。</string>
+    <string name="data_usage_app_restrict_dialog">"この機能によって、バックグラウンドデータに依存しているアプリが、WLANが使用できないときに停止する可能性があります。
+
+アプリ内での設定では、より適切にデータ使用を管理できます。"</string>
+    <string name="data_usage_restrict_background">バックグラウンドのモバイルデータを制限すると、アプリやサービスの一部は、WLANネットワークに接続するまで機能しません。</string>
+</resources>

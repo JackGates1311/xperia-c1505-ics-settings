@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Внат. мемор. на уредот</item>
+        <item>Отстранл. SD-карт.</item>
+        <item>Нека одлучи систем.</item>
+    </string-array>
+</resources>

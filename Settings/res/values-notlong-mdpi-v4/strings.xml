@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Cannot change to a recently used PIN</string>
+    <string name="lockpassword_password_recently_used">Cannot change to a recently used password</string>
+    <string name="brightness_summary">Powered by WhiteMagic™</string>
+</resources>

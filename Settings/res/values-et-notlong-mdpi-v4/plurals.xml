@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parool peab sisaldama vähemalt %d tähte</item>
+        <item quantity="one">Paroolis peab olema vähemalt üks täht</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parool peab sisaldama vähemalt %d numbrilist arvu</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte numbrilist arvu</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parool peab sisaldama vähemalt %d erimärki</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte erimärki</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parool peab sisaldama vähemalt %d mitte-tähelist märki</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte mitte-tähelist märki</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bluetooth_notif_ticker">Solicitud. emparellamento por Bluetooth</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Activ. almac. masiv. USB</string>
+    <string name="cdma_security_settings_summary">Establecer A miña localización, desbl. de pantalla, bloqueo de almac. cred.</string>
+    <string name="lockpassword_pin_recently_used">Non se pode cambiar a un PIN usado recentemente</string>
+    <string name="lockpassword_password_recently_used">Non se pode cambiar a un contrasinal usado recentemente</string>
+    <string name="wifi_connect">Conect.</string>
+    <string name="wifi_forget">Elimin.</string>
+    <string name="wifi_cancel">Cancel.</string>
+    <string name="brightness_summary">Desenvolvido por WhiteMagic™</string>
+    <string name="master_clear_title">Restabl. dos datos de fábr.</string>
+    <string name="filter_apps_running">En execuc.</string>
+    <string name="allow_mock_location">Permit. localiz. simulada</string>
+    <string name="usage_type_cpu_foreground">CPU en 1º plan.</string>
+    <string name="usage_type_wake_lock">Manter en activ.</string>
+    <string name="usage_type_data_send">Datos env.</string>
+    <string name="usage_type_data_recv">Datos recib.</string>
+    <string name="backup_data_title">Efect. copia seg. dos datos</string>
+    <string name="active_device_admin_msg">Administrador de dispositivo</string>
+    <string name="select_device_admin_msg">Administradores dispositivo</string>
+</resources>

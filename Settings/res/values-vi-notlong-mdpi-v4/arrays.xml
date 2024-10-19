@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Bộ nhớ trong của thiết bị</item>
+        <item>Thẻ SD có thể tháo</item>
+        <item>Để h.thống quyết định</item>
+    </string-array>
+</resources>

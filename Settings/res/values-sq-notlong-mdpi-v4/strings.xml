@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Ricilëso telefon.</string>
+    <string name="master_reset_final_button_text">Ricilëso cilësim.</string>
+    <string name="master_reset_gesture_explanation">Vizatoni modelin e shkyçjes për të konfirmuar ricilësimin e tel..</string>
+    <string name="wifi_reconnect">Rilidhu</string>
+    <string name="wifi_connected_limited">Lidhshmëria e kufizuar</string>
+    <string name="wifi_connected_limited_with_ssid">Lidhur me %1$s me lidhshmëri të kufizuar</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Aktiv. arkiv. masiv USB</string>
+    <string name="lockpassword_pin_recently_used">"S'mund ta ndryshoni në PIN të përdorur së fundi"</string>
+    <string name="lockpassword_password_recently_used">"S'mund ta ndryshoni në fjalëkalim të përdorur së fundi"</string>
+    <string name="brightness_summary">Mundësuar nga WhiteMagic™</string>
+    <string name="lockpassword_confirm_your_password_header">Futni përsëri fjalëkalimin për ta konfirmuar</string>
+    <string name="lockpassword_confirm_your_pin_header">Futni përsëri PIN-in për ta konfirmuar</string>
+    <string name="filter_apps_running">Në veprim</string>
+    <string name="allow_mock_location">Lejo vendnd. e rreme</string>
+    <string name="usage_type_cpu_foreground">Plani parë i CPU</string>
+    <string name="usage_type_data_send">Të dhn. dërg.</string>
+    <string name="usage_type_data_recv">Të dhn. marr.</string>
+    <string name="usage_type_on_time">Koha aktive</string>
+</resources>

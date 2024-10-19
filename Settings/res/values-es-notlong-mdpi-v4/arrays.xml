@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Dispositivo almac interno</item>
+        <item>Tarjeta SD desmont</item>
+        <item>Dejar sistema decidir</item>
+    </string-array>
+</resources>

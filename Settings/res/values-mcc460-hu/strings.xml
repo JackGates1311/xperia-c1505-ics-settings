@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN tanúsítv. telepítése</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, repülőgépes üzemmód, mobilhálózatok és VPN-ek kezelése</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN bekapcsolása</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-beállítások</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN bekapcsolása</string>
+    <string name="wifi_stopping">WLAN kikapcsolása</string>
+    <string name="wifi_enable_watchdog_service_summary">Csak akkor használjon WLAN hálózatot, ha jó az internetkapcsolata</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN fenntartása alvó állapotban</string>
+    <string name="wifi_access_points">WLAN hálózatok</string>
+    <string name="wifi_empty_list_wifi_off">Az elérhető hálózatokhoz kapcsolja be a WLAN-t.</string>
+    <string name="wifi_disabled_help">A hálózat elkerülve rossz kapcsolat miatt. Ezt a viselkedést kikapcsolhatja a Beállítások > WLAN-képernyő Speciális menüpontjában.</string>
+    <string name="wifi_wps_overlap_error">Másik védett WLAN-munkamenet észlelhető. Próbálkozzon újból pár perc múlva.</string>
+    <string name="wifi_advanced_titlebar">Speciális WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-frekvenciasáv</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN Protected Setup</string>
+    <string name="wifi_tether_checkbox_text">Hordozható WLAN-csatlakozási pont</string>
+    <string name="wifi_tether_failed_subtext">Hordozható WLAN-csatlakozási pont hibája</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-csatlakozási pont konfigurálása</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s hordozható WLAN-csatlakozási pont</string>
+    <string name="status_wifi_mac_address">WLAN MAC-cím</string>
+    <string name="location_neighborhood_level">Engedélyezze az alkalmazásoknak források (pl. WLAN- és mobilhálózatok) adatainak használatát tartózkodási helye meghatározásához</string>
+    <string name="location_neighborhood_level_wifi">WLAN által meghatározott hely</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Bekapcsolt WLAN</string>
+    <string name="bluetooth_on_time">Bekapcsolt WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN működik</string>
+    <string name="battery_action_wifi">WLAN-beállítások</string>
+    <string name="battery_desc_wifi">A WLAN által felhasznált energia</string>
+    <string name="battery_sugg_wifi">Kapcsolja ki a WLAN-t, ha nem használja, vagy nem áll rendelkezésre</string>
+    <string name="gadget_toggle_wifi">WLAN-beállítások frissítése</string>
+    <string name="backup_data_summary">Alkalmazásadatok, WLAN-jelszavak és más beállítások biztonsági mentése a Google kiszolgálóin</string>
+    <string name="backup_erase_dialog_message">Leállítja a WLAN-jelszavak, könyvjelzők, egyéb beállítások és alkalmazásadatok biztonsági mentését, és törli a Google-kiszolgálókon lévő összes példányt?</string>
+    <string name="wifi_setup_title">WLAN beállítása</string>
+    <string name="wifi_setup_title_editing_network">Csatlakozás a(z) %s WLAN hálózathoz</string>
+    <string name="wifi_setup_title_connecting_network">Csatlakozás a(z) %s WLAN hálózathoz…</string>
+    <string name="wifi_setup_title_connected_network">Csatlakozott a(z) %s WLAN hálózathoz</string>
+    <string name="wifi_setup_eap_not_supported">A beállítás során nem konfigurálhat EAP WLAN-kapcsolatot. Ezt a beállítás után a Beállítások > Vezeték nélküli és mobilhálózatok menüpontban teheti meg.</string>
+    <string name="wifi_setup_description_connected">Érintse meg a <b>Tovább</b>" gombot a telepítés folytatásához.
+
+Érintse meg a "<b>Vissza</b> gombot egy másik WLAN hálózathoz való csatlakozáshoz.</string>
+    <string name="data_usage_menu_show_wifi">WLAN-használat megjelenítése</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-adatkorlát beállítása</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Háttéradatok letiltása csak mobilhálózatban. WLAN használata, ha van.</string>
+    <string name="data_usage_app_restrict_dialog">"Ez a funkció a háttéradatoktól függő alkalmazások leállását okozhatja, ha nem érhető el WLAN.
+
+Az adathasználat szabályozására megfelelőbb módot találhat az alkalmazáson belüli beállítások között."</string>
+    <string name="data_usage_restrict_background">Ha korlátozza a háttérben történő mobil adatforgalmat, egyes alkalmazások és szolgáltatások csak akkor fognak működni, ha WLAN hálózathoz csatlakozik.</string>
+</resources>

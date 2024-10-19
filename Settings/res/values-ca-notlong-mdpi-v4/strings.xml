@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Reinicialitza tel.</string>
+    <string name="master_reset_final_button_text">Reinic. paràm.</string>
+    <string name="wifi_connected_limited_with_ssid">Connectat a %1$s amb connectivitat limitada</string>
+    <string name="bluetooth_notif_ticker">"Sol·licitud d'aparellament del Bluetooth"</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Hab. emm. massiu USB</string>
+    <string name="lockpassword_pin_recently_used">No es pot canviar a un PIN utilitzat recentment</string>
+    <string name="lockpassword_password_recently_used">No es pot canviar a una contras. utilitzada recentment</string>
+    <string name="wifi_connect">Connec.</string>
+    <string name="wifi_cancel">Cancel.</string>
+    <string name="brightness_summary">Amb tecnologia WhiteMagic™</string>
+    <string name="menu_restore">Restab. al valor per def.</string>
+    <string name="call_settings_title">Paràmetres de trucada</string>
+    <string name="assisted_gps_disabled">Utilitza serv. per assistir GPS (desact. per millorar el rendiment del GPS)</string>
+    <string name="lockpattern_retry_button_text">Torna a provar</string>
+    <string name="filter_apps_running">En execuc.</string>
+    <string name="allow_mock_location">Permet ubicac. falses</string>
+    <string name="usage_type_cpu_foreground">CPU primer pla</string>
+    <string name="usage_type_data_send">Dades env.</string>
+    <string name="usage_type_data_recv">Dades rebud.</string>
+    <string name="usage_type_on_time">Temps activitat</string>
+</resources>

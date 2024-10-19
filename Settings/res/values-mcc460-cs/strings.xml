@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Instalovat certifikáty WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Spravovat WLAN, Bluetooth, režim V letadle, mobilní sítě a sítě VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Zapnout WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Nastavení WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Zapínání WLAN...</string>
+    <string name="wifi_stopping">Vypínání WLAN...</string>
+    <string name="wifi_enable_watchdog_service_summary">Nepoužívat síť WLAN, pokud nemá kvalitní internetové připojení.</string>
+    <string name="wifi_setting_sleep_policy_title">Ponechat připojení WLAN během režimu spánku</string>
+    <string name="wifi_access_points">Sítě WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Chcete-li zobrazit sítě k dispozici, zapněte síť WLAN.</string>
+    <string name="wifi_disabled_help">Síť nebyla použita z důvodu slabého připojení. Toto chování můžete vypnout v nabídce Nastavení > WLAN v položce Pokročilé.</string>
+    <string name="wifi_wps_overlap_error">Byla zjištěna další relace zabezpečené sítě WLAN. Opakujte akci za několik minut.</string>
+    <string name="wifi_advanced_titlebar">Pokročilá nastavení WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvenční pásmo WLAN</string>
+    <string name="wifi_p2p_settings_title">Přímé připojení sítě WLAN</string>
+    <string name="wifi_p2p_wps_setup">Nastavení zabezpečení sítě WLAN</string>
+    <string name="wifi_tether_checkbox_text">Přenosný přístupový bod WLAN</string>
+    <string name="wifi_tether_failed_subtext">Chyba přenosného přístupového bodu WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurovat přístupový bod WLAN</string>
+    <string name="wifi_tether_configure_subtext">Přenosný přístupový bod WLAN %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Adresa MAC sítě WLAN</string>
+    <string name="location_neighborhood_level">Povolit aplikacím používat k určení vaší přibližné polohy údaje ze zdrojů, jako jsou sítě WLAN nebo mobilní sítě</string>
+    <string name="location_neighborhood_level_wifi">Poloha určená sítí WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Doba provozu sítě WLAN</string>
+    <string name="bluetooth_on_time">Doba provozu sítě WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN je aktivní</string>
+    <string name="battery_action_wifi">Nastavení WLAN</string>
+    <string name="battery_desc_wifi">Využití baterie sítí WLAN</string>
+    <string name="battery_sugg_wifi">Vypněte síť WLAN, když ji nepoužíváte nebo když není k dispozici</string>
+    <string name="gadget_toggle_wifi">Aktualizace nastavení WLAN</string>
+    <string name="backup_data_summary">Zálohovat data aplikací, hesla sítí WLAN a další nastavení na serverech Google</string>
+    <string name="backup_erase_dialog_message">Chcete zrušit zálohování hesel sítí WLAN, záložek a dalších nastavení a dat aplikací a vymazat všechny kopie těchto dat na serverech Google?</string>
+    <string name="wifi_setup_title">Nastavení sítě WLAN</string>
+    <string name="wifi_setup_title_editing_network">Připojit k síti WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Připojování k síti WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Připojeno k síti WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Připojení WLAN EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části Bezdrátová připojení a sítě.</string>
+    <string name="wifi_setup_description_connected">Chcete-li pokračovat v nastavení, dotkněte se možnosti <b>Další</b>".
+
+Chcete-li se připojit k jiné síti WLAN, dotkněte se možnosti "<b>Zpět</b>.</string>
+    <string name="data_usage_menu_show_wifi">Zobrazit využití WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Nastavit limit dat sítě WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Zakázat data na pozadí v mobilních sítích. Používat síť WLAN, je-li k dispozici.</string>
+    <string name="data_usage_app_restrict_dialog">"Tato funkce může způsobit, že aplikace závislá na datech na pozadí přestane fungovat, pokud nebude k dispozici síť WLAN.
+
+Vhodnější ovládací prvky využití dat naleznete v nastavení, které je k dispozici přímo v aplikaci."</string>
+    <string name="data_usage_restrict_background">Pokud omezíte mobilní data na pozadí, budou některé aplikace a služby fungovat pouze v případě, že bude k dispozici síť WLAN.</string>
+</resources>

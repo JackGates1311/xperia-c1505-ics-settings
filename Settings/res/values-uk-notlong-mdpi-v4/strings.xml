@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Скинути</string>
+    <string name="master_reset_final_button_text">Скинути устан.</string>
+    <string name="master_reset_gesture_explanation">Для скидан. установок потрібно накресл. шаблон доступу.</string>
+    <string name="wifi_reconnect">Знову приєднати</string>
+    <string name="wifi_connected_limited_with_ssid">Обмежене з’єднання із %1$s</string>
+    <string name="bluetooth_notif_ticker">Запит на створення пари Bluetooth</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Увімк. пр.мас.зб. USB</string>
+    <string name="security_settings_summary">Установити \"Моє розташування\", розблокування екрана, блокування SIM-картки, блокування сховища облікових даних</string>
+    <string name="lockpassword_pin_recently_used">Неможливо змінити на попередній PIN-код</string>
+    <string name="lockpassword_password_recently_used">Неможливо змінити на попередній пароль</string>
+    <string name="wifi_menu_modify">Змінити парам. мережі</string>
+    <string name="checkbox_notification_same_as_incoming_call">Використати гучність вхідного дзвінка для сповіщень</string>
+    <string name="sync_settings">Обл. записи та синхр.</string>
+    <string name="accelerometer_title">Автоповертан. екрана</string>
+    <string name="brightness_summary">На базі WhiteMagic™</string>
+    <string name="battery_level_title">Рівень заряду акумулятора</string>
+    <string name="menu_restore">Скинути до стандарт.</string>
+    <string name="assisted_gps">Вик. GPS із дод. підтр.</string>
+    <string name="assisted_gps_enabled">Викор. сервер для дод. підтр. GPS (скасуйте для менш.завант.мереж.)</string>
+    <string name="assisted_gps_disabled">Викор. сервер для дод. підтр. GPS (скасуйте для кращої продукт. GPS)</string>
+    <string name="lockpassword_confirm_your_password_header">Знову введіть пароль для підтвердження</string>
+    <string name="lockpassword_confirm_your_pin_header">Знову введіть PIN-код для підтвердження</string>
+    <string name="lockpattern_retry_button_text">Повтор. спробу</string>
+    <string name="allow_mock_location">Несправжні розташув.</string>
+    <string name="usage_type_cpu">Використ. ЦП</string>
+    <string name="usage_type_data_send">Надісл. дані</string>
+    <string name="usage_type_data_recv">Отрим. дані</string>
+    <string name="backup_data_title">Створ. резерв. копії даних</string>
+</resources>

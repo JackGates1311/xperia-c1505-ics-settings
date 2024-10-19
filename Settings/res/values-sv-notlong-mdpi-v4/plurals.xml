@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Lösenordet måste innehålla minst %d specialtecken</item>
+        <item quantity="one">Lösenordet måste innehålla minst ett specialtecken</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Lösenordet måste innehålla minst %d tecken</item>
+        <item quantity="one">Lösenordet måste innehålla minst ett tecken</item>
+    </plurals>
+</resources>

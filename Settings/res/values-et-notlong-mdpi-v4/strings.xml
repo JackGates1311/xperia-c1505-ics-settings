@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Läht. telefon</string>
+    <string name="master_reset_final_button_text">Läht. seaded</string>
+    <string name="wifi_connected_limited_with_ssid">Ühend-d piirat. ühenduv. võrguga %1$s</string>
+    <string name="bluetooth_notif_ticker">Bluetooth-seadmega sidumise taotlus</string>
+    <string name="date_time_date_format">Kuupäevavorm. valimine</string>
+    <string name="lockpassword_pin_recently_used">Ei saa hiljuti kasutatud PIN-koodi kasutada</string>
+    <string name="lockpassword_password_recently_used">Ei saa kasutada hiljuti kasutatud parooli</string>
+    <string name="sync_settings">Kontod ja sünkr.</string>
+    <string name="accelerometer_title">Pööra kuva autom.</string>
+    <string name="brightness_summary">Toetab: WhiteMagic™</string>
+    <string name="usage_type_data_send">Saadet. and.</string>
+    <string name="usage_type_data_recv">Vastuv. and.</string>
+    <string name="usage_type_on_time">Sissel. hoid.</string>
+    <string name="usage_type_no_coverage">Aeg, mil sign. puud.</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">安裝WLAN憑證</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">管理WLAN、Bluetooth™ 、飛行模式、流動網絡及VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">開啟WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN設定</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">正在開啟WLAN</string>
+    <string name="wifi_stopping">正在關閉WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">除非互聯網連接狀態良好，否則不使用WLAN。</string>
+    <string name="wifi_setting_sleep_policy_title">睡眠狀態下仍保持WLAN連線</string>
+    <string name="wifi_access_points">WLAN網絡</string>
+    <string name="wifi_empty_list_wifi_off">如要查看可用的網絡，請開啟WLAN。</string>
+    <string name="wifi_disabled_help">已避開這個連接品質不佳的網絡。您可以前往[設定] > [WLAN]畫面的[進階]選單項目中關閉這項行為。</string>
+    <string name="wifi_wps_overlap_error">偵測到其他受保護的WLAN工作階段，請稍後再試一次。</string>
+    <string name="wifi_advanced_titlebar">進階WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN頻帶</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN受保護設定</string>
+    <string name="wifi_tether_checkbox_text">可攜式WLAN熱點</string>
+    <string name="wifi_tether_failed_subtext">可攜式WLAN熱點錯誤</string>
+    <string name="wifi_tether_configure_ap_text">配置WLAN熱點</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s可攜式WLAN無線熱點</string>
+    <string name="status_wifi_mac_address">WLAN MAC位址</string>
+    <string name="location_neighborhood_level">允許應用程式使用WLAN和流動網絡等來源的數據測定您的約略位置</string>
+    <string name="location_neighborhood_level_wifi">根據WLAN判定位置</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN開啟時間</string>
+    <string name="bluetooth_on_time">WLAN開啟時間</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN執行中</string>
+    <string name="battery_action_wifi">WLAN設定</string>
+    <string name="battery_desc_wifi">WLAN用電量</string>
+    <string name="battery_sugg_wifi">未使用或無法使用WLAN時即關閉WLAN</string>
+    <string name="gadget_toggle_wifi">正在更新WLAN設定</string>
+    <string name="backup_data_summary">將應用程式數據、WLAN密碼及其他設定備份至Google伺服器</string>
+    <string name="backup_erase_dialog_message">您要停止備份您的WLAN密碼、書籤、其他設定，以及應用程式資料，並清除Google伺服器上的所有副本嗎?</string>
+    <string name="wifi_setup_title">WLAN設定</string>
+    <string name="wifi_setup_title_editing_network">連接至WLAN網絡%s</string>
+    <string name="wifi_setup_title_connecting_network">正在連接到WLAN網絡%s…</string>
+    <string name="wifi_setup_title_connected_network">已連接到WLAN網絡%s</string>
+    <string name="wifi_setup_eap_not_supported">設定期間無法設定EAP WLAN連接，如要設定連線，請於設定後，在[設定] > [無線與網絡]中設定連接。</string>
+    <string name="wifi_setup_description_connected">碰觸<b>上一步</b>"即可繼續設定。
+
+碰觸"<b>上一步</b>則可連接至其他WLAN網絡。</string>
+    <string name="data_usage_menu_show_wifi">顯示WLAN用量</string>
+    <string name="data_usage_disable_wifi_limit">設定WLAN數據上限</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">僅停用流動網絡數據網絡的背景數據，可連上WLAN時則使用WLAN。</string>
+    <string name="data_usage_app_restrict_dialog">"這項功能可能導致需要使用背景數據的應用程式在無法連上WLAN時停止運作。
+
+如需更多適合的數據用量控制項，請前往應用程式本身的設定中尋找。"</string>
+    <string name="data_usage_restrict_background">除非您連接至WLAN網絡，否則限制背景流動網絡數據時，部分應用程式和服務將無法運作。</string>
+</resources>

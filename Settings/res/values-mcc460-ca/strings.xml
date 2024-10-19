@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Instal·la els certificats WLAN</string>
+    <string name="wifi_security_wapi_psk">PSK de WLAN</string>
+    <string name="wifi_security_wapi_cert">CERT de WLAN</string>
+    <string name="radio_controls_summary">"Gestiona la connexió WLAN, el Bluetooth, el mode d'avió, les xarxes mòbils i les VPN"</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Activeu la connexió WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Paràmetres de WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Activació de la connexió WLAN</string>
+    <string name="wifi_stopping">Desactivació de la connexió WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">No facis servir una xarxa WLAN si no té una bona connexió a Internet</string>
+    <string name="wifi_setting_sleep_policy_title">Mantén la connexió WLAN activada durant el període de repòs</string>
+    <string name="wifi_access_points">Xarxes WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activeu WLAN.</string>
+    <string name="wifi_disabled_help">"S'ha evitat la xarxa perquè la connexió era deficient. Desactiveu aquest comportament a la pantalla Paràmetres > WLAN, a l'element de menú Avançat."</string>
+    <string name="wifi_wps_overlap_error">"S'ha detectat una altra sessió protegida per WLAN. Torna-ho a provar d'aquí a una estona."</string>
+    <string name="wifi_advanced_titlebar">WLAN avançada</string>
+    <string name="wifi_setting_frequency_band_title">Banda de freqüència de WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">Configuració protegida de WLAN</string>
+    <string name="wifi_tether_checkbox_text">Punt de connexió WLAN portàtil</string>
+    <string name="wifi_tether_failed_subtext">Error de punt de connexió WLAN portàtil</string>
+    <string name="wifi_tether_configure_ap_text">Configura el punt de connexió WLAN</string>
+    <string name="wifi_tether_configure_subtext">Punt de connexió WLAN portàtil amb %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Adreça MAC de WLAN</string>
+    <string name="location_neighborhood_level">"Permet que les aplicacions usin dades d'orígens com ara WLAN i xarxes de telefonia mòbil per determinar la vostra ubicació aprox."</string>
+    <string name="location_neighborhood_level_wifi">Ubicació determinada per WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN en hora</string>
+    <string name="bluetooth_on_time">WLAN en hora</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Ús de WLAN</string>
+    <string name="battery_action_wifi">Paràmetres de WLAN</string>
+    <string name="battery_desc_wifi">Bateria utilitzada per WLAN</string>
+    <string name="battery_sugg_wifi">"Desactiveu la connexió WLAN quan no l'utilitzeu o quan no estigui disponible"</string>
+    <string name="gadget_toggle_wifi">Actualització del paràmetre de la connexió WLAN</string>
+    <string name="backup_data_summary">"Fes una còpia de seguretat de les dades de les aplicacions, de les contrasenyes de WLAN i d'altres paràmetres als servidors de Google"</string>
+    <string name="backup_erase_dialog_message">"Voleu deixar de fer còpies de seguretat de les contrasenyes de WLAN, de les adreces d'interès, d'altres paràmetres i de les dades d'aplicacions i esborrar totes les còpies que n'hi hagi als servidors de Google?"</string>
+    <string name="wifi_setup_title">Configuració de WLAN</string>
+    <string name="wifi_setup_title_editing_network">Connexió a la xarxa WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">"S'està connectant a la xarxa WLAN %s…"</string>
+    <string name="wifi_setup_title_connected_network">Connectat a la xarxa WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">No podeu configurar una connexió WLAN EAP. Després de la configuració, podeu portar a terme aquesta acció a Paràmetres > Sense fil i xarxes.</string>
+    <string name="wifi_setup_description_connected">Toqueu <b>Següent</b>" per continuar amb la configuració.
+
+Toqueu "<b>Enrere</b> per connectar-vos a una altra xarxa WLAN.</string>
+    <string name="data_usage_menu_show_wifi">"Mostra l'ús de WLAN"</string>
+    <string name="data_usage_disable_wifi_limit">Defineix un límit de dades WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Inhab. dades refer. només en xarxes mòbils (WLAN si possible)</string>
+    <string name="data_usage_app_restrict_dialog">"Aquesta característica pot provocar que una aplicació que depèn de les dades de referència deixi de funcionar quan la xarxa WLAN no estigui disponible.
+
+Podeu trobar controls de l'ús de dades més adequats als paràmetres disponibles a l'aplicació."</string>
+    <string name="data_usage_restrict_background">Si restringiu les dades mòbils de referència, hi ha aplicacions i serveis que no funcionaran si no esteu connectat a una xarxa WLAN.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">Instalovat certifikáty z interního úložiště</string>
+    <string name="master_reset_desc">"Tato akce obnoví všechna nastavení v telefonu, například:
+"<li>Nastavení systému telefonu</li>"
+"<li>Nastavení svázané s aplikacemi</li>"
+Následující položky nebudou vymazány:
+"<li>Nastavení zadaná uživatelem</li>"
+"<li>Instalované aplikace</li>"
+"<li>Soubory v interním úložišti nebo na kartě SD, jako je hudba a fotografie</li></string>
+    <string name="master_reset_final_button_text">Nast. obnovení</string>
+    <string name="wifi_reconnect">Znovu připojit</string>
+    <string name="wifi_connected_limited_with_ssid">"Připojeno k %1$s s omezenými mož. připojení "</string>
+    <string name="lockpassword_pin_recently_used">Nelze změnit na nedávno použitý kód PIN</string>
+    <string name="lockpassword_password_recently_used">Nelze změnit na nedávno použité heslo</string>
+    <string name="bluetooth_pairing_request">Požadavek na párování zařízení Bluetooth</string>
+    <string name="brightness_summary">Založeno na technologii WhiteMagic™</string>
+    <string name="lockpattern_recording_intro_footer">Nápovědu zobrazíte stisknutím kláv. Menu.</string>
+    <string name="usage_type_data_send">Odesl. data</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Сброс настр.</string>
+    <string name="master_reset_gesture_explanation">Нарисуйте знак разблок., чтобы подтвердить сброс настроек.</string>
+    <string name="wifi_reconnect">Подключить повторно</string>
+    <string name="wifi_connected_limited">Ограниченные подключения</string>
+    <string name="wifi_connected_limited_with_ssid">Подключ. к %1$s с ограничением</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Ошибка: этот PIN уже был использован</string>
+    <string name="lockpassword_password_recently_used">Ошибка: этот пароль уже был использован</string>
+    <string name="wifi_forget">Удал.</string>
+    <string name="sync_settings">Аккаунты и синх.</string>
+    <string name="brightness_summary">Под управлением WhiteMagic™</string>
+    <string name="master_clear_title">Общий сброс</string>
+    <string name="usb_tethering_available_subtext">USB-связь установлена, установите флажок для подключения</string>
+    <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снять флажок для разгрузки сети)</string>
+    <string name="lockpassword_confirm_your_password_header">Введите пароль снова для подтверждения</string>
+    <string name="lockpassword_confirm_your_pin_header">Введите PIN снова для подтверждения</string>
+    <string name="filter_apps_running">Запущенные</string>
+    <string name="allow_mock_location">Фиктив. местополож.</string>
+    <string name="usage_type_cpu_foreground">ЦП–актив. реж.</string>
+    <string name="usage_type_data_send">Отправ. дан.</string>
+    <string name="usage_type_data_recv">Получ. дан.</string>
+    <string name="usage_type_no_coverage">Время отсут. сигн.</string>
+    <string name="select_device_admin_msg">Администраторы</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_info_txt">Luaţi în consid. stocarea răspunsului într-un loc sigur în cazul în care îl uitaţi.</string>
+    <string name="summary_install_wapi_certs">Instalaţi certificate din spaţiul de stocare intern</string>
+    <string name="master_reset_desc">"Astfel se vor reiniţializa toate setările telefonului, inclusiv:
+"<li>Setările de sistem ale telefonului</li>"
+"<li>Setările setului de aplicaţii</li>"
+Nu se vor şterge:
+"<li>Setările specificate de utilizator</li>"
+"<li>Aplicaţiile instalate</li>"
+"<li>Fişierele de pe spaţiul de stocare internă şi/sau cartela SD, cum ar fi muzica şi fotografiile</li></string>
+    <string name="master_reset_button_text">Resetare telef.</string>
+    <string name="master_reset_final_button_text">Setări resetare</string>
+    <string name="master_reset_cancel">Reiniţializare generală revocată. Modul Avion nu este activat.</string>
+    <string name="wifi_connected_limited_with_ssid">Conectată la %1$s cu conectivitate limitată</string>
+    <string name="lockpassword_continue_label">Continuaţi</string>
+    <string name="lockpassword_pin_recently_used">Imposibil de înlocuit cu un cod PIN utilizat recent</string>
+    <string name="lockpassword_password_recently_used">Imposibil de înlocuit cu o parolă utilizată recent</string>
+    <string name="wifi_menu_forget">Anulare memorare reţea</string>
+    <string name="wifi_forget">Renun.</string>
+    <string name="brightness_summary">Pe platformă WhiteMagic™</string>
+    <string name="internal_memory">Spaţiu de stocare intern</string>
+    <string name="menu_restore">Restabilire valori impl.</string>
+    <string name="lockpattern_change_lock_pin_label">Schimbaţi codul PIN de deblocare</string>
+    <string name="filter_apps_running">Se execută</string>
+    <string name="usage_type_wake_lock">Menţ. activat</string>
+    <string name="usage_type_on_time">Durată funcţ.</string>
+</resources>

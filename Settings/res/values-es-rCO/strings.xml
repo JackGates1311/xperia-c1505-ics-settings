@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pointer_settings_category">Opciones de Puntero</string>
+    <string name="account_phone">Contactos teléfono</string>
+    <string name="account_adn">Contactos SIM</string>
+</resources>

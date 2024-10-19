@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d hrf kecil</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 hrf kecil</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Kata laluan mesti mengandungi skrng-krngnya %d huruf besar</item>
+        <item quantity="one">Kata laluan mesti mengandungi skrng-krngnya 1 huruf besar</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Kata laluan mesti mengandungi skrng-krngnya %d digit angka</item>
+        <item quantity="one">Kata laluan mesti mengandungi skrng-krngnya 1 digit angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Kata laluan mesti mengandungi skrng-krngnya %d simbol khas</item>
+        <item quantity="one">Kata laluan mesti mengandungi skrng-krngnya 1 simbol khas</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Kata laluan mesti mengandungi sekrng-krngnya %d aksra bkn hrf</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekrng-krngnya 1 aksara bkn hrf</item>
+    </plurals>
+</resources>

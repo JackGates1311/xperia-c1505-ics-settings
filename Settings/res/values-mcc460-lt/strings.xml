@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Įdiegti WLAN sertifikatus</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Valdyti „WLAN“, „Bluetooth“, skrydžio režimą, mobiliojo ryšio ir virtualiuosius privačiuosius tinklus</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Įjungti „WLAN“</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">„WLAN“ nustatymai</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Įjungiamas „WLAN“…</string>
+    <string name="wifi_stopping">Išjungiamas „WLAN“…</string>
+    <string name="wifi_enable_watchdog_service_summary">Nenaudoti „WLAN“ tinklo, nebent geras jo interneto ryšys</string>
+    <string name="wifi_setting_sleep_policy_title">Palikti „WLAN“ įjungtą, kai veikia miego režimas</string>
+    <string name="wifi_access_points">„WLAN“ tinklai</string>
+    <string name="wifi_empty_list_wifi_off">Jei norite perž. pasiek. tinklus, įjunk. „WLAN“.</string>
+    <string name="wifi_disabled_help">Tinklo vengiama dėl prasto ryšio. Išjunkite šią funkciją apsilankę ekrane „Nustatymai“ > „WLAN“ ir pasirinkę meniu elementą „Išplėstiniai“.</string>
+    <string name="wifi_wps_overlap_error">Aptiktas kitas „WLAN“ apsaugotas seansas. Po kelių min. bandykite dar kartą.</string>
+    <string name="wifi_advanced_titlebar">Išplėstinis „WLAN“</string>
+    <string name="wifi_setting_frequency_band_title">„WLAN“ dažnių juosta</string>
+    <string name="wifi_p2p_settings_title">„WLAN“ tiesioginis</string>
+    <string name="wifi_p2p_wps_setup">„WLAN“ apsaugotas nustatymas</string>
+    <string name="wifi_tether_checkbox_text">Perkeliamasis „WLAN“ prieigos taškas</string>
+    <string name="wifi_tether_failed_subtext">Perkeliamojo „WLAN“ prieigos taško klaida</string>
+    <string name="wifi_tether_configure_ap_text">Konfigūruoti „WLAN“ prieigos tašką</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s perkeliamasis „WLAN“ prieigos taškas</string>
+    <string name="status_wifi_mac_address">„WLAN“ MAC adresas</string>
+    <string name="location_neighborhood_level">Leisti programoms naudoti duomenis iš šaltinių, pvz., „WLAN“ ir mobiliojo ryšio tinklų, kad būtų nustatyta jūsų apytikslė vieta</string>
+    <string name="location_neighborhood_level_wifi">Pagal „WLAN“ nustatyta vieta</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">„WLAN“ laiku</string>
+    <string name="bluetooth_on_time">„WLAN“ laiku</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">„WLAN“ vykdoma</string>
+    <string name="battery_action_wifi">„WLAN“ nustatymai</string>
+    <string name="battery_desc_wifi">„WLAN“ naudojamas akumuliatorius</string>
+    <string name="battery_sugg_wifi">Išjungti „WLAN“, kai nenaudojamas arba negalimas</string>
+    <string name="gadget_toggle_wifi">Naujinamas „WLAN“ nustatymas</string>
+    <string name="backup_data_summary">Kurkite atsargines programos duomenų, „WLAN“ slaptažodžių ir kitų nustatymų kopijas „Google“ serveriuose</string>
+    <string name="backup_erase_dialog_message">Ar sustabdyti „WLAN“ slaptažodžių, žymių, kitų nustatymų ir paskyros duomenų atsarginių kopijų kūrimą ir ištrinti visas kopijas iš „Google“ serverių?</string>
+    <string name="wifi_setup_title">„WLAN“ nustatymas</string>
+    <string name="wifi_setup_title_editing_network">Prisijungimas prie „WLAN“ tinklo „%s“</string>
+    <string name="wifi_setup_title_connecting_network">Jungiamasi prie „WLAN“ tinklo „%s“...</string>
+    <string name="wifi_setup_title_connected_network">"Prisijungta prie „WLAN“ tinklo „%s“
+"</string>
+    <string name="wifi_setup_eap_not_supported">Negalite konfigūruoti EAP „WLAN“ ryšio, kai vykdomas nustatymas. Po nustatymo tai galite atlikti skiltyje „Nustatymai“ > „Belaidis ryšys ir tinklai“.</string>
+    <string name="wifi_setup_description_connected">Jei norite tęsti nustatymą, palieskite <b>Kitas</b>".
+
+Jei norite prisijungti prie kito „WLAN“ tinklo, palieskite "<b>Atgal</b>.</string>
+    <string name="data_usage_menu_show_wifi">Rodyti „WLAN“ naudojimą</string>
+    <string name="data_usage_disable_wifi_limit">Nustatyti „WLAN“ duomenų limitą</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Pasyvinti foninius duomenis tik mobiliųjų duomenų tinkle. „WLAN“ bus naudojamas, jei pasiekiamas</string>
+    <string name="data_usage_app_restrict_dialog">"Dėl šios funkcijos programa, veikianti foninių duomenų pagrindu, gali nebeveikti, kai „WLAN“ nepasiekiamas.
+
+Daugiau tinkamų duomenų naudojimo valdiklių galite rasti programoje pasiekiamuose nustatymuose."</string>
+    <string name="data_usage_restrict_background">Jei ribosite foninius mobiliojo ryšio duomenis, kai kurios programos ir paslaugos neveiks, nebent būsite prisijungę prie „WLAN“ tinklo.</string>
+</resources>

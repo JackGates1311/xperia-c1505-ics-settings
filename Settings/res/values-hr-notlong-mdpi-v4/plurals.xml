@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Zaporka mora sadržavati bar sljedeći broj malih slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno malo slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Zaporka mora sadržavati bar sljedeći broj velikih slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno veliko slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj brojki: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jednu brojku</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Zaporka mora sadržavati bar sljed. broj posebnih znakova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedan poseban znak</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Zaporka mora sadržavati bar slj. broj znakova koji nisu slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati bar jedan znak koji nije slovo</item>
+    </plurals>
+</resources>

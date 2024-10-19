@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gui_ok_txt">U redu</string>
+    <string name="summary_install_wapi_certs">Instaliranje sertifikata iz unutrašnjeg skladišta</string>
+    <string name="master_reset_final_button_text">Resetuj post.</string>
+    <string name="master_reset_gesture_prompt">Nacrtajte obrazac za otključav.</string>
+    <string name="master_reset_gesture_explanation">Morate nacrtati obrazac za otklj. da potvrdite resetov. telefona.</string>
+    <string name="master_reset_cancel">Opšti reset je otkazan. Režim letenja avionom nije uključen.</string>
+    <string name="wifi_connected_limited_with_ssid">Povez. sa %1$s sa ogranič. mogućn. poveziv.</string>
+    <string name="lockpassword_pin_recently_used">Nije moguće promeniti PIN u nedavno korišćen PIN</string>
+    <string name="lockpassword_password_recently_used">Nije moguće promeniti lozinku u nedavno korišćenu lozinku</string>
+    <string name="lockpassword_ok_label">U redu</string>
+    <string name="wifi_forget">Zabor.</string>
+    <string name="brightness">Svetlina</string>
+    <string name="brightness_summary">Omogućava WhiteMagic™</string>
+    <string name="sim_lock_settings_category">Podeš. zaključav. SIM kartice</string>
+    <string name="sim_enter_ok">U redu</string>
+    <string name="assisted_gps_enabled">Koristi server za pomoć GPS-u (opoz. izb. da smanjite upotrebu mreže)</string>
+    <string name="assisted_gps_disabled">Koristi server za pomoć GPS-u (opoz. izb. da poboljšate performan. GPS-a)</string>
+    <string name="show_running_services">Prikaži pokrenute usluge</string>
+    <string name="filter_apps_running">Pokrenuto</string>
+    <string name="dlg_ok">U redu</string>
+    <string name="runningservices_settings_title">Pokrenute usluge</string>
+    <string name="runningservices_settings_summary">Prikaz i kontrolisanje trenutno pokrenutih usluga</string>
+    <string name="usage_type_cpu_foreground">CPU u pred. pl.</string>
+    <string name="usage_type_wake_lock">Drži u budn. st.</string>
+    <string name="usage_type_data_send">Posl. podaci</string>
+    <string name="usage_type_data_recv">Primlj. podaci</string>
+    <string name="tts_default_synth_summary">Izaberite mašinu za sintezu govora koja će se koristiti za izgovoreni tekst</string>
+</resources>

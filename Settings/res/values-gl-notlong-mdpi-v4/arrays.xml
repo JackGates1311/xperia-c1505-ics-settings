@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Almacen. interno dispos.</item>
+        <item>Tarxeta SD extraíble</item>
+        <item>Perm. que sist. decid.</item>
+    </string-array>
+</resources>

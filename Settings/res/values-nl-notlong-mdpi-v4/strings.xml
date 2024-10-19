@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Tel. resetten</string>
+    <string name="wifi_connected_limited_with_ssid">Met %1$s verb. met beperkte connectiviteit</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="sdcard_settings_screen_mass_storage_text">USB-massaopsl. insch.</string>
+    <string name="lockpassword_pin_recently_used">Kan niet wijzigen naar een recent gebruikte PIN-code</string>
+    <string name="lockpassword_password_recently_used">Kan niet wijzigen naar een recent gebruikt wachtwoord</string>
+    <string name="wifi_menu_connect">Verbinden met netwerk</string>
+    <string name="wifi_forget">Verget.</string>
+    <string name="sync_settings">Accounts en sync</string>
+    <string name="brightness_summary">Mogelijk gemaakt met WhiteMagic™</string>
+    <string name="sim_reenter_new">Nieuwe PIN-code nogmaals invoeren</string>
+    <string name="menu_delete">APN verw.</string>
+    <string name="lockpattern_retry_button_text">Opnieuw</string>
+    <string name="usage_type_cpu_foreground">CPU op voorgr.</string>
+    <string name="usage_type_wake_lock">Ingsch. houden</string>
+    <string name="usage_type_data_send">Data verz.</string>
+    <string name="usage_type_data_recv">Data ontv.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">從內部大量貯存安裝憑證</string>
+    <string name="wifi_reconnect">重新連接</string>
+    <string name="wifi_connected_limited">有限制的連接</string>
+    <string name="wifi_connected_limited_with_ssid">有限制的連接至%1$s</string>
+    <string name="sdcard_settings_screen_mass_storage_text">啟用USB大容量儲存裝置</string>
+    <string name="lockpassword_pin_recently_used">無法更改最近使用的PIN</string>
+    <string name="lockpassword_password_recently_used">無法更改為最近使用的密碼</string>
+    <string name="brightness_summary">由WhiteMagic™提供</string>
+    <string name="lockpassword_confirm_your_password_header">再次輸入密碼並確認</string>
+    <string name="lockpassword_confirm_your_pin_header">再次輸入PIN碼並確認</string>
+    <string name="keep_screen_on_summary">充電時螢幕不會進入睡眠狀態</string>
+</resources>

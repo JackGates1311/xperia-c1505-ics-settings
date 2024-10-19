@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">تثبيت شهادات WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">إدارة WLAN وBluetooth ووضع الطائرة وشبكات النقال والشبكات الظاهرية الخاصة (VPN)</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">تشغيل WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">إعدادات WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">يتم تشغيل WLAN</string>
+    <string name="wifi_stopping">يتم إيقاف تشغيل WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">عدم استخدام شبكة WLAN ما لم يكن لها اتصال إنترنت جيد</string>
+    <string name="wifi_setting_sleep_policy_title">الاحتفاظ بتشغيل WLAN أثناء وضع السكون</string>
+    <string name="wifi_access_points">شبكات WLAN</string>
+    <string name="wifi_empty_list_wifi_off">لمشاهدة الشبكات المتوفرة، قم بتشغيل WLAN.</string>
+    <string name="wifi_disabled_help">تم تجنب الشبكة بسبب ضعف الاتصال. يمكنك إيقاف تشغيل هذا السلوك من الإعدادات > شاشة WLAN، عنصر القائمة \"متقدمة\".</string>
+    <string name="wifi_wps_overlap_error">تم اكتشاف جلسة WLAN محمية أخرى. أعد المحاولة في غضون بضع دقائق.</string>
+    <string name="wifi_advanced_titlebar">إعدادات WLAN المتقدمة</string>
+    <string name="wifi_setting_frequency_band_title">نطاق تردد WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">إعداد شبكة WLAN المحمية</string>
+    <string name="wifi_tether_checkbox_text">نقطة اتصال بشبكة WLAN محمولة</string>
+    <string name="wifi_tether_failed_subtext">خطأ في نقطة اتصال شبكة WLAN المحمولة</string>
+    <string name="wifi_tether_configure_ap_text">تهيئة نقطة اتصال بشبكة WLAN</string>
+    <string name="wifi_tether_configure_subtext">نقطة اتصال %1$s %2$s لشبكة WLAN محمولة</string>
+    <string name="status_wifi_mac_address">عنوان MAC لشبكة WLAN</string>
+    <string name="location_neighborhood_level">السماح للتطبيقات باستخدام بيانات من مصادر مثل شبكة WLAN وشبكات النقال لتحديد موقعك التقريبي</string>
+    <string name="location_neighborhood_level_wifi">الموقع الذي تم تحديده بواسطة WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">وقت تشغيل WLAN</string>
+    <string name="bluetooth_on_time">وقت تشغيل WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN قيد التشغيل</string>
+    <string name="battery_action_wifi">إعدادات WLAN</string>
+    <string name="battery_desc_wifi">البطارية المستخدمة بواسطة WLAN</string>
+    <string name="battery_sugg_wifi">إيقاف WLAN عند عدم استخدامها أو عندما لا تكون متوفرة</string>
+    <string name="gadget_toggle_wifi">تحديث إعداد WLAN</string>
+    <string name="backup_data_summary">نسخ احتياطي لبيانات التطبيق وكلمات مرور WLAN والإعدادات الأخرى إلى خوادم Google</string>
+    <string name="backup_erase_dialog_message">هل تريد إيقاف النسخ الاحتياطي لكلمات مرور WLAN والعلامات المرجعية والإعدادات الأخرى وبيانات التطبيق، بالإضافة لمسح كل النسخ على خوادم Google؟</string>
+    <string name="wifi_setup_title">إعداد WLAN</string>
+    <string name="wifi_setup_title_editing_network">الاتصال بشبكة WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">جارٍ الاتصال بشبكة WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">جارٍ الاتصال بشبكة WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">لا يمكنك تهيئة اتصال EAP WLAN أثناء الإعداد. وبعد الإعداد، يمكنك إجراء ذلك في الإعدادات > الاتصال اللاسلكي والشبكات.</string>
+    <string name="wifi_setup_description_connected">المس <b>التالي</b>" لمتابعة الإعداد.
+
+المس "<b>رجوع</b> للاتصال بشبكة WLAN مختلفة.</string>
+    <string name="data_usage_menu_show_wifi">عرض استخدام WLAN</string>
+    <string name="data_usage_disable_wifi_limit">تعيين حد بيانات WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">قم بتعطيل بيانات الخلفية في شبكة النقال فقط. سيتم استخدام WLAN إذا توفرت.</string>
+    <string name="data_usage_app_restrict_dialog">"قد تؤدي هذه الميزة إلى إيقاف تشغيل أحد التطبيقات التي تعتمد على بيانات الخلفية عندما لا تكون شبكة WLAN متوفرة.
+
+يمكنك العثور على المزيد من عناصر التحكم المناسبة في استخدام البيانات في الإعدادات المتوفرة داخل التطبيق."</string>
+    <string name="data_usage_restrict_background">إذا تم تقييد بيانات النقال في الخلفية، فإن بعض التطبيقات والخدمات لن تعمل ما لم يتم الاتصال بشبكة WLAN.</string>
+</resources>

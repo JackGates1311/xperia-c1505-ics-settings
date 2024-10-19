@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Instalirati WLAN certifikate</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Upravljanje opcijama za WLAN, Bluetooth, režim za letenje avionom, mobilne mreže i privatne virtuelne mreže</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Uključi WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN postavke</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Uključivanje WLAN veze u toku</string>
+    <string name="wifi_stopping">Isključivanje WLAN veze u toku</string>
+    <string name="wifi_enable_watchdog_service_summary">Nemoj koristiti WLAN mrežu osim ako ima dobru internetsku vezu</string>
+    <string name="wifi_setting_sleep_policy_title">Drži WLAN uključenom tokom stanja mirovanja</string>
+    <string name="wifi_access_points">WLAN mreže</string>
+    <string name="wifi_empty_list_wifi_off">Da biste vidjeli dostupne mreže, uključite WLAN.</string>
+    <string name="wifi_disabled_help">Mreža je izbjegnuta zbog slabe veze. Isključite takvo ponašanje putem stavke Naprednog izbornika Postavke > WLAN ekran.</string>
+    <string name="wifi_wps_overlap_error">Otkrivena je druga sesija zaštićene WLAN. Pokušajte opet za nekoliko minuta.</string>
+    <string name="wifi_advanced_titlebar">Napredni WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN frekvencijski opseg</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">Postavljanje zaštićene WLAN</string>
+    <string name="wifi_tether_checkbox_text">Prenosna WLAN pristupna tačka</string>
+    <string name="wifi_tether_failed_subtext">Greška na prijenosnoj WLAN pristupnoj tačci</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguriraj WLAN pristupnu tačku</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosna WLAN pristupna tačka</string>
+    <string name="status_wifi_mac_address">WLAN MAC adresa</string>
+    <string name="location_neighborhood_level">Dopustite aplikacijama da koriste izvore kao što su WLAN i mobilne mreže za utvrđivanje vaše približne lokacije</string>
+    <string name="location_neighborhood_level_wifi">Lokacija se utvrđuje putem WLAN mreže</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN na vrijeme</string>
+    <string name="bluetooth_on_time">WLAN na vrijeme</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN aktivna</string>
+    <string name="battery_action_wifi">WLAN postavke</string>
+    <string name="battery_desc_wifi">Bateriju koristi WLAN veza</string>
+    <string name="battery_sugg_wifi">Isključite WLAN kada ga ne koristite ili kada nije dostupan</string>
+    <string name="gadget_toggle_wifi">Ažuriranje postavke za WLAN u toku</string>
+    <string name="backup_data_summary">Napravite rezervnu kopiju podataka aplikacija, lozinki za WLAN i drugih postavki na Google serverima</string>
+    <string name="backup_erase_dialog_message">Želite prestati praviti rezervne kopije vaših lozinki za WLAN, markera, drugih postavki i podataka aplikacija, uz brisanje svih kopija na Google serverima?</string>
+    <string name="wifi_setup_title">WLAN postavljanje</string>
+    <string name="wifi_setup_title_editing_network">Poveži se na WLAN mrežu %s</string>
+    <string name="wifi_setup_title_connecting_network">Uspostavlja se veza s WLAN mrežom %s</string>
+    <string name="wifi_setup_title_connected_network">Uspostavljena veza s WLAN mrežom %s</string>
+    <string name="wifi_setup_eap_not_supported">Ne možete konfigurirati EAP WLAN vezu tokom postavljanja. Nakon postavljanja, to možete učiniti putem opcije Postavke > Bežično i mreže.</string>
+    <string name="wifi_setup_description_connected">Dodirnite <b>Dalje</b>" kako biste nastavili s postavljanjem.
+
+Dodirnite "<b>Nazad</b> kako biste se povezali na drugu WLAN mrežu.</string>
+    <string name="data_usage_menu_show_wifi">Prikaži korištenje WLAN veze</string>
+    <string name="data_usage_disable_wifi_limit">Postavi ograničenje prenosa podataka WLAN mrežom</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Onemogućite podatke u pozadini samo na mobilnoj mreži za prenos podataka. WLAN će se koristiti ako je dostupan.</string>
+    <string name="data_usage_app_restrict_dialog">"Ovo svojstvo može izazvati prekid rada aplikacije koja ovisi o podacima u pozadini kada WLAN nije dostupan.
+
+Prikladnije kontrole korištenja podataka možete naći u postavkama dostupnim unutar aplikacije."</string>
+    <string name="data_usage_restrict_background">Ako ograničite prenos podataka mobilnom mrežom u pozadini, neke aplikacije i usluge neće raditi osim ako se povežete na WLAN mrežu.</string>
+</resources>

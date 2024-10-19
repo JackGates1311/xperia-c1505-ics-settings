@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN серт-тарын орн-у</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, ұшақ режимін, ұялы желілерді және VPN желілерін басқару</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN функциясын қосу</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN параметрлері</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN қосу</string>
+    <string name="wifi_stopping">WLAN функциясын өшіру</string>
+    <string name="wifi_enable_watchdog_service_summary">Интернет қосылымы жақсы болмаса, WLAN желісін пайдаланбау</string>
+    <string name="wifi_setting_sleep_policy_title">Ұйқы кезінде WLAN қосулы сақтау</string>
+    <string name="wifi_access_points">WLAN желілері</string>
+    <string name="wifi_empty_list_wifi_off">Қол жетімді желілерді көру үшін WLAN функциясын қосыңыз.</string>
+    <string name="wifi_disabled_help">Нашар қосылымға байланысты бұл желіге қосылым орнатылмады. Бұл мінез-құлықты Параметрлер > WLAN экраны, Кеңейтілген мәзір элементінде өшіріңіз.</string>
+    <string name="wifi_wps_overlap_error">WLAN protected сеансы анықталды. Әрекетті бірнеше минуттан кейін қайталаңыз.</string>
+    <string name="wifi_advanced_titlebar">Кеңейтілген WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN жиілік диапазоны</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN protected қосылымын орнату</string>
+    <string name="wifi_tether_checkbox_text">Тасымалы WLAN ыстық нүктесі</string>
+    <string name="wifi_tether_failed_subtext">Тасымалы WLAN ыстық нүктесінің қатесі</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ыстық нүктесін конфигурациялау</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s портативті WLAN ыстық нүктесі</string>
+    <string name="status_wifi_mac_address">WLAN MAC мекенжайы</string>
+    <string name="location_neighborhood_level">Бағдарламаларға болжалды орныңызды анықтау үшін WLAN және ұялы желілер сияқты көздерден алынған деректерді пайдалануға мүмкіндік беру</string>
+    <string name="location_neighborhood_level_wifi">WLAN арқылы анықталған орын</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN қосылу уақыты</string>
+    <string name="bluetooth_on_time">WLAN қосылу уақыты</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN іске қосылған</string>
+    <string name="battery_action_wifi">WLAN параметрлері</string>
+    <string name="battery_desc_wifi">WLAN пайдаланатын батарея қуаты</string>
+    <string name="battery_sugg_wifi">Пайдаланып жатпағанда немесе қол жетімді болмағанда WLAN функциясын өшіріңіз</string>
+    <string name="gadget_toggle_wifi">WLAN параметрлерін жаңарту</string>
+    <string name="backup_data_summary">Бағдарлама деректерінің, WLAN кілтсөздерінің және Google серверлерінің басқа параметрлерінің қосалқы көшірмесі</string>
+    <string name="backup_erase_dialog_message">WLAN кілтсөздерінің, бетбелгілердің, басқа параметрлердің және бағдарлама деректерінің қосалқы көшірмесін жасауды тоқтатып, Google серверлерінің бүкіл көшірмелері жойылсын ба?</string>
+    <string name="wifi_setup_title">WLAN қосылымын орнату</string>
+    <string name="wifi_setup_title_editing_network">%s WLAN желісіне қосылу</string>
+    <string name="wifi_setup_title_connecting_network">%s WLAN желісіне қосылу…</string>
+    <string name="wifi_setup_title_connected_network">%s WLAN желісіне қосылу орындалды</string>
+    <string name="wifi_setup_eap_not_supported">Орнату кезінде EAP WLAN қосылымын конфигурациялау мүмкін емес. Орнатудан кейін мұны Параметрлер > Сымсыз желілер тармағында орындауға болады.</string>
+    <string name="wifi_setup_description_connected">Орнатуды жалғастыру үшін <b>Келесі</b>" түймесін түртіңіз.
+
+Басқа WLAN желісіне қосылу үшін "<b>Артқа</b> түймесін түртіңіз.</string>
+    <string name="data_usage_menu_show_wifi">WLAN желісін пайдалануды көрсету</string>
+    <string name="data_usage_disable_wifi_limit">WLAN деректер шегін орнату</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Ұялы деректер желісіндегі фондық деректерді ғана өшіреді. Қол жетімді болса WLAN желісі пайдаланылады.</string>
+    <string name="data_usage_app_restrict_dialog">"Бұл мүмкіндік WLAN желісі қол жетімді емес кезде фондық деректерге тәуелді бағдарламаның жұмысын тоқтатуы мүмкін.
+
+Дұрысырақ деректерді пайдалануды басқару элементтерін бағдарлама ішіндегі параметрлерде табуға болады."</string>
+    <string name="data_usage_restrict_background">Фондық ұялы деректерді шектесеңіз, кейбір бағдарламалар мен қызметтер WLAN желісіне қосылмасаңыз жұмыс істемейді.</string>
+</resources>

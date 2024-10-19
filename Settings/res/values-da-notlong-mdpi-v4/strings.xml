@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="swiqi_strings_swiqi_desc_txt">Forbedr kvaliteten af billede og video</string>
+    <string name="master_reset_final_button_text">Nulstil indstil.</string>
+    <string name="master_reset_gesture_explanation">Tegn dit oplåsn.mønster for at bekræfte nulstilling af telefonen.</string>
+    <string name="wifi_reconnect">Tilslut igen</string>
+    <string name="wifi_connected_limited_with_ssid">Koblet til %1$s med begrænset forbindelse</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Pinkoden kan ikke ændres til en nyligt anvendt pinkode</string>
+    <string name="lockpassword_password_recently_used">Adg.koden kan ikke ændres til en nyligt anvendt adgangskode</string>
+    <string name="wifi_menu_connect">Opret forb. til netværk</string>
+    <string name="wifi_cancel">Annull.</string>
+    <string name="brightness_summary">Powered by WhiteMagic™</string>
+    <string name="lockpassword_confirm_your_password_header">Indtast din adgangskode igen for at bekræfte</string>
+    <string name="lockpassword_confirm_your_pin_header">Indtast din pinkode igen for at bekræfte</string>
+    <string name="usage_type_data_recv">Data modt.</string>
+</resources>

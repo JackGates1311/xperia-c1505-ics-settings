@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Simpanan prgkt internal</item>
+        <item>Kartu SD dpt dicabut</item>
+        <item>Biarkan sistem pilih</item>
+    </string-array>
+</resources>

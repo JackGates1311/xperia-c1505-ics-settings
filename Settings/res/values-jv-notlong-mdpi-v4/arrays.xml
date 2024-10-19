@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Simpenan piranti internal</item>
+        <item>Kertu SD bisa dicopot</item>
+        <item>Sistem sing mutusi</item>
+    </string-array>
+</resources>

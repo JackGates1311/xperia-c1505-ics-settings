@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@style/Theme.Holo.Dialog.Alert" android:orientation="vertical" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/tethering_attention" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:text="@string/tethering_attention_popup_content_txt" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:gravity="center" android:id="@id/details_link" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_info_txt">Pohranite odgovor na sigurnom mjestu u slučaju da ga zaboravite.</string>
+    <string name="master_reset_button_text">Vr. tel. na po. v.</string>
+    <string name="master_reset_final_button_text">Vr. po. na po. v.</string>
+    <string name="master_reset_gesture_explanation">Morate nacrtati uzorak za otklj. da potvrdite vraćanje tel. na poč. vr.</string>
+    <string name="wifi_reconnect">Ponovo uspostaviti vezu</string>
+    <string name="wifi_connected_limited">Ograničena povezivost</string>
+    <string name="wifi_connected_limited_with_ssid">Povezano na %1$s sa ograničenom poveziv.</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Omog. USB mas. pohr.</string>
+    <string name="lockpassword_pin_recently_used">Nije moguće izvršiti promjenu na nedavno korišteni PIN</string>
+    <string name="lockpassword_password_recently_used">Nije moguće izvršiti promjenu na nedavno korištenu lozinku</string>
+    <string name="wifi_connect">Poveži</string>
+    <string name="wifi_forget">Zabor.</string>
+    <string name="brightness_summary">Zasnovano na WhiteMagic™</string>
+    <string name="menu_restore">Vrati na zadane poč. vr.</string>
+    <string name="assisted_gps">Koristiti potpomog. GPS</string>
+    <string name="lockpattern_retry_button_text">Pokuš. ponovo</string>
+    <string name="usage_type_cpu_foreground">CPU u pred. pl.</string>
+    <string name="usage_type_gps">Glob. sis. pozic.</string>
+    <string name="usage_type_data_send">Poslani pod.</string>
+    <string name="usage_type_data_recv">Primlj. podaci</string>
+    <string name="usage_type_on_time">Vrijeme uključ.</string>
+    <string name="use_default_tts_settings_title">Uvijek koristi moje post.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Εσωτ. χώρος αποθ.συσκ.</item>
+        <item>Αφαιρούμ. κάρτα SD</item>
+        <item>Να αποφασ. το σύστ.</item>
+    </string-array>
+</resources>

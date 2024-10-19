@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Pasang sertipikat WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN SERT</string>
+    <string name="radio_controls_summary">Atur WLAN, Bluetooth, modeu pesawat, jaringan mobile, &amp; VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Hurungkeun WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Setelan WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">"Ngahurungkeun WLAN "</string>
+    <string name="wifi_stopping">Mareuman WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">Tong make jaringan WLAN kacuali sambungan Internetna alus</string>
+    <string name="wifi_setting_sleep_policy_title">Hurungkeun terus WLAN mun keur dina modeu teu aktip (sare)</string>
+    <string name="wifi_access_points">Jaringan WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Jang nempo jaringan nu sadia, aktipkeun WLAN.</string>
+    <string name="wifi_disabled_help">Jaringan dihindari kusabab sambungan goreng. Pareuman ieu ti Setelan > Layar WLAN, item menu Maher.</string>
+    <string name="wifi_wps_overlap_error">Sesi WLAN nu ditangtayungan lain geus kadeteksi. Coba deui dina sababaraha menit.</string>
+    <string name="wifi_advanced_titlebar">WLAN Tingkat Maher</string>
+    <string name="wifi_setting_frequency_band_title">Pita frekuensi WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Setelan ditangtayungan WLAN</string>
+    <string name="wifi_tether_checkbox_text">Hotspot WLAN portabel</string>
+    <string name="wifi_tether_failed_subtext">Misalah hotspot WLAN portabel</string>
+    <string name="wifi_tether_configure_ap_text">Konpigurasikeun hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s hotspot WLAN portabel</string>
+    <string name="status_wifi_mac_address">Alamat MAC WLAN</string>
+    <string name="location_neighborhood_level">Idinan aplikasi jang make data ti sumber kawas WLAN tur jaringan seluler jang nangtukeun kiraan lokasi anjeun</string>
+    <string name="location_neighborhood_level_wifi">Lokasi ditangtukeun ku WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Waktu aktip WLAN</string>
+    <string name="bluetooth_on_time">Waktu aktip WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN hurung</string>
+    <string name="battery_action_wifi">Setelan WLAN</string>
+    <string name="battery_desc_wifi">Batre dipake ku WLAN</string>
+    <string name="battery_sugg_wifi">Pareuman WLAN lamun keur teu dipake atawa lamun keur teu sadia</string>
+    <string name="gadget_toggle_wifi">Ngapdet setelan WLAN</string>
+    <string name="backup_data_summary">Nyieun cadangan data aplikasi, kecap akses WLAN, jeung setelan lain ka pangladen Google</string>
+    <string name="backup_erase_dialog_message">Eureunkeun nyieun cadangan kecap akses WLAN, tetengger, setelan sejen, jeung data aplikasi, terus pupus oge kabeh tironan di pangladen Google?</string>
+    <string name="wifi_setup_title">Setelan WLAN</string>
+    <string name="wifi_setup_title_editing_network">Sambungkeun ka jaringan WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Nyambung ka jaringan WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Disambungkeun ka jaringan WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Anjeun teu bisa ngonpigurasikeun sambungan EAP WLAN dina setelan. Saenggeus nyetel, anjeun bisa ngonpigurasikeun di Setelan > Nirkabel &amp; jaringan.</string>
+    <string name="wifi_setup_description_connected">Rampa <b>Saenggeusna</b>" jang neruskeun make pangaturan.
+
+Rampa "<b>Mulang</b> jang nyambung ka jaringan WLAN nu sejen.</string>
+    <string name="data_usage_menu_show_wifi">Tempokeun pamakean WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Setel wates data WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Nonaktipkeun data latar dina data seluler wungkul. WLAN bakal dipake lamun sadia.</string>
+    <string name="data_usage_app_restrict_dialog">"Fitur ieu bisa nyebabkeun aplikasi nu ngagantungkeun ka data latar jadi teu pungsi lamun WLAN teu sadia.
+
+Anjeun bisa neang kontrol data sejen nu cocog dina setelan nu disadiakeun ku aplikasi."</string>
+    <string name="data_usage_restrict_background">Lamun anjeun ngawates data seluler latar, sabaraha aplikasi jeung ladenan moal bisa dilampahkeun kacuali anjeun nyambung ka jaringan WLAN.</string>
+</resources>

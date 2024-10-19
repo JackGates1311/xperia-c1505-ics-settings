@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_desc">"Time ćete sve postavke telefona vratiti u početno stanje, kao i:
+"<li>sistemske postavke telefona</li>"
+"<li>postavke aplikacija u paketu</li>"
+Neće se izbrisati:
+"<li>korisnički definirane postavke</li>"
+"<li>instalirane aplikacije</li>"
+"<li>datoteke u internoj memoriji i/ili na SD kartici, primjerice glazba i fotografije</li></string>
+    <string name="master_reset_button_text">Resetiraj tel.</string>
+    <string name="master_reset_final_desc">Želite li postavke telefona vratiti u početno stanje? Tu radnju nije moguće poništiti! Telefon neće biti dostupan tijekom vraćanja u početno stanje.</string>
+    <string name="master_reset_final_button_text">Resetiraj post.</string>
+    <string name="master_reset_gesture_explanation">Nacrtajte uzorak otklj. da biste potvrdili resetiranje telefona.</string>
+    <string name="master_reset_failed">Vraćanje u početno stanje nije izvršeno.</string>
+    <string name="master_reset_intent">Glavno vraćanje u početno stanje</string>
+    <string name="wifi_reconnect">Ponovno uspostavi vezu</string>
+    <string name="wifi_connected_limited_with_ssid">Povezan s: %1$s uz ograničenu povezivost.</string>
+    <string name="bluetooth_notif_ticker">Zahtj. za uparivanjem Bluetooth uređaja</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Omoguć. USB pohr. pod.</string>
+    <string name="lockpassword_pin_recently_used">Nije moguće promijeniti na nedavno korišteni PIN</string>
+    <string name="lockpassword_password_recently_used">Nije moguće promijeniti na nedavno korištenu zaporku</string>
+    <string name="wifi_forget">Zabor.</string>
+    <string name="wifi_cancel">Otkaži</string>
+    <string name="brightness_summary">Uz značajku WhiteMagic™</string>
+    <string name="apn_auth_type">Vrsta autorizacije</string>
+    <string name="menu_delete">Izb.naz.pr.toč.</string>
+    <string name="call_settings_summary">Postavlj. glas. pošte, preusmj. poziva, poziv na čekanju, ID pozivatelja</string>
+    <string name="assisted_gps_disabled">Koristi se poslužitelj za potpom. GPS-a (poništite radi poboljš. perf. GPS-a)</string>
+    <string name="lockpassword_confirm_your_password_header">Ponovno unesite zaporku da biste je potvrdili</string>
+    <string name="lockpassword_confirm_your_pin_header">Ponovno unesite PIN da biste ga potvrdili</string>
+    <string name="lockpattern_retry_button_text">Ponovi</string>
+    <string name="usage_type_cpu">Ukup. kor. proc.</string>
+    <string name="usage_type_cpu_foreground">Kor. pr. u pr. pl.</string>
+    <string name="usage_type_wake_lock">Ostavi uključ.</string>
+    <string name="usage_type_data_send">Posl. podaci</string>
+    <string name="usage_type_data_recv">Primlj. podaci</string>
+    <string name="usage_type_on_time">Vrijeme uključ.</string>
+</resources>

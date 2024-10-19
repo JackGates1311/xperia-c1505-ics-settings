@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_reconnect">Yeniden bağlan</string>
+    <string name="wifi_connected_limited_with_ssid">Sınırlı bağ. ile %1$s ağına bğlndı</string>
+    <string name="sdcard_settings_screen_mass_storage_text">USB yığın dep. etknlştr</string>
+    <string name="lockpassword_pin_recently_used">Son PIN kodları kullanılamaz</string>
+    <string name="lockpassword_password_recently_used">Son parolalar kullanılamaz</string>
+    <string name="brightness_summary">WhiteMagic™ desteğiyle</string>
+    <string name="menu_cancel">Sil</string>
+    <string name="lockpassword_confirm_your_password_header">Şifrenizi tekrar girerek onaylayın</string>
+    <string name="lockpassword_confirm_your_pin_header">"PIN'inizi tekrar girerek onaylayın"</string>
+    <string name="allow_mock_location">Sahte konumlra izin ver</string>
+    <string name="usage_type_data_send">Gönd. veriler</string>
+    <string name="usage_type_data_recv">Alın. veriler</string>
+    <string name="usage_type_no_coverage">Kaps. alanı dışı zamn</string>
+    <string name="remove_device_admin">Devre dışı bırak</string>
+</resources>

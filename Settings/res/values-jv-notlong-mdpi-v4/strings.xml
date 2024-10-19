@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_reconnect">Sambungake maneh</string>
+    <string name="wifi_connected_limited_with_ssid">Sinambung %1$s kanthi konektivitas winates</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Aktif simpen. gedhe USB</string>
+    <string name="lockpassword_pin_recently_used">Ora bisa ngganti menyang PIN sing bubar dienggo</string>
+    <string name="lockpassword_password_recently_used">Ora bisa ngganti menyang sandhi sing bubar dienggo</string>
+    <string name="wifi_menu_connect">Sambung nyang jaringan</string>
+    <string name="wifi_connect">Smbg.</string>
+    <string name="wifi_forget">Lali</string>
+    <string name="brightness_summary">Disponsori dening WhiteMagic™</string>
+    <string name="assisted_gps_enabled">Gunakake server kgo nulung GPS (aja centhang kgo nyuda pgunaan jaring.)</string>
+    <string name="assisted_gps_disabled">Gunakake server kgo nulung GPS (aja centhang kgo nambah kinerja GPS)</string>
+    <string name="usage_type_cpu_foreground">Ltr ngarep CPU</string>
+    <string name="tts_default_synth_summary">Setel mesin sintesis swara sing digunakake kggo teks sing diucapake</string>
+</resources>

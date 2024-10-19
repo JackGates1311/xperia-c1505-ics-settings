@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %d অক্ষর থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1 অক্ষর থাকতে হবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %dটি ছোট হাতের অক্ষর থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1টি ছোট হাতের অক্ষর থাকতে হবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %dটি বড় হাতের অক্ষর থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1টি বড় হাতের অক্ষর থাকতে হবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %dটি বর্ণসাংখ্যিক অক্ষর থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1টি বর্ণসাংখ্যিক অক্ষর থাকতে হবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %dটি বিশেষ সংকেত থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1টি বিশেষ সংকেত থাকতে হবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে %dটি অক্ষর নয় উপস্থিতি থাকতে হবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই অন্ততপক্ষে 1টি অক্ষর নয় উপস্থিতি থাকতে হবে</item>
+    </plurals>
+</resources>

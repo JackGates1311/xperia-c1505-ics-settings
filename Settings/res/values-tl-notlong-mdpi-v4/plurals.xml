@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Dapat na maglaman password ng di bababa sa %d (na) titik</item>
+        <item quantity="one">Dapat na maglaman password ng di bababa sa 1 titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Dapat maglaman password ng di baba %d (na) lowercase na titik</item>
+        <item quantity="one">Dapat maglaman password ng di bababa sa 1 lowercase na titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Dapat maglaman password ng di baba %d (na) uppercase na titik</item>
+        <item quantity="one">Dapat maglaman password ng di bababa sa 1 uppercase na titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Dapat maglaman password ng di baba %d (na) numerong digit</item>
+        <item quantity="one">Dapat maglaman password ng di bababa sa 1 numerong digit</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Dapat maglaman password ng di baba %d (na) esp. simbolo</item>
+        <item quantity="one">Dapat maglaman password ng di bababa sa 1 espesyal na simbolo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Dapat maglaman password ng di baba %d (na) di titik na character</item>
+        <item quantity="one">Dapat maglaman password ng di bababa 1 di titik na character</item>
+    </plurals>
+</resources>

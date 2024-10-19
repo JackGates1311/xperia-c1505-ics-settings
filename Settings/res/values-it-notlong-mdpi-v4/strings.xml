@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">"Installa certificati dall'archiviazione interna"</string>
+    <string name="master_reset_desc">"In questo modo verranno ripristinate tutte le impostazioni del telefono, incluse:
+"<li>Impostazioni di sitema del telefono</li>"
+"<li>Impostazioni per pacchetti di applicazioni</li>"
+Non verranno eliminati:
+"<li>"Impostazioni specifiche dell'utente"</li>"
+"<li>Applicazioni installate</li>"
+"<li>"File dell'archivio interno e/o della scheda SD, ad esempio musica o foto"</li></string>
+    <string name="master_reset_button_text">Ripristina telef.</string>
+    <string name="master_reset_final_button_text">Ripristina imp.</string>
+    <string name="master_reset_gesture_prompt">Scrivi impostazioni di sbloccaggio</string>
+    <string name="wifi_reconnect">Riconnetti</string>
+    <string name="wifi_connected_limited_with_ssid">Connetti a %1$s con connettività limitata</string>
+    <string name="bluetooth_notif_ticker">Richiesta accoppiamento Bluetooth</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Impossibile modificare un PIN recentemente utilizzato</string>
+    <string name="lockpassword_password_recently_used">Impossibile passare a una password recentemente utilizzata</string>
+    <string name="wifi_connect">Conn.</string>
+    <string name="brightness_summary">Tecnologia WhiteMagic™</string>
+    <string name="menu_restore">Riprist. impost. predef.</string>
+    <string name="lockpassword_confirm_your_password_header">Immettere nuovamente la password per conferma</string>
+    <string name="lockpassword_confirm_your_pin_header">"Immetti nuovamente il PIN per conferma "</string>
+    <string name="usage_type_cpu_foreground">CPU in 1° piano</string>
+    <string name="usage_type_on_time">Tempo attivaz.</string>
+    <string name="usage_type_no_coverage">Tempo senza segn.</string>
+</resources>

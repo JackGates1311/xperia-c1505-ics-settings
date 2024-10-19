@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Pasang sijil WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Urus WLAN, Bluetooth, mod pesawat, rangkaian mudah alih &amp; VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Hidupkan WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Tetapan WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">"Menghidupkan WLAN "</string>
+    <string name="wifi_stopping">Mematikan WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">Jangan gunakan rangkaian WLAN melainkan jika ia mempunyai sambungan internet yang baik</string>
+    <string name="wifi_setting_sleep_policy_title">Biarkan WLAN aktif semasa tidur</string>
+    <string name="wifi_access_points">Rangkaian WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Untuk melihat rangkaian tersedia, hidupkan WLAN.</string>
+    <string name="wifi_disabled_help">Rangkaian dielakkan kerana sambungan yang tidak baik. Matikan kelakuan ini dari Tetapan > skrin WLAN, item menu Lanjutan.</string>
+    <string name="wifi_wps_overlap_error">Satu lagi sesi dilindungi WLAN dikesan. Cuba lagi dalam beberapa minit.</string>
+    <string name="wifi_advanced_titlebar">WLAN Lanjutan</string>
+    <string name="wifi_setting_frequency_band_title">Jalur frekuensi WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN langsung</string>
+    <string name="wifi_p2p_wps_setup">Persediaan dilindungi WLAN</string>
+    <string name="wifi_tether_checkbox_text">Tempat liputan WLAN mudah alih</string>
+    <string name="wifi_tether_failed_subtext">Ralat tempat liputan WLAN mudah alih</string>
+    <string name="wifi_tether_configure_ap_text">Konfigur hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">Tempat liputan WLAN mudah alih %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Alamat MAC WLAN</string>
+    <string name="location_neighborhood_level">Benarkan aplikasi menggunakan data dari sumber seperti rangkaian WLAN dan mudah alih untuk menentukan lokasi anggaran anda</string>
+    <string name="location_neighborhood_level_wifi">Lokasi ditentukan oleh WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN tepat waktu</string>
+    <string name="bluetooth_on_time">WLAN tepat waktu</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN sedang dijalankan</string>
+    <string name="battery_action_wifi">Tetapan WLAN</string>
+    <string name="battery_desc_wifi">Bateri yang digunakan oleh WLAN</string>
+    <string name="battery_sugg_wifi">Matikan WLAN apabila tidak menggunakannya atau apabila ia tidak tersedia</string>
+    <string name="gadget_toggle_wifi">Mengemas kini tetapan WLAN</string>
+    <string name="backup_data_summary">Buat sandaran data aplikasi, kata laluan WLAN dan tetapan lain ke pelayan Google</string>
+    <string name="backup_erase_dialog_message">Berhenti membuat sandaran kata laluan WLAN, penanda buku, tetapan lain dan data aplikasi, serta padamkan semua salinan pada pelayan Google?</string>
+    <string name="wifi_setup_title">Persediaan WLAN</string>
+    <string name="wifi_setup_title_editing_network">Sambung kepada rangkaian WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Menyambung kepada rangkaian WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Disambungkan kepada rangkaian WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Anda tidak boleh konfigur sambungan WLAN EAP semasa persediaan. Selepas pemasangan, anda boleh melakukannya dalam Tetapan > Wayarles &amp; rangkaian.</string>
+    <string name="wifi_setup_description_connected">Sentuh <b>Seterusnya</b>" untuk meneruskan persediaan.
+
+Sentuh "<b>Undur</b> untuk menyambung ke rangkaian WLAN yang lain.</string>
+    <string name="data_usage_menu_show_wifi">Tunjukkan penggunaan WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Tetapkan had data WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Nyahdayakan data latar belakang pada rangkaian data mudah alih sahaja. WLAN akan digunakan jika tersedia.</string>
+    <string name="data_usage_app_restrict_dialog">"Ciri ini boleh menyebabkan aplikasi yang bergantung pada data latar belakang berhenti berfungsi apabila WLAN tidak tersedia.
+
+Anda boleh menemui kawalan penggunaan data yang lebih sesuai dalam tetapan yang ada dalam aplikasi."</string>
+    <string name="data_usage_restrict_background">Jika anda menyekat data latar belakang mudah alih, sesetengah aplikasi dan perkhidmatan tidak akan berfungsi melainkan jika anda disambungkan kepada rangkaian WLAN.</string>
+</resources>

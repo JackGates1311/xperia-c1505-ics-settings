@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_desc">"Tämä palauttaa kaikki puhelimen asetukset, mukaan lukien seuraavat:
+"<li>"puhelimen järjestelmäasetukset
+"</li>"
+"<li>mukana tulevien sovellusten asetukset</li>"
+Se ei poista seuraavia:
+"<li>käyttäjän määrittämät asetukset</li>"
+"<li>asennetut sovellukset</li>"
+"<li>sisäisen mustin ja/tai SD-kortin tiedostot, kuten musiikki ja valokuvat</li></string>
+    <string name="master_reset_final_button_text">Palauta aset.</string>
+    <string name="master_reset_cancel">Perusnollaus peruutettu. Lentotila ei ole käytössä.</string>
+    <string name="wifi_reconnect">Muodosta yhteys uudelleen</string>
+    <string name="wifi_connected_limited">Rajoitetut yhteydet</string>
+    <string name="wifi_connected_limited_with_ssid">Liitetty rajoitetusti: %1$s</string>
+    <string name="bluetooth_notif_ticker">Bluetooth-pariksiliittämisen pyyntö</string>
+    <string name="lockpassword_pin_recently_used">Ei voi vaihtaa äskettäin käytettyyn PIN-koodiin</string>
+    <string name="lockpassword_password_recently_used">Ei voi vaihtaa äskettäin käytettyyn salasanaan</string>
+    <string name="wifi_menu_connect">Muod. yhteys verkkoon</string>
+    <string name="wifi_signal">Signaalin vahvuus</string>
+    <string name="checkbox_notification_same_as_incoming_call">Käytä saapuvien puheluiden ää-nenvoimakkuutta ilmoituksille</string>
+    <string name="brightness_summary">Ratkaisun toimittaa WhiteMagic™</string>
+    <string name="menu_restore">Palauta oletukset</string>
+    <string name="lockpassword_confirm_your_pin_header">Vahvista antamalla PIN-koodi uudelleen</string>
+    <string name="filter_apps_running">Käynnissä</string>
+    <string name="usage_type_cpu">Keskusyks. yht.</string>
+    <string name="usage_type_cpu_foreground">Keskusy. edust.</string>
+    <string name="usage_type_data_send">Tiedot lähet.</string>
+    <string name="usage_type_data_recv">Tiedot saatu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Storan peranti dalaman</item>
+        <item>Kad SD boleh tanggal</item>
+        <item>Ditentukan sistem</item>
+    </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">C.đặt các chứng nhận WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Quản lý WLAN, Bluetooth, chế độ trên máy bay, mạng di động, &amp; VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Bật WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Cài đặt WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Đang bật WLAN…</string>
+    <string name="wifi_stopping">Đang tắt WLAN…</string>
+    <string name="wifi_enable_watchdog_service_summary">Không sử dụng mạng WLAN trừ khi có kết nối Internet tốt</string>
+    <string name="wifi_setting_sleep_policy_title">Bật WLAN khi ngủ</string>
+    <string name="wifi_access_points">Các mạng WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Để xem các mạng sẵn có, hãy bật WLAN.</string>
+    <string name="wifi_disabled_help">Mạng đã bị tránh do kết nối kém. Hãy tắt hiện tượng này từ màn hình Cài đặt > WLAN, mục trình đơn Nâng cao.</string>
+    <string name="wifi_wps_overlap_error">Đã phát hiện một phiên WLAN khác được bảo vệ. Hãy thử lại sau ít phút.</string>
+    <string name="wifi_advanced_titlebar">WLAN nâng cao</string>
+    <string name="wifi_setting_frequency_band_title">Dải tần số WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Thiết lập được bảo vệ WLAN</string>
+    <string name="wifi_tether_checkbox_text">Điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_failed_subtext">Lỗi điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_configure_ap_text">Cấu hình điểm phát sóng WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s điểm phát sóng WLAN di động</string>
+    <string name="status_wifi_mac_address">Địa chỉ MAC của WLAN</string>
+    <string name="location_neighborhood_level">Cho phép ứng dụng sử dụng dữ liệu từ các nguồn như WLAN và mạng di động để xác định vị trí gần đúng của bạn</string>
+    <string name="location_neighborhood_level_wifi">Vị trí được xác định bởi WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Thời gian bật WLAN</string>
+    <string name="bluetooth_on_time">Thời gian bật WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Đang chạy WLAN</string>
+    <string name="battery_action_wifi">Cài đặt WLAN</string>
+    <string name="battery_desc_wifi">Pin do WLAN sử dụng</string>
+    <string name="battery_sugg_wifi">Tắt WLAN khi không sử dụng hoặc khi không khả dụng</string>
+    <string name="gadget_toggle_wifi">Cập nhật cài đặt WLAN</string>
+    <string name="backup_data_summary">Sao lưu dữ liệu ứng dụng, mật khẩu WLAN và cài đặt khác sang máy chủ Google</string>
+    <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu WLAN, dấu trang, các cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên máy chủ Google?</string>
+    <string name="wifi_setup_title">Thiết đặt WLAN</string>
+    <string name="wifi_setup_title_editing_network">Kết nối với mạng WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Đang kết nối với mạng WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Đã kết nối với mạng WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Bạn không thể định cấu hình kết nối EAP WLAN trong khi thiết lập. Sau khi thiết lập, bạn có thể thực hiện việc đó trong Cài đặt >Không dây &amp; mạng.</string>
+    <string name="wifi_setup_description_connected">Chạm <b>Tiếp theo</b>" để tiếp tục thiết lập.
+
+Chạm "<b>Quay lại</b> để kết nối với mạng WLAN khác.</string>
+    <string name="data_usage_menu_show_wifi">Hiển thị thông tin sử dụng WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Đặt giới hạn dữ liệu WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Chỉ tắt dữ liệu nền trên mạng dữ liệu di động. Dùng WLAN nếu có.</string>
+    <string name="data_usage_app_restrict_dialog">"Tính năng này có thể khiến ứng dụng phụ thuộc vào dữ liệu nền dừng hoạt động khi không có WLAN.
+
+Bạn có thể tìm thêm điều khiển sử dụng dữ liệu phù hợp trong các cài đặt có trong ứng dụng."</string>
+    <string name="data_usage_restrict_background">Nếu bạn giới hạn dữ liệu di động nền, một số ứng dụng và dịch vụ sẽ không hoạt động trừ khi bạn kết nối với mạng WLAN.</string>
+</resources>

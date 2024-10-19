@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Inštalovať certifikáty WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Spravovať sieť WLAN, rozhranie Bluetooth, režim V lietadle, mobilné siete a siete VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Zapnúť sieť WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Nastavenia WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Zapína sa WLAN...</string>
+    <string name="wifi_stopping">Prebieha vypínanie WLAN...</string>
+    <string name="wifi_enable_watchdog_service_summary">Nepoužívať sieť WLAN, ak nemá dobré pripojenie na internet</string>
+    <string name="wifi_setting_sleep_policy_title">Ponechať pripojenie WLAN zapnuté v režime spánku</string>
+    <string name="wifi_access_points">Siete WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Ak chcete zobraziť dostupné siete, zapnite rozhranie WLAN.</string>
+    <string name="wifi_disabled_help">Sieť má slabé pripojenie. Toto správanie vypnete na obrazovke Nastavenie > WLAN v položke ponuky Rozšírené.</string>
+    <string name="wifi_wps_overlap_error">Zistila sa ďalšia zabezpečená relácia WLAN. Skúste to znova o niekoľko minút.</string>
+    <string name="wifi_advanced_titlebar">Rozšírené nastavenia siete WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvenčné pásmo siete WLAN</string>
+    <string name="wifi_p2p_settings_title">Priame pripojenie WLAN</string>
+    <string name="wifi_p2p_wps_setup">Nastavenie zabezpečeného pripojenia WLAN</string>
+    <string name="wifi_tether_checkbox_text">Prenosný hotspot siete WLAN</string>
+    <string name="wifi_tether_failed_subtext">Chyba prenosného hotspotu siete WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurovať hotspot siete WLAN</string>
+    <string name="wifi_tether_configure_subtext">Prenosný hotspot siete WLAN %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Adresa MAC adaptéra WLAN</string>
+    <string name="location_neighborhood_level">Povoliť aplikáciám používanie údajov zo siete WLAN a mobilných sietí na určenie približného umiestnenia</string>
+    <string name="location_neighborhood_level_wifi">Poloha určená sieťou WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Čas prevádzky siete WLAN</string>
+    <string name="bluetooth_on_time">Čas prevádzky siete WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Pripojené k sieti WLAN</string>
+    <string name="battery_action_wifi">Nastavenie siete WLAN</string>
+    <string name="battery_desc_wifi">Využitie batérie pri pripojení k sieti WLAN</string>
+    <string name="battery_sugg_wifi">Vypnite pripojenie WLAN, keď sa nepoužíva, alebo keď nie je k dispozícii</string>
+    <string name="gadget_toggle_wifi">Prebieha aktualizácia nastavenia siete WLAN</string>
+    <string name="backup_data_summary">Zálohovanie údajov aplikácií, hesiel sietí WLAN a ďalších nastavení na serveroch Google</string>
+    <string name="backup_erase_dialog_message">Zastaviť zálohovanie hesiel sietí WLAN, záložiek, ďalších nastavení a údajov aplikácií, a vymazať všetky kópie na serveroch Google?</string>
+    <string name="wifi_setup_title">Nastavenie siete WLAN</string>
+    <string name="wifi_setup_title_editing_network">Pripojenie k sieti WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Prebieha pripájanie k sieti WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Pripojené k sieti WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Počas inštalácie nie je možné konfigurovať pripojenie k sieti WLAN cez protokol EAP. Po inštalácii tak môžete urobiť v časti Nastavenie > Bezdrôtové pripojenie a siete.</string>
+    <string name="wifi_setup_description_connected">Ak chcete pokračovať v nastavovaní, dotknite sa možnosti <b>Ďalej</b>".
+
+Ak sa chcete pripojiť k inej sieti WLAN, dotknite sa možnosti "<b>Späť</b>.</string>
+    <string name="data_usage_menu_show_wifi">Zobraziť použitie siete WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Nastaviť dátový limit siete WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Zakázať údaje na pozadí v mobilnej dátovej sieti. V prípade dostupnosti použiť sieť WLAN.</string>
+    <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácia, ktorá je závislá od údajov na pozadí, prestane fungovať, ak sieť WLAN nie je k dispozícii.
+
+Vhodnejšie ovládacie prvky dátových prenosov môžete nájsť v nastaveniach dostupných v rámci aplikácie."</string>
+    <string name="data_usage_restrict_background">Ak obmedzíte mobilné údaje na pozadí, niektoré aplikácie a služby nebudú fungovať, pokiaľ nebudete pripojení k sieti WLAN.</string>
+</resources>

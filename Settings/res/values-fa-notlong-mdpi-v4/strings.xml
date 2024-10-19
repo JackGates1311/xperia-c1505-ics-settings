@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_gesture_explanation">شما باید الگوی بازگشایی قفل را جهت تأیید بازنشانی تلفن ترسیم کنید.</string>
+    <string name="wifi_connected_limited">قابلیت اتصال محدود</string>
+    <string name="wifi_connected_limited_with_ssid">اتصال به %1$s با قابلیت اتصال محدود</string>
+    <string name="sdcard_settings_screen_mass_storage_text">فعالسازی ذخیره انبوه USB</string>
+    <string name="lockpassword_pin_recently_used">پین را نمی توانید به موردی که اخیراً از آن استفاده کرده اید تغییر دهید</string>
+    <string name="lockpassword_password_recently_used">رمز عبور را نمی توان به موردی جدیدتر تغییر داد</string>
+    <string name="brightness_summary">بوسیله ™WhiteMagic</string>
+    <string name="menu_restore">تنظیم مجدد به پیش فرض</string>
+    <string name="usb_tethering_available_subtext">USB وصل است، برای مهارشدن بررسی کنید</string>
+    <string name="assisted_gps_enabled">استفاده از سرور جهت کمک به GPS (حذف علامت جهت کاهش مصرف شبکه)</string>
+    <string name="assisted_gps_disabled">استفاده از سرور جهت کمک به GPS (برای بهبود کارکرد GPS، علامت آن را بردارید)</string>
+    <string name="lockpassword_confirm_your_password_header">رمز عبور خود را برای تأیید مجدداً وارد کنید</string>
+    <string name="lockpassword_confirm_your_pin_header">پین خود را برای تأیید مجدداً وارد کنید</string>
+</resources>

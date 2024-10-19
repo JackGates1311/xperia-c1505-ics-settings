@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dsds_string_apn_settings_nonamed_sim1or2_title">APNs: %s</string>
+    <string name="dsds_string_apn_edit_nonamed_sim1or2_title">Edit access point: %s</string>
+    <string name="dsds_network_settings_sel_sub">Select SIM card</string>
+    <string name="dsds_string_network_callind_multi_sim">Select SIM card</string>
+    <string name="data_damage_title">Data damage</string>
+    <string name="data_damage_summary">"The data on your phone is no longer accessible for unknown reason. 
+
+To resume using your phone, you must perform a factory reset. When you set up your phone after the reset, you will have an opportunity to restore any data that was backed up to your Google account. "</string>
+    <string name="display_category_personalisation_title">Personalisation</string>
+    <string name="master_reset_desc">"This will reset all of your phone's settings, including:
+"<li>Phone system settings</li>"
+"<li>Bundled application settings</li>"
+It will not erase:
+"<li>User specified settings</li>"
+"<li>Installed applications</li>"
+"<li>SD card files, such as music or photos</li></string>
+    <string name="master_reset_cancel">Master reset cancelled. Airplane mode mode not on.</string>
+    <string name="erase_emmc_storage_desc">"Clear all data on the phone's internal mass storage, such as music and photos."</string>
+    <string name="emmc_format_gesture_explanation">You must draw your unlock pattern to confirm that you want to erase the internal storage.</string>
+    <string name="data_usage_app_restrict_all">Restrict all data</string>
+    <string name="data_usage_app_restrict_all_summary">Disable foreground and background data on mobile data network only. Wi-Fi network will be used if available.</string>
+    <string name="data_usage_app_restrict_all_summary_disabled">To restrict foreground and background data for this app, set mobile data limit first.</string>
+    <string name="data_usage_app_restrict_all_data_dialog_title">Restrict all data?</string>
+    <string name="data_usage_app_restrict_all_data_dialog">"This feature may cause an app that depends on data traffic to stop working when Wi-Fi network is not available.
+
+Tap View app settings to control data usage for this app specifically."</string>
+    <string name="data_usage_restrict_all_denied_dialog">"Restricting foreground and background data is only possible when you've set a mobile data limit."</string>
+    <string name="sms_counter_application_name_text">SMS counter</string>
+    <string name="sms_counter_tips_text">To check SMS counter settings, turn on SMS counter.</string>
+    <string name="sms_counter_tips_no_sim_text">No SIM card available</string>
+    <string name="sms_counter_tips_flight_mode_text">Turn off airplane mode to activate SMS counter</string>
+    <string name="sms_counter_display_total_message_text">From %1$s to %2$s: Totally %3$d messages sent.</string>
+    <string name="sms_counter_display_exceed_warning_text">Warning level exceeded: %d</string>
+    <string name="sms_counter_display_exceed_maximum_text">Maximum limitation exceeded: %d</string>
+    <string name="sms_counter_list_message_warning_level_text">Warning level</string>
+    <string name="sms_counter_list_message_maximum_text">Maximum limitation</string>
+    <string name="sms_counter_list_count_cycle_text">Cycle mode</string>
+    <string name="sms_counter_list_start_date_text">Counting period</string>
+    <string name="sms_counter_popup_count_cycle_monthly_text">Monthly</string>
+    <string name="sms_counter_popup_count_cycle_weekly_text">Weekly</string>
+    <string name="sms_counter_popup_weekday_Monday_text">Monday</string>
+    <string name="sms_counter_popup_weekday_Tuesday_text">Tuesday</string>
+    <string name="sms_counter_popup_weekday_Wednesday_text">Wednesday</string>
+    <string name="sms_counter_popup_weekday_Thursday_text">Thursday</string>
+    <string name="sms_counter_popup_weekday_Friday_text">Friday</string>
+    <string name="sms_counter_popup_weekday_Saturday_text">Saturday</string>
+    <string name="sms_counter_popup_weekday_Sunday_text">Sunday</string>
+    <string name="sms_counter_popup_start_date_title_text">Count cycle reset date</string>
+    <string name="sms_counter_toast_warning_text">Warning level must be less than maximum limitation</string>
+    <string name="sms_counter_toast_limit_text">Maximum limitation must be more than warning level</string>
+    <string name="sms_counter_popup_maximum_title_text">Note</string>
+    <string name="sms_counter_popup_maximum_descripton_text">The specified message maximum limitation reached. Additional charge may apply.</string>
+    <string name="sms_counter_notification_warning_title_text">Message warning</string>
+    <string name="sms_counter_notification_warning_description_text">Message warning level reached. Tap to view SMS counter settings.</string>
+    <string name="sms_counter_notification_maximum_title_text">Maximum limitation</string>
+    <string name="sms_counter_notification_maximum_description_text">Message maximum limitation reached. Tap to view SMS counter settings.</string>
+    <string name="sms_counter_widget_hint_txt">Tap to set up</string>
+    <string name="sms_counter_widget_maximum_count_exceed_txt">%d exceed.</string>
+    <string name="sms_counter_widget_maximum_count_left_txt">%d left</string>
+    <string name="sms_counter_widget_maximum_txt">Max. limit</string>
+    <string name="sms_counter_widget_na">SMS info not available</string>
+    <string name="sms_counter_widget_total_txt">SMS sent</string>
+    <string name="sms_counter_widget_warning_exceed_txt">Warning level exceeded</string>
+    <string name="tethering_attention_details_link_popup_content_txt">Details</string>
+    <string name="tethering_attention_popup_content_txt">When tethering is enabled, all packet transmission is regarded as communications made by connecting to a PC or other external device.In this case, Packet communication charges may apply even when external devices are not connected. To avoid additional costs, disabling tethering is strongly recommended when finished.</string>
+    <string name="tethering_warning_txt">Any ongoing operations such as media transfer, phone software update, backup and restore will be interrupted.</string>
+    <string name="master_clear_desc_cn">"This will erase all data from your phone's "<b>internal storage</b>", including:
+
+"<li>Your account</li>"
+"<li>System and app data and settings</li>"
+"<li>Downloaded apps</li></string>
+    <string name="battery_info_temperature_units">° C</string>
+    <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable for</string>
+    <string name="bluetooth_lock_voice_dialing">Lock voice dialling</string>
+    <string name="bluetooth_lock_voice_dialing_summary">"Prevent use of the Bluetooth dialler when the screen is locked "</string>
+    <string name="bluetooth_disconnecting">Disconnecting…</string>
+    <string name="bluetooth_connecting">Connecting…</string>
+    <string name="bluetooth_pairing">Pairing…</string>
+    <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
+    <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
+    <string name="bluetooth_connection_notif_message">Touch to connect to \"%1$s\".</string>
+    <string name="bluetooth_connection_dialog_text">Do you want to connect to \"%1$s\"?</string>
+    <string name="intent_sender_account_label">"Account: "</string>
+    <string name="band_mode_loading">Loading band list…</string>
+    <string name="sdcard_settings_scanning_status">Scanning SD card for media…</string>
+    <string name="airplane_mode">Airplane mode</string>
+    <string name="radio_controls_title">More…</string>
+    <string name="radio_controls_summary">Manage WiFi, Bluetooth, aeroplane mode, mobile networks &amp; VPNs</string>
+    <string name="date_and_time_settings_summary">Set date, time, time zone &amp; formats</string>
+    <string name="crypt_keeper_encrypt_summary">Require a numeric PIN or password to decrypt your phone each time you power it on</string>
+    <string name="crypt_keeper_desc">"You can encrypt your accounts, settings, downloaded apps and their data, media and other files. Once you encrypt your phone, you must enter a numeric PIN or password to decrypt it each time you power it on: you can't unencrypt your phone except by performing a factory data reset, erasing all your data.
+
+Encryption takes an hour or more. You must start with a charged battery and keep your phone plugged in until encryption is complete. If you interrupt the encryption process, you will lose some or all of your data."</string>
+    <string name="crypt_keeper_dialog_need_password_message">You must set a lock screen PIN or password before you can start encryption.</string>
+    <string name="crypt_keeper_final_desc">"Encrypt phone? This operation is irreversible and if you interrupt it, you will lose data. Encryption takes an hour or more, during which the phone will restart several times. "</string>
+    <string name="crypt_keeper_setup_description">Wait while your phone is being encrypted. ^1% complete.</string>
+    <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can't complete. As a result, the data on your phone is no longer accessible. 
+
+To resume using your phone, you must perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account. "</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Change or disable pattern, PIN or password security</string>
+    <string name="unlock_set_unlock_disabled_summary">Disabled by administrator, encryption policy or credential storage</string>
+    <string name="bluetooth_searching_for_devices">Searching…</string>
+    <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
+    <string name="android_beam_explained">"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam Browser pages, YouTube videos, People contacts and more.
+
+Just bring the devices together (typically back to back) and then touch your screen. The app determines what gets beamed."</string>
+    <string name="wifi_quick_toggle_title">WiFi</string>
+    <string name="wifi_quick_toggle_summary">Turn on WiFi</string>
+    <string name="wifi_settings">WiFi</string>
+    <string name="wifi_settings_category">WiFi settings</string>
+    <string name="wifi_settings_title">WiFi</string>
+    <string name="wifi_starting">"Turning on WiFi "</string>
+    <string name="wifi_stopping">Turning off WiFi</string>
+    <string name="wifi_in_airplane_mode">In Aeroplane mode</string>
+    <string name="wifi_enable_watchdog_service_summary">"Don't use a WiFi network unless it has a good Internet connection"</string>
+    <string name="wifi_setting_sleep_policy_title">Keep WiFi on during sleep</string>
+    <string name="wifi_access_points">WiFi networks</string>
+    <string name="wifi_empty_list_wifi_off">To see available networks, turn on WiFi.</string>
+    <string name="wifi_show_password">Show password.</string>
+    <string name="wifi_disabled_help">The network was avoided due to poor connection. Turn off this behaviour from the Settings > WiFi screen, Advanced menu item.</string>
+    <string name="wifi_wps_overlap_error">Another WiFi protected session was detected. Try again in a few minutes.</string>
+    <string name="wifi_advanced_titlebar">Advanced WiFi</string>
+    <string name="wifi_setting_frequency_band_title">WiFi frequency band</string>
+    <string name="wifi_p2p_settings_title">WiFi direct</string>
+    <string name="wifi_p2p_wps_setup">WiFi protected setup</string>
+    <string name="wifi_tether_checkbox_text">Portable WiFi hotspot</string>
+    <string name="wifi_tether_failed_subtext">Portable WiFi hotspot error</string>
+    <string name="wifi_tether_configure_ap_text">Configure WiFi hotspot</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s portable WiFi hotspot</string>
+    <string name="volume_media_description">Music, video, games &amp; other media</string>
+    <string name="status_wifi_mac_address">WiFi MAC address</string>
+    <string name="usb_ptp_summary">"Lets you transfer photos using camera software and transfer any files on computers that don't support MTP"</string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+To clear music, pictures and other user data, the "<b>internal storage</b> needs to be erased.</string>
+    <string name="location_neighborhood_level">Let apps use data from sources such as WiFi and mobile networks to determine your approximate location</string>
+    <string name="location_neighborhood_level_wifi">Location determined by WiFi</string>
+    <string name="settings_license_activity_loading">Loading…</string>
+    <string name="settings_safetylegal_activity_loading">Loading…</string>
+    <string name="lock_intro_message">"Protect your phone from unauthorised use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
+
+Ready to start? Touch Next. "</string>
+    <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
+    <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
+    <string name="recompute_size">Recomputing size…</string>
+    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+    <string name="computing_size">Computing…</string>
+    <string name="app_disable_dlg_text">If you disable a built-in app, other apps may misbehave.</string>
+    <string name="service_stop_description">This service was started by its app. Stopping it may cause the app to fail.</string>
+    <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
+    <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
+    <string name="service_manage_description">%1$s: currently in use. Touch Settings to control it.</string>
+    <string name="process_service_in_use_description">Service %1$s is in use.</string>
+    <string name="process_provider_in_use_description">Provider %1$s is in use.</string>
+    <string name="runningservicedetails_stop_dlg_text">If you stop this service, some features of your phone may stop working correctly until you power it off and then on again.</string>
+    <string name="auto_caps">Auto-capitalisation</string>
+    <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
+    <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+    <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger.
+
+This feature is for low-vision users."</string>
+    <string name="accessibility_service_security_warning_title">Use %1$s?</string>
+    <string name="accessibility_service_security_warning_summary">%1$s can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
+    <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
+    <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
+    <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind users and those with poor eyesight. Do you want to install it for free from Android Market?</string>
+    <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
+    <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Turn on?</string>
+    <string name="battery_stats_wifi_running_label">WiFi</string>
+    <string name="wifi_on_time">WiFi on time</string>
+    <string name="bluetooth_on_time">WiFi on time</string>
+    <string name="power_wifi">WiFi</string>
+    <string name="usage_type_wifi_running">WiFi running</string>
+    <string name="battery_action_wifi">WiFi settings</string>
+    <string name="battery_desc_wifi">Battery used by WiFi</string>
+    <string name="battery_sugg_wifi">"Turn off WiFi when not using it or when it isn't available"</string>
+    <string name="recognizer_title">Voice recogniser</string>
+    <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data such as passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
+    <string name="gadget_toggle_wifi">Updating WiFi setting</string>
+    <string name="credentials_reset_warning_plural">Please enter the correct password. Number of attempts left before the credential storage is erased: %1$d</string>
+    <string name="backup_data_summary">Back up app data, WiFi passwords and other settings to Google servers</string>
+    <string name="backup_configure_account_default_summary">No account is currently storing backed-up data</string>
+    <string name="auto_restore_summary">When reinstalling an app, restore backed-up settings and data</string>
+    <string name="backup_erase_dialog_message">Stop backing up your WiFi passwords, bookmarks, other settings and app data, and erase all copies on Google servers?</string>
+    <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
+    <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
+    <string name="wifi_setup_title">WiFi setup</string>
+    <string name="wifi_setup_title_connecting_network">Connecting to WiFi network %s…</string>
+    <string name="wifi_setup_title_connected_network">Connected to WiFi network %s</string>
+    <string name="wifi_setup_status_scanning">Scanning networks…</string>
+    <string name="wifi_setup_status_connecting">Connecting…</string>
+    <string name="wifi_setup_eap_not_supported">"You can't configure an EAP WiFi connection during setup. After setup, you can do that in Settings > Wireless &amp; networks."</string>
+    <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
+    <string name="wifi_setup_description_connected">Touch <b>Next</b>" to continue with setup.
+
+Touch "<b>Back</b> to connect to a different WiFi network.</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>" 
+A Google approach to synchronising data to allow access to your contacts, appointments and more from wherever you are."</string>
+    <string name="header_data_and_synchronization">Data &amp; synchronisation</string>
+    <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts and other data from the phone!</string>
+    <string name="hdcp_checking_dialog_title">Set HDCP checking behaviour</string>
+    <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
+    <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
+    <string name="show_all_anrs_summary">Show App Not Responding dialogue for background apps</string>
+    <string name="data_usage_menu_show_wifi">Show WiFi usage</string>
+    <string name="data_usage_change_cycle">Change cycle…</string>
+    <string name="data_usage_disable_wifi_limit">Set WiFi data limit</string>
+    <string name="data_usage_tab_wifi">WiFi</string>
+    <string name="data_usage_app_restrict_background_summary">Disable background data on mobile data network only. WiFi will be used if available.</string>
+    <string name="data_usage_app_restrict_dialog">"This feature may cause an app that depends on background data to stop working when WiFi isn't available.
+
+You can find more appropriate data usage controls in the settings available within the app."</string>
+    <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WiFi network."</string>
+    <string name="accessibility_tutorial_lesson_2_text_3_more">Good. Keep sliding your fingers up to scroll a bit more.</string>
+</resources>

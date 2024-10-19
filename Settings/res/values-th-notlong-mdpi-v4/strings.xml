@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_question_answer_hint_txt">คำตอบ</string>
+    <string name="master_reset_gesture_explanation">"คุณต้องวาดรูปแบบการปลดล็อค
+ของคุณเพื่อยืนยันการรีเซ็ตโทรศัพท์"</string>
+    <string name="master_reset_cancel">ยกเลิกมาสเตอร์รีเซ็ตแล้ว ไม่ได้เปิดโหมดเครื่องบิน</string>
+    <string name="wifi_connected_limited">การเชื่อมต่อแบบจำกัด</string>
+    <string name="wifi_connected_limited_with_ssid">เชื่อมต่อแล้วกับ %1$s โดยมีการเชื่อมต่อแบบจำกัด</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="sdcard_settings_screen_mass_storage_text">เปิดใช้หน่วยความจำ USB</string>
+    <string name="lockpassword_pin_recently_used">ไม่สามารถเปลี่ยนเป็นรหัส PIN ที่ใช้ล่าสุดได้</string>
+    <string name="lockpassword_password_recently_used">ไม่สามารถเปลี่ยนเป็นรหัสผ่าน ที่ใช้ล่าสุดได้</string>
+    <string name="wifi_notify_open_networks">การแจ้งเตือนเครือข่าย</string>
+    <string name="brightness_summary">สนับสนุนโดย WhiteMagic™</string>
+    <string name="firmware_version">เวอร์ชัน Android</string>
+    <string name="status_network_type">ประเภทเครือข่าย</string>
+    <string name="status_data_state">สถานะเครือข่ายโทรเคลื่อนที่</string>
+    <string name="internal_memory">หน่วยความจำภายใน</string>
+    <string name="assisted_gps_enabled">ใช้เซิร์ฟเวอร์ช่วย GPS (ยกเลิกการเลือกเพื่อลดการใช้เครือข่าย)</string>
+    <string name="lockpassword_confirm_your_password_header">ใส่รหัสผ่านอีกครั้งเพื่อยืนยัน</string>
+    <string name="lockpassword_confirm_your_pin_header">ใส่ PIN อีกครั้งเพื่อยืนยัน</string>
+    <string name="filter_apps_running">ทำงานอยู่</string>
+    <string name="power_cell">Cell standby</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Tel. visszaállít.</string>
+    <string name="master_reset_final_button_text">Beáll. visszaáll.</string>
+    <string name="master_reset_gesture_prompt">Rajzolja meg zárfelold. alakzatát</string>
+    <string name="wifi_reconnect">Újrakapcsolódás</string>
+    <string name="wifi_connected_limited_with_ssid">Korlátozott kapcsolat ezzel: %1$s</string>
+    <string name="cdma_security_settings_summary">Tart. hely, képernyőzár-feloldás, hit.adat-tároló zárolásának beállítása</string>
+    <string name="unlock_set_unlock_pattern_title">Alakzat</string>
+    <string name="lockpassword_pin_recently_used">Nem módosítható a legutóbb használt PIN kódra</string>
+    <string name="lockpassword_password_recently_used">Nem módosítható a legutóbb használt jelszóra</string>
+    <string name="brightness_summary">Technológia: WhiteMagic™</string>
+    <string name="menu_delete">Hozz.p.-név tör.</string>
+    <string name="assisted_gps_enabled">Kiszolgáló használata AGPS-hez (hál. haszn. csökkentése: törölje a jelölést)</string>
+    <string name="assisted_gps_disabled">Kiszolgáló használata AGPS-hez (GPS-teljes. növelése: törölje a jelölést)</string>
+    <string name="lockpassword_confirm_your_password_header">Jelszó újbóli megadása a megerősítéséhez</string>
+    <string name="lockpassword_confirm_your_pin_header">PIN kód újbóli megadása a megerősítéséhez</string>
+    <string name="app_install_location_title">Elsődleges telepítési hely</string>
+    <string name="usage_type_data_send">Küld. adatok</string>
+    <string name="usage_type_data_recv">Fog. adatok</string>
+    <string name="usage_type_on_time">Bekap. időtart.</string>
+    <string name="tts_default_synth_summary">Beállítja a beszélt szöveghez használandó beszédszintézis-motort</string>
+</resources>

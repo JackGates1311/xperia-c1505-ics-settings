@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Installer les certificats WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Gérer le WLAN, Bluetooth, le mode Avion, les réseaux mobiles et les VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Activer le service WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Paramètres WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Activation du WLAN</string>
+    <string name="wifi_stopping">Désactivation du WLAN</string>
+    <string name="wifi_enable_watchdog_service_summary">"Ne pas utiliser de réseau WLAN tant qu'aucune connexion Internet correcte n'est disponible"</string>
+    <string name="wifi_setting_sleep_policy_title">Laisser le service WLAN actif lors de la mise en veille</string>
+    <string name="wifi_access_points">Réseaux WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Pour voir les réseaux disponibles, activez WLAN.</string>
+    <string name="wifi_disabled_help">"La connexion au réseau n'a pas abouti pour cause de mauvaise réception. Désactiver ce comportement dans Paramètres > écran WLAN, menu Avancé."</string>
+    <string name="wifi_wps_overlap_error">Une autre session WLAN protégée a été détectée. Réessayez dans quelques minutes.</string>
+    <string name="wifi_advanced_titlebar">WLAN avancé</string>
+    <string name="wifi_setting_frequency_band_title">Bande de fréquences WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN direct</string>
+    <string name="wifi_p2p_wps_setup">Configuration protégée WLAN</string>
+    <string name="wifi_tether_checkbox_text">"Point d'accès WLAN portable"</string>
+    <string name="wifi_tether_failed_subtext">"Erreur de point d'accès WLAN portable"</string>
+    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès WLAN"</string>
+    <string name="wifi_tether_configure_subtext">"%1$s %2$s point d'accès WLAN portable"</string>
+    <string name="status_wifi_mac_address">Adresse MAC WLAN</string>
+    <string name="location_neighborhood_level">"Permettre aux applications d'utiliser des sources telles que les réseaux WLAN ou de téléphonie mobile pour déterminer votre positionnement approximatif"</string>
+    <string name="location_neighborhood_level_wifi">Positionnement déterminé par WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Durée de connexion WLAN</string>
+    <string name="bluetooth_on_time">Durée de connexion WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">"Temps d'exécution WLAN"</string>
+    <string name="battery_action_wifi">Paramètres WLAN</string>
+    <string name="battery_desc_wifi">Batterie utilisée par le WLAN</string>
+    <string name="battery_sugg_wifi">"Désactiver le WLAN lorsque vous ne l'utilisez pas ou qu'il n'est pas disponible"</string>
+    <string name="gadget_toggle_wifi">Mise à jour des paramètres WLAN</string>
+    <string name="backup_data_summary">Sauvegarder les données, mots de passe WLAN et autres paramètres sur des serveurs Google</string>
+    <string name="backup_erase_dialog_message">"Arrêter la sauvegarde de vos mots de passe WLAN, signets, autres paramètres et données d'applications, puis effacer toutes les copies des serveurs Google ?"</string>
+    <string name="wifi_setup_title">Configuration WLAN</string>
+    <string name="wifi_setup_title_editing_network">Se connecter au réseau WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Connexion au réseau WLAN %s...</string>
+    <string name="wifi_setup_title_connected_network">Connecté au réseau WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">"La connexion WLAN EAP ne peut pas être paramétrée pendant la configuration. Ce paramétrage s'effectue après la configuration, dans Paramètres > Réseaux et sans fil"</string>
+    <string name="wifi_setup_description_connected">Toucher <b>Suivant</b>" pour continuer la configuration.
+
+Toucher "<b>Retour</b> pour se connecter à un autre réseau WLAN.</string>
+    <string name="data_usage_menu_show_wifi">"Afficher l'utilisation du WLAN"</string>
+    <string name="data_usage_disable_wifi_limit">Définir la limite de données WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">"Désactiver les données en arrière-plan sur le réseau de données mobile uniquement. Le réseau WLAN est utilisé lorsqu'il est disponible."</string>
+    <string name="data_usage_app_restrict_dialog">"Cette fonctionnalité peut empêcher le fonctionnement d'une application qui utilise les données en arrière-plan lorsqu'aucun réseau WLAN n'est disponible.
+
+Vous pouvez définir des paramètres de gestion des données plus appropriés dans les paramètres de configuration de votre application. "</string>
+    <string name="data_usage_restrict_background">"Si vous limitez l'utilisation des données sur réseau de téléphonie mobile, certaines applications et services ne fonctionneront que lorsque vous serez connecté à un réseau WLAN."</string>
+</resources>

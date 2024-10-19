@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">WLAN sertifikalarını yükle</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, uçak modu, cep telefonu şebekesi ve VPN özelliklerini yönet</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">"WLAN'yi aç"</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN ayarları</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN açılıyor...</string>
+    <string name="wifi_stopping">WLAN kapatılıyor...</string>
+    <string name="wifi_enable_watchdog_service_summary">İnternet bağlantısı iyi olmadıkça WLAN ağını kullanma</string>
+    <string name="wifi_setting_sleep_policy_title">Uyku modunda WLAN etkin kalsın</string>
+    <string name="wifi_access_points">WLAN ağlar</string>
+    <string name="wifi_empty_list_wifi_off">"Kullanılabilir ağları görmek için WLAN'yi açın."</string>
+    <string name="wifi_disabled_help">Ağ, kötü bağlantı nedeniyle kullanılmadı. Kötü bağlantılı ağı kullanmaktan kaçınma davranışını Ayarlar > WLAN ekranı, Gelişmiş menü öğesinden değiştirebilirsiniz.</string>
+    <string name="wifi_wps_overlap_error">Başka bir WLAN korumalı oturumu saptandı. Birkaç dk sonra tekrar deneyin.</string>
+    <string name="wifi_advanced_titlebar">Gelişmiş WLAN ayarları</string>
+    <string name="wifi_setting_frequency_band_title">WLAN frekans bandı</string>
+    <string name="wifi_p2p_settings_title">WLAN doğrudan bağlantı</string>
+    <string name="wifi_p2p_wps_setup">WLAN korumalı kurulum</string>
+    <string name="wifi_tether_checkbox_text">Taşınabilir WLAN hotspot</string>
+    <string name="wifi_tether_failed_subtext">Taşınabilir WLAN hotspot hatası</string>
+    <string name="wifi_tether_configure_ap_text">WLAN hotspot yapılandır</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s taşınabilir WLAN hotspot</string>
+    <string name="status_wifi_mac_address">WLAN MAC adresi</string>
+    <string name="location_neighborhood_level">Uygulamaların yaklaşık yerimi belirlemek için WLAN ve cep telefonu şebekesi gibi kaynaklardan gelen verileri kullanmasına izin ver</string>
+    <string name="location_neighborhood_level_wifi">Yer, WLAN tarafından belirlendi</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN özelliğinin açık olduğu süre</string>
+    <string name="bluetooth_on_time">WLAN özelliğinin açık olduğu süre</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN çalışıyor</string>
+    <string name="battery_action_wifi">WLAN ayarları</string>
+    <string name="battery_desc_wifi">WLAN tarafından kullanılan pil</string>
+    <string name="battery_sugg_wifi">Kullanmadığınız veya kullanılamadığı zaman WLAN özelliğini kapatın</string>
+    <string name="gadget_toggle_wifi">WLAN ayarları güncelleniyor</string>
+    <string name="backup_data_summary">Uygulama verilerini, WLAN parolalarını ve diğer ayarları Google sunucularında yedekleyin</string>
+    <string name="backup_erase_dialog_message">WLAN parolalarınız, yer işaretleriniz ve diğer ayarlarınız ile uygulama verilerinizin yedeklenmesini durdurmak ve Google sunucularındaki tüm kopyaları silmek istiyor musunuz?</string>
+    <string name="wifi_setup_title">WLAN kurulumu</string>
+    <string name="wifi_setup_title_editing_network">%s WLAN ağına bağlan</string>
+    <string name="wifi_setup_title_connecting_network">%s WLAN ağına bağlanılıyor...</string>
+    <string name="wifi_setup_title_connected_network">Connected %s WLAN ağına bağlanıldı</string>
+    <string name="wifi_setup_eap_not_supported">Kurulum sırasında WLAN EAP bağlantısı yapılandıramazsınız. Kurulumdan sonra Kablosuz ve Ağlar altında Ayarlar bölümünden bunu yapabilirsiniz.</string>
+    <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"'ye dokunun.
+
+Farklı bir WLAN ağına bağlanmak için "<b>Geri</b>"'ye dokunun."</string>
+    <string name="data_usage_menu_show_wifi">WLAN kullanımını göster</string>
+    <string name="data_usage_disable_wifi_limit">WLAN veri sınırını ayarla</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Yalnızca mobil veri ağında arka plan verilerini devre dışı bırak. Varsa, WLAN kullanılır.</string>
+    <string name="data_usage_app_restrict_dialog">"Bu özellik, WLAN kullanılabilir olmadığında, arka plan verilerine dayalı bir uygulamanın çalışmaya son vermesine neden olabilir.
+
+Daha uygun veri kullanım denetimlerini, uygulamanın içinden erişebileceğiniz ayarlarda bulabilirsiniz."</string>
+    <string name="data_usage_restrict_background">Arka plan mobil verilerini sınırlarsanız, WLAN ağına bağlanmadığınız sürece bazı uygulamalar ve servisler çalışmaz.</string>
+</resources>

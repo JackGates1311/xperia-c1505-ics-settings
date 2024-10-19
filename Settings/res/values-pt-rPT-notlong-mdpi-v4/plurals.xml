@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A palavra-passe deve conter pelo menos %d letras</item>
+        <item quantity="one">A palavra-passe deve conter pelo menos 1 letra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A palavra-passe deve conter pelo menos %d minúsculas</item>
+        <item quantity="one">A palavra-passe deve conter pelo menos 1 minúscula</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A palavra-passe deve conter pelo menos %d maiúsculas</item>
+        <item quantity="one">A palavra-passe deve conter pelo menos 1 maiúscula</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A palavra-passe deve conter pelo menos %d dígitos</item>
+        <item quantity="one">A palavra-passe deve conter pelo menos 1 dígito</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A palavra-passe deve conter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A palavra-passe deve conter pelo menos 1 símbolo especial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Pal.-p. deve conter pelo menos %d car. que não sejam letras</item>
+        <item quantity="one">Palavra-p. deve ter pelo menos 1 caráter que não seja uma letra</item>
+    </plurals>
+</resources>

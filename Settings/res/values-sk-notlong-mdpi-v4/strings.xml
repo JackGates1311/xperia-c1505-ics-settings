@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Obn. nast. telef.</string>
+    <string name="master_reset_final_button_text">Ob. nastavenia</string>
+    <string name="master_reset_gesture_prompt">Nakreslite svoj bezpeč. vzor</string>
+    <string name="master_reset_gesture_explanation">Obnov. nast. telef. musíte potvrdiť nakr. bezpeč. vzoru.</string>
+    <string name="wifi_reconnect">Znovu pripojiť</string>
+    <string name="wifi_connected_limited">Obmedzené pripojenie</string>
+    <string name="wifi_connected_limited_with_ssid">Pripoj. k sieti %1$s s obm. prip.</string>
+    <string name="bluetooth_notif_ticker">Požiadavka na párovanie zar. Bluetooth</string>
+    <string name="lockpassword_pin_recently_used">Nie je možné zmeniť na nedávno používaný kód PIN</string>
+    <string name="lockpassword_password_recently_used">Nie je možné zmeniť na nedávno používané heslo</string>
+    <string name="checkbox_notification_same_as_incoming_call">Použiť hlasitosť prichádzajúcich hovorov aj pre oznámenia</string>
+    <string name="brightness_summary">S podp. modulu WhiteMagic™</string>
+    <string name="assisted_gps">Použiť asist. syst. GPS</string>
+    <string name="assisted_gps_disabled">Použ. server na asist. syst. GPS (na zlepš. výkonu GPS odstráňte začiark.)</string>
+    <string name="lockpassword_confirm_your_password_header">Opätovným zadaním heslo potvrďte</string>
+    <string name="lockpassword_confirm_your_pin_header">Opätovným zadaním kód PIN potvrďte</string>
+    <string name="power_cell">Telefón v úspor. režime</string>
+    <string name="usage_type_cpu">Čas použ. proc.</string>
+    <string name="usage_type_cpu_foreground">Proc. v popredí</string>
+    <string name="usage_type_wake_lock">Zost. v nor. rež.</string>
+    <string name="usage_type_data_send">Odosl. údaje</string>
+    <string name="use_default_tts_settings_title">Vždy použiť vlast. nast.</string>
+</resources>

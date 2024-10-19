@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_desc">"Šādi tiks atiestatīti visi tālruņa iestatījumi, tostarp:
+"<li>tālruņa sistēmas iestatījumi,</li>"
+"<li>komplektā iekļauto lietotņu iestatījumi.</li>"
+Netiks dzēsti:
+"<li>lietotāja norādītie iestatījumi,</li>"
+"<li>instalētās lietotnes,</li>"
+"<li>faili iekšējā krātuvē un/vai SD kartē, piemēram, mūzika vai fotoattēli.</li></string>
+    <string name="master_reset_button_text">Atiestatīt tālr.</string>
+    <string name="master_reset_final_button_text">Atiest. iestatīj.</string>
+    <string name="master_reset_gesture_prompt">Uzzīmējiet savu atslēgš. shēmu</string>
+    <string name="master_reset_gesture_explanation">Lai apstipr. tālr. atiestatīš., ir jāuzzīmē sava atslēgš. shēma.</string>
+    <string name="wifi_reconnect">Atjaunot savienojumu</string>
+    <string name="wifi_connected_limited_with_ssid">Savienots ar %1$sar ierobežotu savienojumu</string>
+    <string name="bluetooth_notif_ticker">Bluetooth pārī savienošanas piepras.</string>
+    <string name="sdcard_settings_screen_mass_storage_text">USB lielapj. atm. iespēj.</string>
+    <string name="roaming">Datu viesabonēšana</string>
+    <string name="lockpassword_pin_recently_used">Jaunais PIN kods nedrīkst būt nesen lietots</string>
+    <string name="lockpassword_password_recently_used">Jaunā parole nedrīkst būt nesen lietota</string>
+    <string name="wifi_menu_connect">Savienoties ar tīklu</string>
+    <string name="wifi_forget">Aizm.</string>
+    <string name="brightness_summary">Nodrošina WhiteMagic™</string>
+    <string name="menu_restore">Atiest. uz nokl. vērtību</string>
+    <string name="lockpassword_confirm_your_password_header">Vēlreiz ievadiet paroli, lai apstiprinātu</string>
+    <string name="lockpassword_confirm_your_pin_header">Vēlreiz ievadiet PIN kodu, lai apstiprinātu</string>
+    <string name="power_cell">Mobilā tālr. gaid. režīms</string>
+    <string name="usage_type_data_recv">Saņ. dati</string>
+    <string name="use_default_tts_settings_title">Vienm. liet. manus iest.</string>
+</resources>

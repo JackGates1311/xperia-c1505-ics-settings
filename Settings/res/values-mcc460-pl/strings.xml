@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_wapi_certs">Zainstaluj certyfikaty WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Zarządzaj WLAN, Bluetooth, trybem samolotowym, sieciami komórkowymi i VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Włącz WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Ustawienia WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Włączanie WLAN</string>
+    <string name="wifi_stopping">Wyłączanie WLAN…</string>
+    <string name="wifi_enable_watchdog_service_summary">Nie łącz z WLAN, jeśli połączenie z Internetem jest słabe.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN ma działać podczas uśpienia</string>
+    <string name="wifi_access_points">Sieci WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Aby zobaczyć dostępne sieci, włącz obsługę WLAN.</string>
+    <string name="wifi_disabled_help">Zrezygnowano z sieci z powodu połączenia o niskiej jakości. Możesz wyłączyć tę funkcję w menu Zaawansowane na ekranie Ustawienia > WLAN.</string>
+    <string name="wifi_wps_overlap_error">Wykryto inną chronioną sesję WLAN. Spróbuj ponownie za kilka minut.</string>
+    <string name="wifi_advanced_titlebar">Zaawansowane ustawienia WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Pasmo częstotliwości sieci WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_wps_setup">WLAN Protected Setup</string>
+    <string name="wifi_tether_checkbox_text">Przenośny hotspot WLAN</string>
+    <string name="wifi_tether_failed_subtext">Błąd przenośnego hotspotu WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguruj hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">Przenośny hotspot WLAN %1$s %2$s</string>
+    <string name="status_wifi_mac_address">Adres MAC WLAN</string>
+    <string name="location_neighborhood_level">Zezwalaj aplikacjom na używanie danych ze źródeł (takich jak np. sieci WLAN i komórkowe) do określania przybliżonej lokalizacji</string>
+    <string name="location_neighborhood_level_wifi">Lokalizacja określana na podstawie sieci WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN na czas</string>
+    <string name="bluetooth_on_time">WLAN na czas</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Czas działania WLAN</string>
+    <string name="battery_action_wifi">Ustawienia WLAN</string>
+    <string name="battery_desc_wifi">Użycie baterii przez WLAN</string>
+    <string name="battery_sugg_wifi">Wyłącz sieć WLAN, gdy nie jest używana lub jest niedostępna</string>
+    <string name="gadget_toggle_wifi">Aktualizowanie ustawienia WLAN</string>
+    <string name="backup_data_summary">Twórz na serwerach Google kopie zapasowe danych aplikacji, haseł do sieci WLAN i innych ustawień</string>
+    <string name="backup_erase_dialog_message">Zatrzymać tworzenie kopii zapasowych haseł do sieci WLAN, zakładek, innych ustawień i danych aplikacji, a także usunąć wszystkie kopie z serwerów Google?</string>
+    <string name="wifi_setup_title">Konfiguracja WLAN</string>
+    <string name="wifi_setup_title_editing_network">Połącz z siecią WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Łączenie z siecią WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Połączono z siecią WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Połączenia WLAN typu EAP nie można skonfigurować podczas instalacji. Po jej zakończeniu możesz to zrobić w sekcji Ustawienia > Sieci zwykłe i bezprzewodowe.</string>
+    <string name="wifi_setup_description_connected">Dotknij pozycji <b>Dalej</b>", aby kontynuować konfigurację.
+
+Dotknij pozycji "<b>Wróć</b>, aby połączyć się z inną siecią WLAN.</string>
+    <string name="data_usage_menu_show_wifi">Pokaż użycie sieci WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Ustaw limit transmisji danych WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_app_restrict_background_summary">Wyłącz transmisję w tle w sieci komórkowej. Nadal używaj WLAN.</string>
+    <string name="data_usage_app_restrict_dialog">"Gdy sieć WLAN jest niedostępna, funkcja ta może spowodować zatrzymanie aplikacji, których działanie zależy od transmisji danych w tle.
+
+Bardziej odpowiednie opcje transmisji danych można znaleźć w ustawieniach określonej aplikacji."</string>
+    <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi nie będą działać, dopóki nie połączysz się z siecią WLAN.</string>
+</resources>

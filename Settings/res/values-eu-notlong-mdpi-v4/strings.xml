@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_final_button_text">Berrezarri ezar.</string>
+    <string name="master_reset_gesture_explanation">Marraztu desblokeatzeko eredua berrezartzea berresteko.</string>
+    <string name="wifi_connected_limited">Konexio mugatua</string>
+    <string name="wifi_connected_limited_with_ssid">%1$s sarerako konexio mugatua</string>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Ezin da aldatu duela gutxi erabilitako PIN koderik</string>
+    <string name="lockpassword_password_recently_used">Ezin da aldatu duela gutxi erabilitako pasahitzik</string>
+    <string name="notification_pulse_title">Jakinarazpen argi keinukaria</string>
+    <string name="brightness_summary">WhiteMagic™ teknologiarekin</string>
+    <string name="call_settings_summary">"Konfiguratu erantzungailua, desbide-
+ratzeak, zain uztea eta deitzaile IDa"</string>
+    <string name="assisted_gps">Lagundutako GPSa</string>
+    <string name="lockpassword_confirm_your_password_header">Sartu berriro pasahitza, berresteko</string>
+    <string name="lockpassword_confirm_your_pin_header">Sartu berriro PINa, berresteko</string>
+    <string name="power_cell">Sare zelular erreserba</string>
+    <string name="usage_type_cpu_foreground">CPU aur. planoa</string>
+    <string name="usage_type_data_send">Bidalitakoak</string>
+    <string name="usage_type_data_recv">Jasotakoak</string>
+    <string name="usage_type_on_time">Denbora aktib.</string>
+    <string name="usage_type_no_coverage">Seinal. gabeko denb.</string>
+</resources>

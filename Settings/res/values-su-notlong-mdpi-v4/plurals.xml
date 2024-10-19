@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d aksara</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 aksara</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Kecap akses sakurang-kurangna boga %d aksara leutik</item>
+        <item quantity="one">Kecap akses sakurang-kurangna boga 1 aksara leutik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Kecap akses ngandung sakurang-kurangna boga %d aksara gede</item>
+        <item quantity="one">Kecap akses sakurang-kurangna boga 1 aksara gede</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Kecap akses sakurang-kurangna boga %d digit angka</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 digit angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Kecap akses sakurang-kurangna boga %d simbol husus</item>
+        <item quantity="one">Kecap akses sakurang-kurangna boga 1 simbol husus</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Kecap akses sakurang-kurangna boga %d karakter salain aksara</item>
+        <item quantity="one">Kecap akses sakurang-kurangna boga 1 karakter salain aksara</item>
+    </plurals>
+</resources>

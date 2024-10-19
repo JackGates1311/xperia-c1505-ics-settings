@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_install_wapi_certs">تثبيت الشهادات من وحدة التخزين الداخلية</string>
+    <string name="master_reset_desc">"سيؤدي ذلك لإعادة تعيين هاتفك، بما في ذلك:
+"<li>إعدادات نظام الهاتف</li>"
+"<li>إعدادات التطبيقات المجمعة</li>"
+لن تقوم بمسح:
+"<li>الإعدادات المحددة للمستخدم</li>"
+"<li>التطبيقات المثبتة</li>"
+"<li>الملفات الموجودة في المخزن الداخلي و/أو بطاقة SD، مثل الموسيقى أو الصور</li></string>
+    <string name="master_reset_button_text">إعادة تعيين هاتف</string>
+    <string name="master_reset_final_button_text">أعد تعيين إعدادات</string>
+    <string name="master_reset_gesture_explanation">يجب عليك رسم نمط إلغاء القفل لتأكيد إعادة تعيين الهاتف.</string>
+    <string name="master_reset_cancel">تم إلغاء إرجاع الإعدادات الأصلية. وضع الطيران ليس قيد التشغيل.</string>
+    <string name="sdcard_settings_screen_mass_storage_text">تمكين م كبير السعة USB</string>
+    <string name="zone_list_menu_sort_alphabetically">فرز أبجدي</string>
+    <string name="lockpassword_pin_recently_used">يتعذر التغيير إلى رمز PIN الذي تم استخدامه مؤخرًا</string>
+    <string name="lockpassword_password_recently_used">لا يمكن التغيير إلى كلمة المرور التي تم استخدامها مؤخرًا</string>
+    <string name="wifi_menu_scan">مسح</string>
+    <string name="brightness_summary">مُشغل بواسطة WhiteMagic™</string>
+    <string name="menu_restore">إعادة تعيين إلى افتراضي</string>
+    <string name="lockpassword_confirm_your_pin_header">أدخل رقم التعريف الشخصي (PIN ) الخاص بك مرة أخرى للتأكيد</string>
+    <string name="usage_type_data_send">بيانات مرسلة</string>
+    <string name="usage_type_data_recv">بيانات مستلمة</string>
+</resources>

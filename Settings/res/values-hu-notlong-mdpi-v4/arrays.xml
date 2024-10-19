@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Ázsia</item>
+        <item>Ausztrália</item>
+        <item>Csendes-óceáni térs.</item>
+        <item>Mind</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Belső eszköztároló</item>
+        <item>Cserélhető SD-kártya</item>
+        <item>A rendszer dönthet</item>
+    </string-array>
+</resources>

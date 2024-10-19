@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="master_reset_button_text">Тел-ды қай орн</string>
+    <string name="master_reset_final_button_text">Қай. орн пар-і</string>
+    <string name="master_reset_gesture_explanation">Тел. қайта орнатуды раст. үшін құлыпты ашу үлгісін салу к-к.</string>
+    <string name="wifi_reconnect">Қайта байланысу</string>
+    <string name="wifi_connected_limited">Шектеулі қосылым</string>
+    <string name="wifi_connected_limited_with_ssid">%1$s желі-е шект. қосылыммен қос-ды</string>
+    <string name="lockpassword_pin_recently_used">Соңғы пайдаланылған PIN кодына өзгерту мүмкін емес</string>
+    <string name="lockpassword_password_recently_used">Соңғы пайдаланылған кілтсөзге өзгерту мүмкін емес</string>
+    <string name="ring_volume_title">Қоңыраудың дыб. деңг.</string>
+    <string name="notification_pulse_title">Еск-пе шамы жып-тайды</string>
+    <string name="accelerometer_title">Экранды авто айна-ру</string>
+    <string name="brightness_summary">WhiteMagic™ әзірлеген</string>
+    <string name="apn_type">Кіру нүктесінің түрі</string>
+    <string name="master_clear_title">Зауыттық дер-н қалп. келт.</string>
+    <string name="assisted_gps">Міндетт-н GPS пайд.</string>
+    <string name="assisted_gps_disabled">GPS міндеттеу үшін серв. пайд.(GPS жұм. жақсарту үшін белгіні алу)</string>
+    <string name="lockpassword_confirm_your_password_header">Растау үшін кілтсөзді енгізіңіз</string>
+    <string name="lockpassword_confirm_your_pin_header">Растау үшін PIN кодты енгізіңіз</string>
+    <string name="lockpattern_retry_button_text">Әрекетті қайт.</string>
+    <string name="filter_apps_running">Қосылуда</string>
+    <string name="auto_replace">Автоматты түрде ауыс-ру</string>
+    <string name="power_cell">Ұялы байл-ғы күту реж-і</string>
+    <string name="usage_type_data_send">Дерек жіб-ді</string>
+    <string name="usage_type_data_recv">Дерек қаб-ы</string>
+    <string name="usage_type_on_time">Қос-н уақыт</string>
+    <string name="tts_settings">Мәтін-сөйлеу парам-лері</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time_12_hour_sample">1:00 PM</string>
+    <string name="lockpassword_pin_recently_used">Não é possível trocar para um PIN usado recentemente</string>
+    <string name="lockpassword_password_recently_used">Não é possível trocar para uma senha usada recentemente</string>
+    <string name="wifi_connect">Conect.</string>
+    <string name="wifi_cancel">Cancel.</string>
+    <string name="audio_record_proc_title">Canc. dos ruídos</string>
+    <string name="dock_settings_title">Configurações de base</string>
+    <string name="dock_not_found_title">Base não encontrado</string>
+    <string name="brightness_summary">" Com o suporte de WhiteMagic™"</string>
+    <string name="lockpassword_confirm_your_password_header">Confirme a sua senha</string>
+    <string name="lockpassword_confirm_your_pin_header">Confirme o seu PIN</string>
+    <string name="lockpattern_retry_button_text">Tentar de novo</string>
+    <string name="app_install_location_title">Local de instal. preferido</string>
+    <string name="usage_type_wake_lock">Perman. ativo</string>
+    <string name="usage_type_data_send">Dados env.</string>
+    <string name="usage_type_data_recv">Dados receb.</string>
+    <string name="usage_type_on_time">Horário ativ.</string>
+    <string name="tts_settings">Config. Conversão texto voz</string>
+    <string name="select_device_admin_msg">Adm. do dispositivo</string>
+</resources>

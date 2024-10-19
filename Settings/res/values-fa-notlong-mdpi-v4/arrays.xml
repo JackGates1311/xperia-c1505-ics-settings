@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>محل ذخیره داخلی دستگاه</item>
+        <item>کارت SD جداشدنی</item>
+        <item>سیستم تصمیم بگیرد</item>
+    </string-array>
+</resources>

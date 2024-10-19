@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d karaktere jo-shkronja</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 karakter jo-shkronjë</item>
+    </plurals>
+</resources>

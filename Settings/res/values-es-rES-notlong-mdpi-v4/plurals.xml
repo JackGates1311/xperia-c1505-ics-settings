@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contras. debe tener al menos %d caracteres no alfabéticos.</item>
+        <item quantity="one">La contraseña debe contener al menos 1 cáracter no alfabético.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Ázia</item>
+        <item>Austrália</item>
+        <item>Tichý oceán</item>
+        <item>Všetky oblasti</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Inter. uklad. pries. zariad.</item>
+        <item>Vymeniteľná karta SD</item>
+        <item>Nech rozhod. systém</item>
+    </string-array>
+</resources>
