@@ -66,7 +66,7 @@
     .line 51
     invoke-direct {p0}, Landroid/app/ListFragment;-><init>()V
 
-    .line 312
+    .line 315
     return-void
 .end method
 
@@ -149,7 +149,7 @@
     :array_0
     .array-data 4
         0x1020014
-        0x7f090163
+        0x7f090163 #0x7f09016a
     .end array-data
 .end method
 
@@ -244,7 +244,7 @@
     .param p1, "word"    # Ljava/lang/String;
 
     .prologue
-    .line 308
+    .line 311
     invoke-virtual {p0}, Lcom/android/settings/UserDictionarySettings;->getActivity()Landroid/app/Activity;
 
     move-result-object v0
@@ -267,7 +267,7 @@
 
     invoke-virtual {v0, v1, v2, v3}, Landroid/content/ContentResolver;->delete(Landroid/net/Uri;Ljava/lang/String;[Ljava/lang/String;)I
 
-    .line 310
+    .line 313
     return-void
 .end method
 
@@ -322,13 +322,13 @@
 .end method
 
 .method private onAddOrEditFinished(Ljava/lang/String;)V
-    .locals 6
+    .locals 5
     .param p1, "word"    # Ljava/lang/String;
 
     .prologue
-    const/16 v5, 0xfa
+    const/16 v4, 0xfa
 
-    const/4 v4, 0x1
+    const/4 v3, 0x1
 
     .line 275
     iget-object v1, p0, Lcom/android/settings/UserDictionarySettings;->mDialogEditingWord:Ljava/lang/String;
@@ -349,18 +349,14 @@
 
     if-nez v1, :cond_1
 
-    .line 286
-    invoke-virtual {p0}, Lcom/android/settings/UserDictionarySettings;->getActivity()Landroid/app/Activity;
+    .line 287
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
-    invoke-virtual {p1}, Ljava/lang/String;->toString()Ljava/lang/String;
+    invoke-static {v1, p1, v4, v3}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
 
-    move-result-object v2
-
-    invoke-static {v1, v2, v5, v4}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
-
-    .line 301
+    .line 304
     :goto_0
     iget-object v1, p0, Lcom/android/settings/UserDictionarySettings;->mCursor:Landroid/database/Cursor;
 
@@ -374,7 +370,7 @@
 
     if-nez v1, :cond_3
 
-    .line 302
+    .line 305
     new-instance v1, Ljava/lang/IllegalStateException;
 
     const-string v2, "can\'t requery on already-closed cursor."
@@ -383,7 +379,7 @@
 
     throw v1
 
-    .line 288
+    .line 289
     :cond_1
     const-string v1, ""
 
@@ -395,28 +391,24 @@
 
     if-eqz v1, :cond_2
 
-    .line 290
-    invoke-virtual {p0}, Lcom/android/settings/UserDictionarySettings;->getActivity()Landroid/app/Activity;
+    .line 292
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
-    invoke-virtual {p1}, Ljava/lang/String;->toString()Ljava/lang/String;
+    const/4 v2, 0x0
 
-    move-result-object v2
-
-    const/4 v3, 0x0
-
-    invoke-static {v1, v2, v5, v3}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
+    invoke-static {v1, p1, v4, v2}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
 
     goto :goto_0
 
-    .line 295
+    .line 297
     :cond_2
     invoke-static {}, Ljava/util/Locale;->getDefault()Ljava/util/Locale;
 
     move-result-object v0
 
-    .line 296
+    .line 298
     .local v0, "prevLocale":Ljava/util/Locale;
     iget-object v1, p0, Lcom/android/settings/UserDictionarySettings;->mLocale:Ljava/lang/String;
 
@@ -426,28 +418,24 @@
 
     invoke-static {v1}, Ljava/util/Locale;->setDefault(Ljava/util/Locale;)V
 
-    .line 297
-    invoke-virtual {p0}, Lcom/android/settings/UserDictionarySettings;->getActivity()Landroid/app/Activity;
+    .line 300
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
-    invoke-virtual {p1}, Ljava/lang/String;->toString()Ljava/lang/String;
+    invoke-static {v1, p1, v4, v3}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
 
-    move-result-object v2
-
-    invoke-static {v1, v2, v5, v4}, Landroid/provider/UserDictionary$Words;->addWord(Landroid/content/Context;Ljava/lang/String;II)V
-
-    .line 299
+    .line 302
     invoke-static {v0}, Ljava/util/Locale;->setDefault(Ljava/util/Locale;)V
 
     goto :goto_0
 
-    .line 304
+    .line 307
     .end local v0    # "prevLocale":Ljava/util/Locale;
     :cond_3
-    iput-boolean v4, p0, Lcom/android/settings/UserDictionarySettings;->mAddedWordAlready:Z
+    iput-boolean v3, p0, Lcom/android/settings/UserDictionarySettings;->mAddedWordAlready:Z
 
-    .line 305
+    .line 308
     return-void
 .end method
 
@@ -591,7 +579,7 @@
 
     .line 129
     .local v1, "emptyView":Landroid/widget/TextView;
-    const v7, 0x7f0704aa
+    const v7, 0x7f0704aa # 0x7f0704b7
 
     invoke-virtual {v1, v7}, Landroid/widget/TextView;->setText(I)V
 
@@ -698,7 +686,7 @@
 
     .prologue
     .line 95
-    invoke-super {p0, p1}, Landroid/app/ListFragment;->onCreate(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Landroid/app/Fragment;->onCreate(Landroid/os/Bundle;)V
 
     .line 96
     return-void
@@ -766,7 +754,7 @@
 
     if-eqz v6, :cond_0
 
-    const v6, 0x7f0704a7
+    const v6, 0x7f0704a7 #0x7f0704b4
 
     :goto_0
     invoke-virtual {v3, v6}, Landroid/app/AlertDialog$Builder;->setTitle(I)Landroid/app/AlertDialog$Builder;
@@ -817,7 +805,7 @@
     .line 246
     .end local v2    # "dialog":Landroid/app/AlertDialog;
     :cond_0
-    const v6, 0x7f0704a6
+    const v6, 0x7f0704a6 # 0x7f0704b3
 
     goto :goto_0
 .end method
@@ -833,7 +821,7 @@
     .line 206
     const/4 v1, 0x1
 
-    const v2, 0x7f0704a5
+    const v2, 0x7f0704a5 #0x7f0704b2
 
     invoke-interface {p1, v3, v1, v3, v2}, Landroid/view/Menu;->add(IIII)Landroid/view/MenuItem;
 
@@ -863,7 +851,7 @@
 
     .prologue
     .line 101
-    const v0, 0x109007d
+    const v0, 0x109007f
 
     const/4 v1, 0x0
 

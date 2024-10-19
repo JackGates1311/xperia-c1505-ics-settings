@@ -141,7 +141,7 @@
 
     .prologue
     .line 71
-    invoke-virtual {p0}, Lcom/android/settings/inputmethod/UserDictionaryList;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v0
 
@@ -154,15 +154,18 @@
 
     move-result-object v3
 
-    .line 75
+    .line 76
     .local v3, "localeList":Ljava/util/Set;, "Ljava/util/Set<Ljava/lang/String;>;"
+    if-eqz v3, :cond_0
+
+    .line 77
     invoke-interface {v3}, Ljava/util/Set;->isEmpty()Z
 
     move-result v4
 
     if-eqz v4, :cond_1
 
-    .line 76
+    .line 78
     const/4 v4, 0x0
 
     invoke-virtual {p0, v4, v0}, Lcom/android/settings/inputmethod/UserDictionaryList;->createUserDictionaryPreference(Ljava/lang/String;Landroid/app/Activity;)Landroid/preference/Preference;
@@ -171,11 +174,11 @@
 
     invoke-virtual {p1, v4}, Landroid/preference/PreferenceGroup;->addPreference(Landroid/preference/Preference;)Z
 
-    .line 82
+    .line 85
     :cond_0
     return-void
 
-    .line 78
+    .line 80
     :cond_1
     invoke-interface {v3}, Ljava/util/Set;->iterator()Ljava/util/Iterator;
 
@@ -195,7 +198,7 @@
 
     check-cast v2, Ljava/lang/String;
 
-    .line 79
+    .line 81
     .local v2, "locale":Ljava/lang/String;
     invoke-virtual {p0, v2, v0}, Lcom/android/settings/inputmethod/UserDictionaryList;->createUserDictionaryPreference(Ljava/lang/String;Landroid/app/Activity;)Landroid/preference/Preference;
 
@@ -212,16 +215,16 @@
     .param p2, "activity"    # Landroid/app/Activity;
 
     .prologue
-    .line 90
+    .line 93
     new-instance v1, Landroid/preference/Preference;
 
-    invoke-virtual {p0}, Lcom/android/settings/inputmethod/UserDictionaryList;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v2
 
     invoke-direct {v1, v2}, Landroid/preference/Preference;-><init>(Landroid/content/Context;)V
 
-    .line 91
+    .line 94
     .local v1, "newPref":Landroid/preference/Preference;
     new-instance v0, Landroid/content/Intent;
 
@@ -229,11 +232,11 @@
 
     invoke-direct {v0, v2}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
 
-    .line 92
+    .line 95
     .local v0, "intent":Landroid/content/Intent;
     if-nez p1, :cond_0
 
-    .line 93
+    .line 96
     invoke-static {}, Ljava/util/Locale;->getDefault()Ljava/util/Locale;
 
     move-result-object v2
@@ -244,14 +247,14 @@
 
     invoke-virtual {v1, v2}, Landroid/preference/Preference;->setTitle(Ljava/lang/CharSequence;)V
 
-    .line 102
+    .line 105
     :goto_0
     invoke-virtual {v1, v0}, Landroid/preference/Preference;->setIntent(Landroid/content/Intent;)V
 
-    .line 103
+    .line 106
     return-object v1
 
-    .line 95
+    .line 98
     :cond_0
     const-string v2, ""
 
@@ -261,22 +264,22 @@
 
     if-eqz v2, :cond_1
 
-    .line 96
-    const v2, 0x7f0704ab
+    .line 99
+    const v2, 0x7f0704b8
 
-    invoke-virtual {p0, v2}, Lcom/android/settings/inputmethod/UserDictionaryList;->getString(I)Ljava/lang/String;
+    invoke-virtual {p0, v2}, Landroid/app/Fragment;->getString(I)Ljava/lang/String;
 
     move-result-object v2
 
     invoke-virtual {v1, v2}, Landroid/preference/Preference;->setTitle(Ljava/lang/CharSequence;)V
 
-    .line 99
+    .line 102
     :goto_1
     const-string v2, "locale"
 
     invoke-virtual {v0, v2, p1}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
 
-    .line 100
+    .line 103
     invoke-virtual {v1}, Landroid/preference/Preference;->getExtras()Landroid/os/Bundle;
 
     move-result-object v2
@@ -287,7 +290,7 @@
 
     goto :goto_0
 
-    .line 98
+    .line 101
     :cond_1
     invoke-static {p1}, Lcom/android/settings/Utils;->createLocaleFromString(Ljava/lang/String;)Ljava/util/Locale;
 
@@ -308,14 +311,14 @@
 
     .prologue
     .line 42
-    invoke-super {p0, p1}, Lcom/android/settings/SettingsPreferenceFragment;->onCreate(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Landroid/preference/PreferenceFragment;->onCreate(Landroid/os/Bundle;)V
 
     .line 43
-    invoke-virtual {p0}, Lcom/android/settings/inputmethod/UserDictionaryList;->getPreferenceManager()Landroid/preference/PreferenceManager;
+    invoke-virtual {p0}, Landroid/preference/PreferenceFragment;->getPreferenceManager()Landroid/preference/PreferenceManager;
 
     move-result-object v0
 
-    invoke-virtual {p0}, Lcom/android/settings/inputmethod/UserDictionaryList;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
@@ -323,7 +326,7 @@
 
     move-result-object v0
 
-    invoke-virtual {p0, v0}, Lcom/android/settings/inputmethod/UserDictionaryList;->setPreferenceScreen(Landroid/preference/PreferenceScreen;)V
+    invoke-virtual {p0, v0}, Landroid/preference/PreferenceFragment;->setPreferenceScreen(Landroid/preference/PreferenceScreen;)V
 
     .line 44
     return-void
@@ -333,16 +336,16 @@
     .locals 1
 
     .prologue
-    .line 108
-    invoke-super {p0}, Lcom/android/settings/SettingsPreferenceFragment;->onResume()V
+    .line 111
+    invoke-super {p0}, Lcom/sonymobile/settings/preference/util/SomcSettingsPreferenceFragment;->onResume()V
 
-    .line 109
-    invoke-virtual {p0}, Lcom/android/settings/inputmethod/UserDictionaryList;->getPreferenceScreen()Landroid/preference/PreferenceScreen;
+    .line 112
+    invoke-virtual {p0}, Landroid/preference/PreferenceFragment;->getPreferenceScreen()Landroid/preference/PreferenceScreen;
 
     move-result-object v0
 
     invoke-virtual {p0, v0}, Lcom/android/settings/inputmethod/UserDictionaryList;->createUserDictSettings(Landroid/preference/PreferenceGroup;)V
 
-    .line 110
+    .line 113
     return-void
 .end method
