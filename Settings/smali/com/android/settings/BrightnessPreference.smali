@@ -386,7 +386,8 @@
 
 # virtual methods
 .method protected onBindDialogView(Landroid/view/View;)V
-    .locals 4
+    .locals 5  # Increased locals to accommodate the new variable
+
     .param p1, "view"    # Landroid/view/View;
 
     .prologue
@@ -400,6 +401,9 @@
 
     move-result-object v0
 
+    # Check if mSeekBar is null
+    if-eqz v0, :show_dialog
+
     iput-object v0, p0, Lcom/android/settings/BrightnessPreference;->mSeekBar:Landroid/widget/SeekBar;
 
     .line 105
@@ -410,7 +414,7 @@
     rsub-int v2, v2, 0xff
 
     invoke-virtual {v0, v2}, Landroid/widget/SeekBar;->setMax(I)V
-
+    
     .line 106
     invoke-direct {p0, v1}, Lcom/android/settings/BrightnessPreference;->getBrightness(I)I
 
@@ -493,7 +497,32 @@
     invoke-virtual {v0, v1}, Landroid/widget/CheckBox;->setVisibility(I)V
 
     goto :goto_1
+
+    .line 120
+:show_dialog
+    # Create a simple dialog
+    const v0, 0x7f0900cd  # Replace with your dialog layout ID
+
+    # Get the dialog layout view
+    invoke-virtual {p1, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    # Check if dialog view is not null
+    if-eqz v0, :end
+
+    # Assuming you have a method to create and show the dialog
+    const-string v1, "Brightness Settings"
+    const-string v2, "This is a simple brightness dialog."
+
+    # Call your method to show the dialog with title and message
+    invoke-virtual {p0, v1, v2}, Lcom/android/settings/BrightnessPreference;->showDialog(Ljava/lang/String;Ljava/lang/String;)V
+
+:end
+    return-void
 .end method
+
+
 
 .method public onCheckedChanged(Landroid/widget/CompoundButton;Z)V
     .locals 1
