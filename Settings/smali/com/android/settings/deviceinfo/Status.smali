@@ -201,21 +201,17 @@
     return-void
 .end method
 
-.method static synthetic access$200(Lcom/android/settings/deviceinfo/Status;ZLjava/lang/String;ZLjava/lang/String;)Ljava/lang/String;
-    .locals 1
+.method static synthetic access$200(Lcom/android/settings/deviceinfo/Status;Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
     .param p0, "x0"    # Lcom/android/settings/deviceinfo/Status;
-    .param p1, "x1"    # Z
+    .param p1, "x1"    # Ljava/lang/String;
     .param p2, "x2"    # Ljava/lang/String;
-    .param p3, "x3"    # Z
-    .param p4, "x4"    # Ljava/lang/String;
 
     .prologue
-    .line 81
-    invoke-direct {p0, p1, p2, p3, p4}, Lcom/android/settings/deviceinfo/Status;->getNetworkName(ZLjava/lang/String;ZLjava/lang/String;)Ljava/lang/String;
+    .line 86
+    invoke-direct {p0, p1, p2}, Lcom/android/settings/deviceinfo/Status;->setSummaryText(Ljava/lang/String;Ljava/lang/String;)V
 
-    move-result-object v0
-
-    return-object v0
+    return-void
 .end method
 
 .method static synthetic access$300(Lcom/android/settings/deviceinfo/Status;Ljava/lang/String;Ljava/lang/String;)V
