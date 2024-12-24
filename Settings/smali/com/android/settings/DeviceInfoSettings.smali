@@ -782,12 +782,12 @@
 
     invoke-direct {p0, v4, v5}, Lcom/android/settings/DeviceInfoSettings;->setValueSummary(Ljava/lang/String;Ljava/lang/String;)V
 
-    .line 82
-    const-string v4, "baseband_version"
+    #.line 82
+    #const-string v4, "baseband_version"
 
-    sget-object v5, Lcom/android/settings/DeviceInfoSettings;->FIH_BUILD_VER:Ljava/lang/String;
+    #sget-object v5, Lcom/android/settings/DeviceInfoSettings;->FIH_BUILD_VER:Ljava/lang/String;
 
-    invoke-direct {p0, v4, v5}, Lcom/android/settings/DeviceInfoSettings;->setStringSummary(Ljava/lang/String;Ljava/lang/String;)V
+    #invoke-direct {p0, v4, v5}, Lcom/android/settings/DeviceInfoSettings;->setStringSummary(Ljava/lang/String;Ljava/lang/String;)V
 
     .line 83
     const-string v4, "device_model"
