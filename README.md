@@ -2,6 +2,8 @@
 
 This repository contains **decompiled and patched Smali source code** of the **Settings app** used in the Xperia E (C1505), based on the **Sony Xperia Tipo (ST21i) Android 4.0.4 firmware**. This project simplifies patching and modifying the Settings app for Xperia C1505, leveraging the cleaner structure from the Xperia Tipo’s ICS firmware.
 
+This project also includes patched **build.prop** file and it is stored into **Buildprop** directory.
+
 ---
 
 ## 📌 Purpose
