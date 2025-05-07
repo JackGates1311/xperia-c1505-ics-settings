@@ -153,3 +153,11 @@ Once the APK is installed, check the device to ensure that the changes are appli
 ## 📝 Conclusion
 
 Using Apktool and Smali/Baksmali, you can decompile, modify, and rebuild the Settings app for the Xperia E (C1505) based on the Xperia Tipo’s Android 4.0.4 firmware. This process allows for easy patching and tweaking of core system apps.
+
+## ⚠️ Disclaimer
+
+- This code is intended **only for educational use or for legacy ROM development**.
+
+- Be sure to backup your **Settings** and ensure compatibility with your current build.
+
+- Using a mismatched **framework-res.apk** or **SystemUI.apk** may cause **Settings** crashes or bootloops.
